@@ -10,5 +10,5 @@ test 2
 
 
 [ ] Super!   
-[X] Bien   
+[x] Bien   
 [ ] Bof   
