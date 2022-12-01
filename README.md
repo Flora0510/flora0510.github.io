@@ -8,3 +8,7 @@ test 1
 ### Titre 2
 test 2
 
+
+[] Super!
+[] Bien
+[] Bof
