@@ -9,6 +9,6 @@ test 1
 test 2
 
 
-[ ] Super!   
-[x] Bien   
-[ ] Bof   
+- [ ] Super!   
+- [x] Bien   
+- [ ] Bof   
