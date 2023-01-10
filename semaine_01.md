@@ -13,14 +13,16 @@
 *Crée une liste à numéro s'il y en a plusieurs, afin de pouvoir se référer au projet par son numéro plus loin dans ton journal de bord. À chaque semaine, essaye de toujours utiliser le même numéro par projet.*
 
 ### Faits saillants de la semaine
+*Nomme les faits saillants de ta semaine*
 
 ### Tâches accomplies
 *Liste tes tâches en fonction du projet, en commençant la ligne de la liste par le numéro du projet.*
 
 ### Logiciels utilisés
+*Quels sont les logiciels que tu as utilisés* 
 
 ### Expérimentations réalisées / nouvelles choses apprises
-*méthode de travail, tâche, fonction d'un logiciel, équipement…* 
+*Méthode de travail, tâche, fonction d'un logiciel, équipement…* 
 
 ### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine
 - [ ] Complètement
