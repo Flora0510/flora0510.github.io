@@ -40,52 +40,109 @@
 
 #### Si non, expliquez les différences
 
-### Les objectifs à atteindre sont: 
+### Les objectifs à atteindre sont
 - [ ] Très clairement définis
 - [ ] Assez bien définis
 - [ ] Quelques peu définis
 - [ ] Plutôt vagues
 
-### Votre contribution à l'entreprise d'accueil sera: 
+### Votre contribution à l'entreprise d'accueil sera 
 - [ ] Très utile
 - [ ] Utile
 - [ ] Plus ou moins utile
 - [ ] Pas utile
 
-### Je bénéficie d'une supervision suffisante de la part de mon maître de stage en entreprise:
+### Je bénéficie d'une supervision suffisante de la part de mon maître de stage en entreprise
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-### Je dispose d'un espace de travail adéquat: 
+### Je dispose d'un espace de travail adéquat
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-### Je dispose d'outils de travail adéquats: 
+### Je dispose d'outils de travail adéquats
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-### Je me sens bien intégré-e au personnel du service ou département où j'effectue mon stage: 
+### Je me sens bien intégré-e au personnel du service ou département où j'effectue mon stage
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-### Je suis satisfait de mon stage jusqu'à maintenant:
+### Je suis satisfait de mon stage jusqu'à maintenant
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-### Commentez pourquoi vous êtes satisfaits ou non: 
+### Commentez pourquoi vous êtes satisfaits ou non:
 
+***
 
+## Mandat à réaliser
+### Je comprends l'entreprise dans laquelle j'effectue mon stage, les produits et services qu'elle offre ainsi que mon rôle dans cette dernière
+- [ ] Oui
+- [ ] Non
 
+### Je comprends les besoins de l'employeur
+- [ ] Oui
+- [ ] Non
+
+### Le mandat à réaliser (projet, public visé, échéances, contenu à réaliser) est
+- [ ] Parfaitement clair
+- [ ] Assez clair
+- [ ] Peu clair
+- [ ] Pas clair du tout
+
+### Le projet à réaliser me semble réaliste en lien avec mon expérience et mes compétences
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### Décrire pourquoi vous avez fait ce choix
+
+*** 
+
+## Gestion du temps
+### J'évalue, planifie et organise mon travail
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+#### De quelle façon? Quelles sont tes techniques pour évaluer, planifier et organiser ton travail?
+
+***
+
+## Capacité d'adaptation
+### En général je m'adapte bien à la culture de l'entreprise
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### Si non, qu'allez-vous faire pour remédier à la situation? 
+
+*** 
+
+## Travail d'équipe et relations interpersonnelles
+### J'ai développé une relation interpersonnelle avec une ou un collègue de travail cette semaine
+- [ ] Oui
+- [ ] Non 
+
+### J'établis facilement des contacts avec les gens de l'entreprise
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
 
 
 
