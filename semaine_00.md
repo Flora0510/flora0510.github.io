@@ -1,7 +1,5 @@
 # Semaine 0
 - [ ] Écrire à l'employeur pour vérifier les heures et l'emplacement de ta première journée de travail. 
-- [ ] Informations pertinentes sur ton stage
-- [ ] Diagnostic préparatoire
 
 ***
 
