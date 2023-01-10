@@ -41,4 +41,4 @@ En ciblant des éléments de la grille d'évaluation globale, explique quelles s
 ### Commentaires ou questionnements
 As-tu des questions concernant ton stage? 
 
-[Retour aux semaines](readME.md) 
+[Retour aux semaines](README.md) 
