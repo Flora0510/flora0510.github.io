@@ -1,7 +1,6 @@
 # Mon journal de stage
 
-Ceci est mon test de site internet. 
-
+## [Semaine 0](semaine_00.md) 
 ## [Semaine 1](semaine_01.md) 
 test 1
 
