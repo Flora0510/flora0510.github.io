@@ -29,3 +29,63 @@
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
+
+
+*** 
+
+## Dynamique du stage
+### Mon stage se déroule conformément au mandat initial qui avait été décrit lorsque j'ai trouvé mon stage à l'automne
+- [ ] Oui
+- [ ] Non 
+
+#### Si non, expliquez les différences
+
+### Les objectifs à atteindre sont: 
+- [ ] Très clairement définis
+- [ ] Assez bien définis
+- [ ] Quelques peu définis
+- [ ] Plutôt vagues
+
+### Votre contribution à l'entreprise d'accueil sera: 
+- [ ] Très utile
+- [ ] Utile
+- [ ] Plus ou moins utile
+- [ ] Pas utile
+
+### Je bénéficie d'une supervision suffisante de la part de mon maître de stage en entreprise:
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+### Je dispose d'un espace de travail adéquat: 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+### Je dispose d'outils de travail adéquats: 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+### Je me sens bien intégré-e au personnel du service ou département où j'effectue mon stage: 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+### Je suis satisfait de mon stage jusqu'à maintenant:
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+
+### Commentez pourquoi vous êtes satisfaits ou non: 
+
+
+
+
+
+
