@@ -1,8 +1,2 @@
 # Semaine 1
-
-***
-
-
-***
-
-## Le(s) mandat(s) à réaliser
+- [] Remplir [la section a](a_milieu_de_stage.md)
