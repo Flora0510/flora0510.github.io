@@ -9,7 +9,7 @@ test 1
 test 2
 
 
-- [ ] Super!   
+[ ] Super!   
 - [x] Bien   
 - [ ] Bof   
 
