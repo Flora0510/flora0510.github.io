@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Journal de bord stage
 description: Ceci est mon journal de bord de stage
-language:
-- fr
+locale: "fr-CA"
