@@ -71,7 +71,7 @@ a:hover { text-decoration: underline; }
 
 .site-header .logo img {
   display: block;
-  height: 40px;
+  height: 55px;
   width: auto;
 }
 
@@ -172,7 +172,7 @@ section.alt { background: var(--color-bg-panel); }
 }
 
 .feature-card:nth-child(2) { border-top-color: var(--color-coral); }
-.feature-card:nth-child(3) { border-top-color: var(--color-navy); }
+.feature-card:nth-child(3) { border-top-color: var(--color-coral); }
 
 /* ---------- Book shelf ---------- */
 .shelf {
