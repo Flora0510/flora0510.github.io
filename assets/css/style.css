@@ -238,7 +238,7 @@ section.alt { background: var(--color-bg-panel); }
 
 .evenement .date {
   font-weight: 700;
-  color: var(--color-navy);
+  color: var(--color-gold);
   display: block;
 }
 
