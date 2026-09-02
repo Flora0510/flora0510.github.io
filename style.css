@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap');
 
 :root {
-  --color-bg: #f4ecd8;
+  --color-bg: #070749;
   --color-bg-panel: #fbf6ea;
-  --color-ink: #22201b;
+  --color-ink: #f4ecd8;
   --color-ink-soft: #4a463d;
   --color-navy: #1d3557;
   --color-navy-deep: #16283f;
