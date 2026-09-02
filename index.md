@@ -4,8 +4,8 @@ title: Accueil
 ---
 <section class="hero">
   <div class="wrap">
-    <h1>Des livres jeunesse à vivre autant qu'à lire</h1>
-    <p>Deux autrices, des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes lecteurs.</p>
+    <h1>Des livres jeunesse à lire et à vivre</h1>
+    <p>Deux autrices, des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!</p>
     <p><a class="btn" href="{{ '/livres/' | relative_url }}">Découvrir les livres</a></p>
   </div>
 </section>
@@ -15,18 +15,18 @@ title: Accueil
     <h2 class="eyebrow-free-heading">Ce qu'on propose</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Des romans d'aventure</h3>
-        <p>Pirates, mystères et énigmes : des séries pensées pour donner envie de tourner la page.</p>
-        <a href="{{ '/livres/' | relative_url }}">Voir les livres →</a>
+        <h3>Bandits des mers</h3>
+        <p>Lora Boisvert et Carolyn Chouinard te proposent une expérience immersive alliant littérature et réalité augmentée. Grâce à l’application Les Éditions AppLit, plonge au cœur de l’intrigue, observe les décors à 360 degrés et résous les énigmes!</p>
+        <a href="{{ '/livres/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="feature-card">
         <h3>Animations scolaires</h3>
-        <p>On visite les écoles et bibliothèques pour partager notre passion pour l'écriture.</p>
+        <p>Carolyn et Lora visitent les écoles et bibliothèques pour partager leur passion pour l'écriture.</p>
         <a href="{{ '/animations/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="feature-card">
         <h3>Parcours littéraire</h3>
-        <p>Une façon ludique d'intégrer les arts numériques et la littérature en classe.</p>
+        <p>Une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque.</p>
         <a href="{{ '/parcours-litteraire/' | relative_url }}">En savoir plus →</a>
       </div>
     </div>
