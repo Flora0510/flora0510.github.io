@@ -10,7 +10,7 @@ permalink: /livres/
   <div class="shelf" style="margin-top: 2rem;">
     {% for livre in site.livres %}
     <a class="book" href="{{ livre.url | relative_url }}">
-      <div class="book-cover">
+      <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
         <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
       </div>
       <h3>{{ livre.title }}</h3>

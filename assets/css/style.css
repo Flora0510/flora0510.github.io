@@ -197,6 +197,10 @@ section.alt { background: var(--color-bg-panel); }
   transition: transform 0.15s ease;
 }
 
+.book-cover.carre {
+  aspect-ratio: 1 / 1;
+}
+
 .book:nth-child(odd) .book-cover { transform: rotate(-1.2deg); }
 .book:nth-child(even) .book-cover { transform: rotate(1.2deg); }
 .book:hover .book-cover { transform: rotate(0deg) translateY(-3px); }
