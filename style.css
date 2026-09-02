@@ -2,14 +2,14 @@
 
 :root {
   --color-bg: #070749;
-  --color-bg-panel: #fbf6ea;
-  --color-ink: #f4ecd8;
-  --color-ink-soft: #4a463d;
-  --color-navy: #1d3557;
-  --color-navy-deep: #16283f;
-  --color-gold: #b8863b;
-  --color-gold-soft: #e4c98a;
-  --color-coral: #c1502e;
+  --color-bg-panel: #070749;
+  --color-ink: #fdfbf7;
+  --color-ink-soft: #fdfbf7;
+  --color-navy: #070749;
+  --color-navy-deep: #070749;
+  --color-gold: #17bcd4;
+  --color-gold-soft: #17bcd4;
+  --color-coral: #17bcd4;
   --border: 2px solid var(--color-ink);
   --radius-cover: 3px;
   --max-width: 1120px;
