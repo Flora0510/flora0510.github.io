@@ -5,7 +5,7 @@ permalink: /livres/
 ---
 <div class="wrap" style="padding: 3rem 0;">
   <h1>Livres disponibles</h1>
-  <p>Voici les livres que vous pouvez vous procurer.</p>
+  <p>Voici nos livres.</p>
 
   <div class="shelf" style="margin-top: 2rem;">
     {% for livre in site.livres %}
