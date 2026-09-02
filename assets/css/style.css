@@ -272,7 +272,7 @@ form.contact textarea {
 
 /* ---------- Footer ---------- */
 .site-footer {
-  background: var(--color-navy-deep);
+  background: var(--color-navy);
   color: #d9dfe6;
   padding: 2.5rem 0;
   margin-top: 3rem;
