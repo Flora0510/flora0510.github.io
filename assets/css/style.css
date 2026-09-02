@@ -299,6 +299,10 @@ form.contact textarea {
 .social-links {
   display: flex;
   gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.social-links + h3 {
   margin-top: 1.5rem;
 }
 
