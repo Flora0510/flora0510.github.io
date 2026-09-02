@@ -1,4 +1,48 @@
-theme: jekyll-theme-minimal
-title: Journal de bord stage
-description: Ceci est mon journal de bord de stage
-locale: "fr-CA"
+title: "Les éditions AppLit"
+description: "Livres jeunesse, animations scolaires et ressources pédagogiques"
+url: "https://tondomaine.com"        # <-- à remplacer par ton domaine
+baseurl: ""
+email: "info@editionsapplit.com"      # <-- à remplacer
+
+# Réseaux sociaux (laisse vide pour masquer un lien dans le footer)
+social:
+  facebook: "https://www.facebook.com/editionsapplit"
+  instagram: "https://www.instagram.com/editionsapplit"
+  tiktok: "https://www.tiktok.com/@loraboisvertauteure"
+
+# Formulaire de contact (voir README.md - section Formspree)
+contact_form_action: "https://formspree.io/f/TON_ID_ICI"
+
+collections:
+  livres:
+    output: true
+    permalink: /livres/:path/
+  evenements:
+    output: false
+  ressources:
+    output: true
+    permalink: /zone-profs/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "livres"
+    values:
+      layout: "livre"
+  - scope:
+      path: ""
+      type: "ressources"
+    values:
+      layout: "ressource"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+markdown: kramdown
+permalink: /:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
