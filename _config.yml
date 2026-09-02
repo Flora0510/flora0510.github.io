@@ -4,6 +4,8 @@ url: "https://tondomaine.com"        # <-- à remplacer par ton domaine
 baseurl: ""
 email: "info@editionsapplit.com"      # <-- à remplacer
 
+logo: "/assets/images/logo-applit.png"
+
 # Réseaux sociaux (laisse vide pour masquer un lien dans le footer)
 social:
   facebook: "https://www.facebook.com/editionsapplit"
