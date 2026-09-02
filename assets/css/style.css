@@ -118,7 +118,7 @@ a:hover { text-decoration: underline; }
 
 /* ---------- Hero ---------- */
 .hero {
-  background: var(--color-navy);
+  background: var(--color-bg);
   color: #fff;
   padding: 3.5rem 0 4.5rem;
   text-align: left;
