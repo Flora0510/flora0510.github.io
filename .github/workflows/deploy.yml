@@ -14,15 +14,15 @@ jobs:
           - nom: commun
             config: _config.yml
             repo_cible: Flora0510/flora0510.github.io     # <-- à remplacer
-            domaine: flora0510.github.io                     # <-- à remplacer
+            domaine: https://flora0510.github.io/                  # <-- à remplacer
           - nom: lora
             config: _config.yml,_config_lora.yml
             repo_cible: Flora0510/depot_Lora        # <-- à remplacer
-            domaine: flora0510.github.io/lora                    # <-- à remplacer
+            domaine: https://flora0510.github.io/site_lora/                    # <-- à remplacer
           - nom: carolyn
             config: _config.yml,_config_carolyn.yml
             repo_cible: Flora0510/depot_Caro      # <-- à remplacer
-            domaine: flora0510.github.io/caro                  # <-- à remplacer
+            domaine: https://flora0510.github.io/site_carolyn/                  # <-- à remplacer
 
     steps:
       - name: Récupérer le dépôt source
