@@ -17,11 +17,11 @@ jobs:
             domaine: flora0510.github.io                     # <-- à remplacer
           - nom: lora
             config: _config.yml,_config_lora.yml
-            repo_cible: Flora0510/flora0510.github.io/depot_Lora        # <-- à remplacer
+            repo_cible: Flora0510/depot_Lora        # <-- à remplacer
             domaine: flora0510.github.io/lora                    # <-- à remplacer
           - nom: carolyn
             config: _config.yml,_config_carolyn.yml
-            repo_cible: Flora0510/flora0510.github.io/depot_Caro      # <-- à remplacer
+            repo_cible: Flora0510/depot_Caro      # <-- à remplacer
             domaine: flora0510.github.io/caro                  # <-- à remplacer
 
     steps:
