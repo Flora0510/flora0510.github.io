@@ -13,7 +13,7 @@ jobs:
         include:
           - nom: commun
             config: _config.yml
-            repo_cible: TON-COMPTE/nom-du-depot-commun     # <-- à remplacer
+            repo_cible: Flora0510/flora0510.github.io     # <-- à remplacer
             domaine: domainecommun.com                     # <-- à remplacer
           - nom: lora
             config: _config.yml,_config_lora.yml
