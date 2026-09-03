@@ -1,13 +1,13 @@
 ---
 title: "4 histoires de Ma jumelle et moi"
+serie: "Ma jumelle et moi"
+tome: "hors-série, édition 4 aventures"
 auteures: [carolyn]
 image: /assets/images/livres/4-histoires-de-ma-jumelle-et-moi.webp
 lien_achat: "https://www.renaud-bray.com/Livres_Produit.aspx?id=2832610&def=4+histoires+de+Ma+jumelle+et+moi%2cCHOUINARD%2c+CAROLYN%2c9782897857615"
 editeur: "Dominique et Compagnie"
-age: "6-8 ans"
-mots_cles: [jumelle]
+age: "Dès 7 ans"
 ---
-Ma jumelle et moi édition 4 aventures | Dès 7 ans
 
 Quatre super histoires de la série Ma jumelle & moi. Lire avec des GRANDS caractères, c'est facile et amusant! 
 
