@@ -8,7 +8,12 @@ permalink: /livres/
   <p>Voici nos livres.</p>
 
   <div class="shelf" style="margin-top: 2rem;">
-    {% for livre in site.livres %}
+    {% if site.filtre_auteure %}
+      {% assign livres_affiches = site.livres | where_exp: "livre", "livre.auteures contains site.filtre_auteure" %}
+      {% else %}
+      {% assign livres_affiches = site.livres %}
+      {% endif %}    
+    {% for livre in livres_affiches %}
     <a class="book" href="{{ livre.url | relative_url }}">
       <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
         <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
