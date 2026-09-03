@@ -25,7 +25,7 @@ Un produit sans tag livreLora ni LivreCaro (mais qui ressemble à un livre)
 est quand même importé, avec un avertissement — vérifie et assigne
 l'autrice manuellement dans ce cas.
 
-UTILISATION
+UTILISATION 
 -----------
     python3 scripts/import_shopify.py chemin/vers/export.csv
 
