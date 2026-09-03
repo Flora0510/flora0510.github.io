@@ -11,10 +11,10 @@ jobs:
     strategy:
       matrix:
         include:
-          - nom: commun
-            config: _config.yml
-            repo_cible: Flora0510/flora0510.github.io/_site     # <-- à remplacer
-            domaine: https://flora0510.github.io/                  # <-- à remplacer
+         # - nom: commun
+          #  config: _config.yml
+           # repo_cible: Flora0510/flora0510.github.io/_site     # <-- à remplacer
+           # domaine: https://flora0510.github.io/                  # <-- à remplacer
           - nom: lora
             config: _config.yml,_config_lora.yml
             repo_cible: Flora0510/site_lora        # <-- à remplacer
