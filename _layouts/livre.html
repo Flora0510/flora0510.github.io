@@ -1,0 +1,66 @@
+---
+layout: default
+---
+{% assign visible = true %}
+{% if site.filtre_auteure != "" and page.auteures %}
+  {% unless page.auteures contains site.filtre_auteure %}
+    {% assign visible = false %}
+  {% endunless %}
+{% endif %}
+
+<article class="wrap" style="padding: 3rem 0;">
+  <p><a href="{{ '/livres/' | relative_url }}">← Retour aux livres</a></p>
+
+  {% unless visible %}
+    <h1>{{ page.title }}</h1>
+    <p>Ce livre est disponible sur notre site commun.</p>
+  {% else %}
+  <div class="livre-detail">
+    <div class="book-cover{% if page.format == 'carre' %} carre{% endif %}">
+      <img src="{{ page.image | relative_url }}" alt="Couverture de {{ page.title }}">
+    </div>
+    <div>
+      <h1>{{ page.title }}</h1>
+      {% if page.serie %}<p style="color: var(--color-navy); font-weight:700;">{{ page.serie }}</p>{% endif %}
+      {% if page.age or page.editeur %}
+        <p style="color: var(--color-ink-soft); font-size: 0.95rem;">
+          {% if page.age %}{{ page.age }}{% endif %}
+          {% if page.age and page.editeur %} · {% endif %}
+          {% if page.editeur %}{{ page.editeur }}{% endif %}
+        </p>
+      {% endif %}
+      <div>{{ content }}</div>
+      {% if page.lien_achat %}
+        <p><a class="btn" href="{{ page.lien_achat }}" target="_blank" rel="noopener">Se procurer ce livre →</a></p>
+      {% endif %}
+      {% if page.fiche_pedagogique %}
+        <p><a href="{{ page.fiche_pedagogique }}" target="_blank" rel="noopener">Télécharger la fiche pédagogique (PDF)</a></p>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if page.serie %}
+    {% assign meme_collection = site.livres | where: "serie", page.serie %}
+    {% if site.filtre_auteure != "" %}
+      {% assign meme_collection = meme_collection | where_exp: "l", "l.auteures contains site.filtre_auteure" %}
+    {% endif %}
+    {% if meme_collection.size > 1 %}
+      <div style="margin-top: 3.5rem;">
+        <h2>Aussi dans {{ page.serie }}</h2>
+        <div class="shelf">
+          {% for autre in meme_collection %}
+            {% unless autre.url == page.url %}
+            <a class="book" href="{{ autre.url | relative_url }}">
+              <div class="book-cover{% if autre.format == 'carre' %} carre{% endif %}">
+                <img src="{{ autre.image | relative_url }}" alt="Couverture de {{ autre.title }}">
+              </div>
+              <h3>{{ autre.title }}</h3>
+            </a>
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+  {% endif %}
+  {% endunless %}
+</article>

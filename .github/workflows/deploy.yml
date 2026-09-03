@@ -1,0 +1,49 @@
+name: Construire et publier les 3 sites
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - nom: commun
+            config: _config.yml
+            repo_cible: Flora0510/flora0510.github.io     # <-- à remplacer
+            domaine: https://flora0510.github.io/                  # <-- à remplacer
+          - nom: lora
+            config: _config.yml,_config_lora.yml
+            repo_cible: Flora0510/depot_Lora        # <-- à remplacer
+            domaine: https://flora0510.github.io/site_lora/                    # <-- à remplacer
+          - nom: carolyn
+            config: _config.yml,_config_carolyn.yml
+            repo_cible: Flora0510/depot_Caro      # <-- à remplacer
+            domaine: https://flora0510.github.io/site_carolyn/                  # <-- à remplacer
+
+    steps:
+      - name: Récupérer le dépôt source
+        uses: actions/checkout@v4
+
+      - name: Installer Ruby et Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Construire le site (${{ matrix.nom }})
+        run: bundle exec jekyll build --config ${{ matrix.config }} --destination _site_${{ matrix.nom }}
+
+      - name: Publier sur le dépôt du site ${{ matrix.nom }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: ${{ matrix.repo_cible }}
+          publish_branch: main
+          publish_dir: ./_site_${{ matrix.nom }}
+          cname: ${{ matrix.domaine }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
