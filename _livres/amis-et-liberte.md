@@ -1,7 +1,11 @@
 ---
 title: "Amis et liberté!"
+auteures: [carolyn]
 image: /assets/images/livres/amis-et-liberte.png
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-t-carolyn-chouinard-9782898241994.html"
+editeur: "Auzou"
+age: "9-12 ans"
+mots_cles: [licorne]
 ---
 Carnet secret d'une licorne Tome 3 | Dès 8 ans
 

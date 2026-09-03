@@ -1,7 +1,10 @@
 ---
 title: "Le fantôme du fleuve"
+auteures: [carolyn]
 image: /assets/images/livres/le-bunker-de-la-peur-copie.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-fantome-du-fleuve-9782898248030"
+editeur: "Éditions Auzou"
+age: "9-12 ans"
 ---
 Collection Panik | Dès 9 ans
 

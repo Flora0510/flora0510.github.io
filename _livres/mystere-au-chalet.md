@@ -1,7 +1,12 @@
 ---
 title: "Mystère au chalet"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/mystere-au-chalet.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [jumeau]
 ---
 Mon jumeau et moi Tome 1 | Dès 7 ans
 

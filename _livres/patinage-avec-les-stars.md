@@ -1,7 +1,11 @@
 ---
 title: "Patinage avec les stars!"
+auteures: [lora]
 image: /assets/images/livres/patinage-avec-les-stars.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/patinage-avec-les-stars-lora-boisvert-9782898243196.html"
+editeur: "Auzou"
+age: "6-8 ans"
+mots_cles: [patin]
 ---
 Reine de la glace Tome 3 | Dès 8 ans
 

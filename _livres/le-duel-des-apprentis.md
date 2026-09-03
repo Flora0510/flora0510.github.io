@@ -1,7 +1,11 @@
 ---
 title: "Le duel des apprentis"
+auteures: [carolyn]
 image: /assets/images/livres/le-duel-des-apprentis.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-t-2-carolyn-chouinard-9782890749368.html"
+editeur: "Éditions De Mortagne"
+age: "9-12 ans"
+mots_cles: [eloan]
 ---
 Le cercle d'Éloan Tome 2 | Dès 10 ans
 

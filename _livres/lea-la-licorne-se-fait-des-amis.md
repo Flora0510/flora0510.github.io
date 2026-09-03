@@ -1,7 +1,11 @@
 ---
 title: "Léa la licorne se fait des amis"
+auteures: [carolyn]
 image: /assets/images/livres/lea-la-licorne-se-fait-des-amis.png
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/lea-la-licorne-se-fait-des-carolyn-chouinard-9782898246241.html"
+editeur: "Auzou"
+age: "0-5 ans"
+mots_cles: [fée]
 ---
 Collection Mes grands albums | Dès 3 ans
 

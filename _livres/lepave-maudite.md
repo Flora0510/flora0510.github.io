@@ -1,7 +1,12 @@
 ---
 title: "L'épave maudite"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn, lora]
 image: /assets/images/livres/lepave-maudite.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-3-l-epave-carolyn-chouinard-9782897395452.html"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [nice]
 ---
 So Nice! Tome 3 | Dès 10 ans
 

@@ -1,7 +1,11 @@
 ---
 title: "La légende oubliée"
+auteures: [carolyn]
 image: /assets/images/livres/la-legende-oubliee.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-la-legende-carolyn-chouinard-9782890749351.html"
+editeur: "Éditions De Mortagne"
+age: "9-12 ans"
+mots_cles: [eloan]
 ---
 Le cercle d'Éloan Tome 1 | Dès 10 ans
 

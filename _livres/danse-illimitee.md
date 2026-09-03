@@ -1,7 +1,12 @@
 ---
 title: "Danse illimitée"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/danse-illimitee.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-2-danse-carolyn-chouinard-9782897810665.html"
+editeur: "Hurtubise"
+age: "9-12 ans"
+mots_cles: [Rythme]
 ---
 Sur le rythme Tome 2 | Dès 10 ans
 

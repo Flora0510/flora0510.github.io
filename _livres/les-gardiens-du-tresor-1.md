@@ -1,7 +1,12 @@
 ---
 title: "Les gardiens du trésor 1"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/les-gardiens-du-tresor-1.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/les-gardiens-du-tresor-t-1-carolyn-chouinard-9782897812270.html"
+editeur: "Hurtubise"
+age: "9-12 ans"
+mots_cles: [gardiens]
 ---
 Tome 1 | Dès 10 ans
 

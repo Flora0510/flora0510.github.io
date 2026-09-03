@@ -1,7 +1,12 @@
 ---
 title: "L'école de la côte"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn, lora]
 image: /assets/images/livres/lecole-de-la-cote.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-5-l-ecole-carolyn-chouinard-9782897851958.html"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [nice]
 ---
 So Nice! Tome 5 | Dès 10 ans
 

@@ -1,7 +1,12 @@
 ---
 title: "Les gardiens du trésor 2"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/les-gardiens-du-tresor-2.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/les-gardiens-du-tresor-t-2-carolyn-chouinard-9782897812829.html"
+editeur: "Hurtubise"
+age: "9-12 ans"
+mots_cles: [gardiens]
 ---
 Tome 2 | Dès 10 ans
 

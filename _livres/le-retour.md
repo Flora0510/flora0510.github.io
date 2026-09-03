@@ -1,7 +1,11 @@
 ---
 title: "Le retour"
+auteures: [carolyn]
 image: /assets/images/livres/le-retour.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-t-2-le-carolyn-chouinard-9782897099299.html"
+editeur: "Éditions Boomerang"
+age: "9-12 ans"
+fiche_pedagogique: "https://boomerangjeunesse.com/wp-content/uploads/2024/06/BM_Fiche-pedagogique_Slalom_Autre-monde-le-retour_V2.pdf"
 ---
 Collection L'Autre Monde Tome 2 | Dès 9 ans
 

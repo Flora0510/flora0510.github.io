@@ -1,7 +1,11 @@
 ---
 title: "Le défi du roi"
+auteures: [carolyn]
 image: /assets/images/livres/le-defi-du-roi.png
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-le-defi-carolyn-chouinard-9782898242069.html"
+editeur: "Auzou"
+age: "9-12 ans"
+mots_cles: [dragon]
 ---
 L'espion des dragons Tome 3 | Dès 8 ans
 

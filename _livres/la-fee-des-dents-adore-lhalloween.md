@@ -1,7 +1,11 @@
 ---
 title: "La fée des dents adore l'halloween !"
+auteures: [carolyn]
 image: /assets/images/livres/la-fee-des-dents-adore-lhalloween.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/la-fee-des-dents-adore-l-carolyn-chouinard-9782898245527.html"
+editeur: "Auzou"
+age: "0-5 ans"
+mots_cles: [fée]
 ---
 Collection Mes grands albums | Dès 3 ans
 

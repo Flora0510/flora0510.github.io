@@ -1,7 +1,12 @@
 ---
 title: "Jeu d'évasion ou complot?"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/jeu-devasion-ou-complot.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/jeu-d-evasion-ou-complot-carolyn-chouinard-9782897095116.html"
+editeur: "Éditions Boomerang"
+age: "9-12 ans"
+mots_cles: [jeu]
 ---
 Collection Slalom | Dès 9 ans
 

@@ -1,7 +1,13 @@
 ---
 title: "Pas le choix d'aller au camp d'été..."
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/pas-le-choix-daller-au-camp-dete.webp
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-journal-de-gabry-aile-pas-carolyn-chouinard-9782898240010.html"
+editeur: "Auzou"
+age: "9-12 ans"
+fiche_pedagogique: "https://auzou.ca/pedago/9782898240010_1_20240123164156.pdf"
+mots_cles: [gab, pedago]
 ---
 Le journal de Gabry-Aile Tome 1 | Dès 9 ans
 

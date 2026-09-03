@@ -1,0 +1,12 @@
+# Surcharge de _config.yml pour le site personnel de Carolyn.
+# Utilisé avec : bundle exec jekyll build --config _config.yml,_config_carolyn.yml
+#
+# Renomme ce fichier / son contenu selon le vrai nom de l'autrice.
+
+title: "Carolyn Chouinard, autrice"
+url: "https://domaine-de-carolyn.com"  # <-- à remplacer par son vrai domaine
+email: "carolyn@example.com"           # <-- à remplacer
+
+filtre_auteure: "carolyn"              # doit correspondre à la clé utilisée dans
+                                        # les fiches livres (champ "auteures") et
+                                        # dans _data/auteures.yml

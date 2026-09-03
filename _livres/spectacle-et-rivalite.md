@@ -1,7 +1,11 @@
 ---
 title: "Spectacle et rivalité"
+auteures: [lora]
 image: /assets/images/livres/spectacle-et-rivalite.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-t-4-lora-boisvert-9782898244209.html"
+editeur: "Auzou"
+age: "6-8 ans"
+mots_cles: [patin]
 ---
 Reine de la glace Tome 4 | Dès 8 ans
 

@@ -1,7 +1,11 @@
 ---
 title: "Le puits magique"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/compte-a-rebours-2.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-2-le-carolyn-chouinard-9782897467593.html"
+editeur: "Andara"
+age: "9-12 ans"
 ---
 Compte à rebours - Tome 2 | Dès 8 ans
 

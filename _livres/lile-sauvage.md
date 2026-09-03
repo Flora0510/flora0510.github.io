@@ -1,7 +1,12 @@
 ---
 title: "L'île sauvage"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn, lora]
 image: /assets/images/livres/lile-sauvage.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-4-l-ile-carolyn-chouinard-9782897398187.html"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [nice]
 ---
 So Nice! Tome 4 | Dès 10 ans
 

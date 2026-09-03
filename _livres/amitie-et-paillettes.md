@@ -1,7 +1,11 @@
 ---
 title: "Amitié et paillettes!"
+auteures: [lora]
 image: /assets/images/livres/amitie-et-paillettes.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-amitie-et-lora-boisvert-9782898241338.html"
+editeur: "Auzou"
+age: "6-8 ans"
+mots_cles: [patin]
 ---
 Reine de la glace Tome 1 | Dès 8 ans
 

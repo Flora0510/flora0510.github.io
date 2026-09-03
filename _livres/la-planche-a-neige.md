@@ -1,7 +1,11 @@
 ---
 title: "La planche à neige"
+auteures: [carolyn]
 image: /assets/images/livres/la-planche-a-neige.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"
+editeur: "Dominique et Compagnie"
+age: "6-8 ans"
+mots_cles: [jumelle]
 ---
 Ma jumelle et moi Tome 4 | Dès 7 ans
 

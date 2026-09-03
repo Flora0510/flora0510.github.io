@@ -1,7 +1,11 @@
 ---
 title: "Souriez, vous êtes filmées !"
+auteures: [carolyn]
 image: /assets/images/livres/souriez-vous-etes-filmees.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"
+editeur: "Dominique et Compagnie"
+age: "6-8 ans"
+mots_cles: [jumelle]
 ---
 Ma jumelle et moi Tome 10 | Dès 7 ans 
 

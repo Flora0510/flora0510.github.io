@@ -1,7 +1,12 @@
 ---
 title: "Le piège maléfique"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/le-piege-malefique.png
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-le-piege-carolyn-chouinard-9782898241505.html"
+editeur: "Auzou"
+age: "9-12 ans"
+mots_cles: [dragon]
 ---
 L'espion des dragons Tome 2 | Dès 8 ans
 

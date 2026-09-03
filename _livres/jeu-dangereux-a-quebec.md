@@ -1,7 +1,12 @@
 ---
 title: "Jeu dangereux à Québec"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/jeu-dangereux-a-quebec.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/jeux-dangereux-carolyn-chouinard-9782762597790.html"
+editeur: "Éditions Héritage"
+age: "9-12 ans"
+mots_cles: [Frisson]
 ---
 Collection Peur bleue | Dès 9 ans
 

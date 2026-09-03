@@ -1,7 +1,11 @@
 ---
 title: "Enquête à Camelot"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/compte-a-rebours.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-1-enquete-carolyn-chouinard-9782897466480.html"
+editeur: "Andara"
+age: "9-12 ans"
 ---
 Compte à rebours - Tome 1 | Dès 8 ans
 

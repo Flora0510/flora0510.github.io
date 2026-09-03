@@ -1,7 +1,11 @@
 ---
 title: "La fée des dents au Pays des bonbons"
+auteures: [carolyn]
 image: /assets/images/livres/la-fee-des-dents-au-pays-des-bonbons.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://pantoute.leslibraires.ca/livres/la-fee-des-dents-au-pays-carolyn-chouinard-9782898243202.html"
+editeur: "Auzou"
+age: "0-5 ans"
+mots_cles: [fée]
 ---
 Collection Mes grands albums | Dès 3 ans
 

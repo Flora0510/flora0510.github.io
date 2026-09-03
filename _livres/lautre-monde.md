@@ -1,7 +1,11 @@
 ---
 title: "La quête"
+auteures: [carolyn]
 image: /assets/images/livres/lautre-monde.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-01-la-quete-carolyn-chouinard-9782897098629.html"
+editeur: "Éditions Boomerang"
+age: "9-12 ans"
+fiche_pedagogique: "https://boomerangjeunesse.com/wp-content/uploads/2023/08/BM_Fiche-pedagogique_Slalom_lautre-monde.pdf"
 ---
 Collection L'Autre Monde Tome 1 | Dès 9 ans
 

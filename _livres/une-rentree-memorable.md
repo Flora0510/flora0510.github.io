@@ -1,7 +1,11 @@
 ---
 title: "Une rentrée mémorable!"
+auteures: [carolyn]
 image: /assets/images/livres/une-rentree-memorable.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-une-rentree-memorable-carolyn-chouinard-9782897398675.html"
+editeur: "Dominique et Compagnie"
+age: "6-8 ans"
+mots_cles: [jumelle]
 ---
 Ma jumelle et moi Tome 1 | Dès 7 ans
 

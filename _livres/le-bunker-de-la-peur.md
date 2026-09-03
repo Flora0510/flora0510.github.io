@@ -1,7 +1,10 @@
 ---
 title: "Le bunker de la peur"
+auteures: [carolyn]
 image: /assets/images/livres/le-bunker-de-la-peur.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-bunker-de-la-peur-carolyn-chouinard-9782898245220.html"
+editeur: "Éditions Auzou"
+age: "9-12 ans"
 ---
 Collection Panik | Dès 9 ans
 

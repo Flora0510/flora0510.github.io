@@ -1,7 +1,12 @@
 ---
 title: "Mensonges et manigances"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn, lora]
 image: /assets/images/livres/mensonges-et-manigances.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-2-mensonges-et-carolyn-chouinard-9782897394721.html"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [nice]
 ---
 So Nice! Tome 2 | Dès 10 ans
 

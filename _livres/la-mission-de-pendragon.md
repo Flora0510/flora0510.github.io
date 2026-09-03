@@ -1,7 +1,12 @@
 ---
 title: "La mission de Pendragon"
+auteures: [carolyn]
 image: /assets/images/livres/la-mission-de-pendragon.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-la-mission-carolyn-chouinard-9782898240614.html"
+editeur: "Auzou"
+age: "9-12 ans"
+fiche_pedagogique: "https://auzou.ca/pedago/9782898240614_1_20240123164247.pdf"
+mots_cles: [dragon, pedago]
 ---
 L'espion des dragons Tome 1 | Dès 8 ans
 

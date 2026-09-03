@@ -1,7 +1,12 @@
 ---
 title: "Le détenu de Trois-Rivières"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/le-detenu-de-trois-rivieres.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/le-detenu-de-trois-rivieres-carolyn-chouinard-9782762598629.html"
+editeur: "Éditions Héritage"
+age: "9-12 ans"
+mots_cles: [Frisson, numerique]
 ---
 Dès 9 ans
 

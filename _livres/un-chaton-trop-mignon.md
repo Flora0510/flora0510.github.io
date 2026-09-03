@@ -1,7 +1,11 @@
 ---
 title: "Un chaton trop mignon !"
+auteures: [carolyn]
 image: /assets/images/livres/un-chaton-trop-mignon.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-3-un-carolyn-chouinard-9782897850227.html"
+editeur: "Dominique et Compagnie"
+age: "6-8 ans"
+mots_cles: [jumelle]
 ---
 Ma jumelle et moi Tome 3 | Dès 7 ans
 

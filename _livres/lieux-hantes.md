@@ -1,7 +1,11 @@
 ---
 title: "Lieux hantés"
+auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp
 lien_achat: "https://lien-vers-le-point-de-vente.com"
+editeur: "Éditions Héritage"
+age: "9 ans"
+mots_cles: [Frisson]
 ---
 Super frissons - Collection Peur bleue | Dès 9 ans
 

@@ -1,0 +1,12 @@
+# Surcharge de _config.yml pour le site personnel de Lora.
+# Utilisé avec : bundle exec jekyll build --config _config.yml,_config_lora.yml
+#
+# Renomme ce fichier / son contenu selon le vrai nom de l'autrice.
+
+title: "Lora Boisvert, autrice"
+url: "https://domaine-de-lora.com"     # <-- à remplacer par son vrai domaine
+email: "lora@example.com"              # <-- à remplacer
+
+filtre_auteure: "lora"                 # doit correspondre à la clé utilisée dans
+                                        # les fiches livres (champ "auteures") et
+                                        # dans _data/auteures.yml

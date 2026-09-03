@@ -1,7 +1,12 @@
 ---
 title: "Trop branché!"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/trop-branche.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/trop-branche-carolyn-chouinard-9782924833315.html"
+editeur: "Éditions Phoenix | KO Éditions"
+age: "9-12 ans"
+mots_cles: [branche]
 ---
 Collection Brique | Dès 8 ans
 

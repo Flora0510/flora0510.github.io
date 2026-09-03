@@ -1,7 +1,12 @@
 ---
 title: "Une compétition mouvementée"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/une-competition-mouvementee.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-1-une-carolyn-chouinard-9782897239114.html"
+editeur: "Hurtubise"
+age: "9-12 ans"
+mots_cles: [Rythme]
 ---
 Sur le rythme Tome 1 | Dès 10 ans
 

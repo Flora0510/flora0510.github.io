@@ -1,7 +1,11 @@
 ---
 title: "La tortue de mer"
+auteures: [carolyn]
 image: /assets/images/livres/la-tortue-de-mer.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"
+editeur: "Dominique et Compagnie"
+age: "6-8 ans"
+mots_cles: [jumelle]
 ---
 Ma jumelle et moi Tome 5 | Dès 7 ans
 

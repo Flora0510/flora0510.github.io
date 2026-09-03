@@ -1,7 +1,11 @@
 ---
 title: "100% danse"
+auteures: [carolyn]
 image: /assets/images/livres/100-danse.png
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-3-100-carolyn-chouinard-9782897811297.html"
+editeur: "Hurtubise"
+age: "9-12 ans"
+mots_cles: [Rythme]
 ---
 Sur le rythme Tome 3 | Dès 10 ans
 

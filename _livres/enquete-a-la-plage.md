@@ -1,7 +1,12 @@
 ---
 title: "Enquête à la plage"
+serie: "qui-es-tu-mysterieux-inconnu"
+auteures: [carolyn]
 image: /assets/images/livres/enquete-a-la-plage.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/enquete-a-la-plage-carolyn-chouinard-9782897855918.html"
+editeur: "Dominique et Compagnie"
+age: "9-12 ans"
+mots_cles: [héros]
 ---
 Ma jumelle et moi - Un roman dont tu es le héros | Dès 7 ans
 
