@@ -6,6 +6,9 @@ email: "info@editionsapplit.com"      # <-- à remplacer
 
 logo: "/assets/images/logo-applit.png"
 
+# Ajout
+filtre_auteure: ""
+
 # Réseaux sociaux (laisse vide pour masquer un lien dans le footer)
 social:
   facebook: "https://www.facebook.com/carolynchouinardauteure"
