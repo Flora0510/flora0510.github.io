@@ -7,6 +7,8 @@ title: "Carolyn Chouinard, autrice"
 url: "https://domaine-de-carolyn.com"  # <-- à remplacer par son vrai domaine
 email: "carolyn@example.com"           # <-- à remplacer
 
+logo: "/assets/images/caroLogo.jpg"
+
 filtre_auteure: "carolyn"              # doit correspondre à la clé utilisée dans
                                         # les fiches livres (champ "auteures") et
                                         # dans _data/auteures.yml
