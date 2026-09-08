@@ -2,6 +2,7 @@
 title: "Les gardiens du trésor 1"
 serie: "Les gardiens du trésor"
 tome: "1"
+annee: 2018
 tome_ordre: 1
 auteures: [carolyn]
 image: /assets/images/livres/les-gardiens-du-tresor-1.jpg

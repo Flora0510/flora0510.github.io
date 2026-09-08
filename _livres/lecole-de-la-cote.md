@@ -2,6 +2,7 @@
 title: "L'école de la côte"
 serie: "So nice!"
 tome: "5"
+annee: 2018
 tome_ordre: 5
 auteures: [carolyn, lora]
 image: /assets/images/livres/lecole-de-la-cote.jpg

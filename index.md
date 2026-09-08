@@ -35,7 +35,7 @@ title: Accueil
 
 <section class="alt">
   <div class="wrap">
-    <h2 class="eyebrow-free-heading">Livres disponibles</h2>
+    <h2 class="eyebrow-free-heading">Découvrir les livres</h2>
     <div class="shelf">
       <!--{% for livre in site.livres limit: 8 %}
       <a class="book" href="{{ livre.url | relative_url }}">

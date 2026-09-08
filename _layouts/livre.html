@@ -21,7 +21,7 @@ layout: default
     </div>
     <div>
       <h1>{{ page.title }}</h1>
-      {% if page.serie %}<p style="color: var(--color-navy); font-weight:700;">{{ page.serie }} | Tome {{ page.tome }}</p>{% endif %}
+      {% if page.serie %}<p style="color: var(--color-navy); font-weight:700;">{{ page.serie }} {% if page.tome %} | Tome {{ page.tome }}{% endif %}</p>{% endif %}
       {% if page.age or page.editeur %}
         <p style="color: var(--color-ink-soft); font-size: 0.95rem;">
           {% if page.age %}{{ page.age }}{% endif %}
@@ -31,10 +31,10 @@ layout: default
       {% endif %}
       <div>{{ content }}</div>
       {% if page.lien_achat %}
-        <p><a class="btn" href="{{ page.lien_achat }}" target="_blank" rel="noopener">Se procurer ce livre →</a></p>
+        <p><a class="btn" href="{{ page.lien_achat }}" target="_blank" rel="noopener">Voir sur leslibraires.ca →</a></p>
       {% endif %}
       {% if page.fiche_pedagogique %}
-        <p><a href="{{ page.fiche_pedagogique }}" target="_blank" rel="noopener">Télécharger la fiche pédagogique (PDF)</a></p>
+        <p><a href="{{ page.fiche_pedagogique }}" target="_blank" rel="noopener">Voir la fiche pédagogique →</a></p>
       {% endif %}
     </div>
   </div>

@@ -1,0 +1,8 @@
+# Correspondance entre les tags Shopify (anim1, anim2, anim3, animPresco)
+# et un libellé affiché sur le site. Vérifie/ajuste ces libellés si le sens
+# des tags n'est pas exactement celui-ci — c'est une supposition basée sur
+# la terminologie scolaire québécoise habituelle.
+animPresco: "Préscolaire"
+anim1: "1er cycle du primaire"
+anim2: "2e cycle du primaire"
+anim3: "3e cycle du primaire"

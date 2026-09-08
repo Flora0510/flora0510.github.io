@@ -1,5 +1,6 @@
 ---
-title: "La fée des dents part en mission!"
+title: "La fée des dents part en mission!"
+format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]

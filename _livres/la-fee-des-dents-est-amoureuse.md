@@ -1,5 +1,6 @@
 ---
-title: "La fée des dents est amoureuse"
+title: "La fée des dents est amoureuse"
+format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]

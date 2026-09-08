@@ -1,0 +1,30 @@
+---
+layout: default
+title: À propos
+permalink: /a-propos/
+---
+<div class="wrap" style="padding: 3rem 0; max-width: 760px;">
+<h1>À propos</h1>
+
+{% if site.filtre_auteure %}
+{% assign a = site.data.auteures[site.filtre_auteure] %}
+{% if a.photo %}
+<div class="book-cover" style="max-width: 240px; aspect-ratio: 1/1; margin-bottom: 1.5rem;">
+<img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}">
+</div>
+{% endif %}
+<div>{{ a.bio | markdownify }}</div>
+{% else %}
+{% for entree in site.data.auteures %}
+<div style="margin-bottom: 2.5rem;">
+<h2>{{ entree[1].nom }}</h2>
+{% if entree[1].photo %}
+<div class="book-cover" style="max-width: 200px; aspect-ratio: 1/1; margin-bottom: 1rem;">
+<img src="{{ entree[1].photo | relative_url }}" alt="Photo de {{ entree[1].nom }}">
+</div>
+{% endif %}
+<div>{{ entree[1].bio | markdownify }}</div>
+</div>
+{% endfor %}
+{% endif %}
+</div>

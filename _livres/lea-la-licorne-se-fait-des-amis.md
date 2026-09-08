@@ -1,5 +1,6 @@
 ---
-title: "Léa la licorne se fait des amis"
+title: "Léa la licorne se fait des amis"
+format: carre
 tome_ordre: 9999
 serie: "Léa la licorne - Collection Mes grands albums"
 auteures: [carolyn]

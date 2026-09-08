@@ -5,7 +5,7 @@
 
 title: "Lora Boisvert, autrice"
 url: "https://domaine-de-lora.com"     # <-- à remplacer par son vrai domaine
-email: "lora@example.com"              # <-- à remplacer
+email: "loraboisvert@gmail.com"              # <-- à remplacer
 
 filtre_auteure: "lora"                 # doit correspondre à la clé utilisée dans
                                         # les fiches livres (champ "auteures") et

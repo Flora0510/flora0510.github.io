@@ -6,7 +6,9 @@
       <ul>
         <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Accueil</a></li>
         <li><a href="{{ '/livres/' | relative_url }}" {% if page.url contains '/livres/' %}aria-current="page"{% endif %}>Livres</a></li>
+        {% unless site.filtre_auteure %}
         <li><a href="{{ '/parcours-litteraire/' | relative_url }}">Parcours littéraire</a></li>
+        {% endunless %}
         <li><a href="{{ '/animations/' | relative_url }}">Animations</a></li>
         <li><a href="{{ '/evenements/' | relative_url }}">Événements</a></li>
         <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>

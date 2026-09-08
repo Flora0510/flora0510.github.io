@@ -1,7 +1,9 @@
 ---
-title: "Lieux hantés"
+title: "Lieux hantés"
+
 tome_ordre: 9999
 serie: "Frisson"
+annee: 2025
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp
 lien_achat: "https://lien-vers-le-point-de-vente.com"

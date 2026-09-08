@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="wrap" style="padding: 3rem 0; max-width: 760px;">
+  <p><a href="{{ '/animations/' | relative_url }}">← Retour aux animations</a></p>
+
+
+
+  <h1>{{ page.title }}</h1>
+
+  {% if page.niveaux %}
+    <p style="color: var(--color-ink-soft); font-weight: 700;">
+      {% for niveau in page.niveaux %}{{ site.data.niveaux_animations[niveau] | default: niveau }}{% unless forloop.last %} · {% endunless %}{% endfor %}
+    </p>
+  {% endif %}
+
+  <div>{{ content }}</div>
+
+  <p><a class="btn" href="mailto:{{ site.email }}">Réserver cette animation</a></p>
+</article>

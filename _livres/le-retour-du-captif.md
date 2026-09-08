@@ -3,6 +3,7 @@ title: "Le retour du captif"
 serie: "Le cercle d'Éloan"
 tome: "3"
 tome_ordre: 3
+annee: 2012
 auteures: [carolyn]
 image: /assets/images/livres/le-retour-du-captif.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-t-3-carolyn-chouinard-9782896621804.html"

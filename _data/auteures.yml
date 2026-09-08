@@ -3,9 +3,12 @@
 # des fiches livres.
 lora:
   nom: "Lora Boisvert"
+  photo: /assets/images/auteures/lora.jpg
   bio: |
-    Remplace ce texte par la bio de Lora : parcours, démarche d'écriture, ce qui la distingue.
+    <p>Lora Boisvert est auteure jeunesse et enseignante en Techniques d'intégration multimédia. À l’âge de treize ans, elle débute la coécriture de la série So nice! avec Carolyn Chouinard. Quelques années plus tard, Lora se lance dans l’écriture solo avec plusieurs projets, dont Reine de la glace et Romance, nuit d’été et crème glacée, une romance adolescente explorant les premières expériences, du premier emploi aux premiers amours, avec une touche de diversité.</p> <p>En 2022, elle cofonde les Éditions AppLit, une maison d’édition qui a à cœur le plaisir de lire. Pour ce projet, elle travaille au développement d’une application mobile qui accompagne la lecture et qui y ajoute une nouvelle dimension grâce à des visuels sur 360 degrés, des documents audio, des énigmes et de la réalité augmentée.</p><p>L’auteure a eu l’occasion à plusieurs reprises de partager sa passion pour l’écriture avec des élèves. C’est toujours un plaisir pour elle d’échanger avec eux et de les inspirer à suivre leurs passions.</p>
+
 carolyn:
   nom: "Carolyn Chouinard"
-  bio: |
-    Remplace ce texte par la bio de Carolyn.
+  photo: /assets/images/auteures/carolyn.jpg
+  bio: | 
+    <p>Bonjour! Je m’appelle Carolyn Chouinard. Originaire de Sainte-Perpétue de L’Islet, j’habite à Lévis depuis plus de 25 ans. Autrefois masso-kinésithérapeute, je me consacre aujourd'hui à la littérature jeunesse. Je visite de nombreuses écoles chaque année pour partager ma passion pour la lecture et l’écriture avec les élèves. Maman de trois merveilleuses jeunes femmes, j’ai la chance de partager ma passion avec ma fille Lora puisque nous travaillons fréquemment sur des projets littéraires communs.</p> <p>Je vous invite à découvrir des personnages attachants, des créatures fantastiques fascinantes et des aventures palpitantes. Il se peut que mes histoires vous transportent à une autre époque, qu’elles vous fassent rire ou qu’elles vous donnent le frisson.</p><p>En tous les cas, bienvenue dans mon univers!</p>

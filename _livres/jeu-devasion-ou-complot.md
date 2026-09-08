@@ -1,7 +1,9 @@
 ---
-title: "Jeu d'évasion ou complot?"
+title: "Jeu d'évasion ou complot?"
+
 tome_ordre: 9999
 serie: "Slalom"
+annee: 2021
 auteures: [carolyn]
 image: /assets/images/livres/jeu-devasion-ou-complot.jpg
 lien_achat: "https://www.leslibraires.ca/livres/jeu-d-evasion-ou-complot-carolyn-chouinard-9782897095116.html"

@@ -28,6 +28,9 @@ collections:
   ressources:
     output: true
     permalink: /zone-profs/:path/
+  animations:
+    output: true
+    permalink: /animations/:path/
 
 defaults:
   - scope:
@@ -40,6 +43,11 @@ defaults:
       type: "ressources"
     values:
       layout: "ressource"
+  - scope:
+      path: ""
+      type: "animations"
+    values:
+      layout: "animation"
   - scope:
       path: ""
     values:

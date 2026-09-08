@@ -3,6 +3,7 @@ title: "100% danse"
 serie: "Sur le rythme"
 tome: "3"
 tome_ordre: 3
+annee: 2018
 auteures: [carolyn]
 image: /assets/images/livres/100-danse.png
 lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-3-100-carolyn-chouinard-9782897811297.html"

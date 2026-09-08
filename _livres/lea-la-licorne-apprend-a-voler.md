@@ -1,6 +1,8 @@
 ---
-title: "Léa la licorne apprend à voler"
+title: "Léa la licorne apprend à voler"
+format: carre
 tome_ordre: 9999
+annee: 2026
 serie: "Léa la licorne - Collection Mes grands albums"
 auteures: [carolyn]
 image: /assets/images/livres/lea-la-licorne-apprend-a-voler.png

@@ -1,0 +1,23 @@
+---
+layout: default
+title: Animations
+permalink: /animations/
+---
+<div class="wrap" style="padding: 3rem 0; max-width: 760px;">
+<h1>Animations scolaires</h1>
+<p></p>
+<p><a class="btn" href="mailto:{{ site.email }}">Réserver une animation</a></p>
+</div>
+
+<div class="wrap" style="padding-bottom: 3rem;">
+<div class="shelf">
+{% if site.filtre_auteure %}
+{% assign animations_affichees = site.animations | where_exp: "a", "a.auteures contains site.filtre_auteure" %}
+{% else %}
+{% assign animations_affichees = site.animations %}
+{% endif %}
+{% for animation in animations_affichees %}
+{% include animation-card.html animation=animation %}
+{% endfor %}
+</div>
+</div>
