@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-<div class="wrap" style="padding: 3rem 0; max-width: 760px;">
+<div class="wrap" style="padding: 3rem 0;">
   <h1>Contact</h1>
   <p>Une question, une réservation d'animation, une demande ? </p>  
   

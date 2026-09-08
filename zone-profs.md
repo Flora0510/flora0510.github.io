@@ -14,7 +14,7 @@ permalink: /zone-profs/
       <div class="feature-card">
         <h3>Jeu d'évasion littéraire - Aventuriers des mers</h3>
         <p>Une aventure littéraire qui propose une série d’énigmes et d’interactions en lien étroit avec un extrait du roman Aventuriers des mers.</p>
-        <a href="{{ '/livres/' | relative_url }}">En savoir plus →</a>
+        <a href="{{ '/zone-profs/jeu-evasion-aventuriers/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="feature-card">
         <h3>Jeu d'évasion littéraire - Le détenu de Trois-Rivières</h3>
