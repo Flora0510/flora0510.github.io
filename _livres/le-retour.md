@@ -2,6 +2,7 @@
 title: "Le retour"
 serie: "L'autre monde"
 tome: "2"
+tome_ordre: 2
 auteures: [carolyn]
 image: /assets/images/livres/le-retour.jpg
 lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-t-2-le-carolyn-chouinard-9782897099299.html"

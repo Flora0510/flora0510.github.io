@@ -1,5 +1,6 @@
 ---
-title: "Le détenu de Trois-Rivières"
+title: "Le détenu de Trois-Rivières"
+tome_ordre: 9999
 serie: "Frisson"
 auteures: [carolyn]
 image: /assets/images/livres/le-detenu-de-trois-rivieres.jpg

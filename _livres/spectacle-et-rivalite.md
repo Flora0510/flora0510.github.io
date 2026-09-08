@@ -2,6 +2,7 @@
 title: "Spectacle et rivalité"
 serie: "Reine de la glace"
 tome: "4"
+tome_ordre: 4
 auteures: [lora]
 image: /assets/images/livres/spectacle-et-rivalite.jpg
 lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-t-4-lora-boisvert-9782898244209.html"

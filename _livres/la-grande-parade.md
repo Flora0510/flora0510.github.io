@@ -2,6 +2,7 @@
 title: "La grande parade"
 serie: "Ma jumelle et moi"
 tome: "13"
+tome_ordre: 13
 auteures: [carolyn]
 image: /assets/images/livres/la-grande-parade.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

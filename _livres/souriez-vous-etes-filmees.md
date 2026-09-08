@@ -2,6 +2,7 @@
 title: "Souriez, vous êtes filmées !"
 serie: "Ma jumelle et moi"
 tome: "10"
+tome_ordre: 10
 auteures: [carolyn]
 image: /assets/images/livres/souriez-vous-etes-filmees.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

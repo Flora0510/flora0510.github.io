@@ -2,6 +2,7 @@
 title: "Un chaton trop mignon !"
 serie: "Ma jumelle et moi"
 tome: "3"
+tome_ordre: 3
 auteures: [carolyn]
 image: /assets/images/livres/un-chaton-trop-mignon.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-3-un-carolyn-chouinard-9782897850227.html"

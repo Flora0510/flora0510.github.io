@@ -1,5 +1,6 @@
 ---
-title: "Lieux hantés"
+title: "Lieux hantés"
+tome_ordre: 9999
 serie: "Frisson"
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp

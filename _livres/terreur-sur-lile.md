@@ -1,5 +1,6 @@
 ---
-title: "Terreur sur l'île"
+title: "Terreur sur l'île"
+tome_ordre: 9999
 serie: "Frisson"
 auteures: [carolyn]
 image: /assets/images/livres/terreur-sur-lile.png

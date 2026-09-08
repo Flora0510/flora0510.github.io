@@ -2,6 +2,7 @@
 title: "Enquête à Camelot"
 serie: "Compte à rebours"
 tome: "1"
+tome_ordre: 1
 auteures: [carolyn]
 image: /assets/images/livres/compte-a-rebours.jpg
 lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-1-enquete-carolyn-chouinard-9782897466480.html"

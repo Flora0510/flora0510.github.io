@@ -2,6 +2,7 @@
 title: "Le défi du roi"
 serie: "L'espion des dragons"
 tome: "3"
+tome_ordre: 3
 auteures: [carolyn]
 image: /assets/images/livres/le-defi-du-roi.png
 lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-le-defi-carolyn-chouinard-9782898242069.html"

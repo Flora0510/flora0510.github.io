@@ -2,6 +2,7 @@
 title: "Un admirateur secret"
 serie: "Ma jumelle et moi"
 tome: "7"
+tome_ordre: 7
 auteures: [carolyn]
 image: /assets/images/livres/un-admirateur-secret.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

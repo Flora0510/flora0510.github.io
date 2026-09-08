@@ -2,6 +2,7 @@
 title: "Amis et liberté!"
 serie: "Le carnet secret d'une licorne"
 tome: "3"
+tome_ordre: 3
 auteures: [carolyn]
 image: /assets/images/livres/amis-et-liberte.png
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-t-carolyn-chouinard-9782898241994.html"

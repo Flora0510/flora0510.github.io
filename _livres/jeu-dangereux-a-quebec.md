@@ -1,5 +1,6 @@
 ---
-title: "Jeu dangereux à Québec"
+title: "Jeu dangereux à Québec"
+tome_ordre: 9999
 serie: "Frisson"
 auteures: [carolyn]
 image: /assets/images/livres/jeu-dangereux-a-quebec.jpg

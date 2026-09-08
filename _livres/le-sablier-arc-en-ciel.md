@@ -2,6 +2,7 @@
 title: "Le sablier arc-en-ciel"
 serie: "Le carnet secret d'une licorne"
 tome: "6"
+tome_ordre: 6
 auteures: [carolyn]
 image: /assets/images/livres/le-sablier-arc-en-ciel.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-6-carolyn-chouinard-9782898244247.html"

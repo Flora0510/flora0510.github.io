@@ -1,5 +1,6 @@
 ---
-title: "La fée des dents adore l'halloween !"
+title: "La fée des dents adore l'halloween !"
+tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 image: /assets/images/livres/la-fee-des-dents-adore-lhalloween.jpg

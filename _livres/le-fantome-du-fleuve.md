@@ -1,5 +1,6 @@
 ---
-title: "Le fantôme du fleuve"
+title: "Le fantôme du fleuve"
+tome_ordre: 9999
 serie: "Panik"
 auteures: [carolyn]
 image: /assets/images/livres/le-bunker-de-la-peur-copie.jpg

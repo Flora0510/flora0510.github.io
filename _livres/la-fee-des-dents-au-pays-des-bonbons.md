@@ -1,5 +1,6 @@
 ---
-title: "La fée des dents au Pays des bonbons"
+title: "La fée des dents au Pays des bonbons"
+tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 image: /assets/images/livres/la-fee-des-dents-au-pays-des-bonbons.jpg

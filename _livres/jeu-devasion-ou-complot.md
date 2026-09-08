@@ -1,5 +1,6 @@
 ---
-title: "Jeu d'évasion ou complot?"
+title: "Jeu d'évasion ou complot?"
+tome_ordre: 9999
 serie: "Slalom"
 auteures: [carolyn]
 image: /assets/images/livres/jeu-devasion-ou-complot.jpg

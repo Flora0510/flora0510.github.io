@@ -2,6 +2,7 @@
 title: "Où est Brioche?"
 serie: "Ma jumelle et moi"
 tome: "Un roman dont tu es le héros"
+tome_ordre: 9999
 auteures: [carolyn]
 image: /assets/images/livres/ou-est-brioche.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

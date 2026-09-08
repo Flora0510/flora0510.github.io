@@ -2,6 +2,7 @@
 title: "La compétition!"
 serie: "Reine de la glace"
 tome: "2"
+tome_ordre: 2
 auteures: [lora]
 image: /assets/images/livres/la-competition.jpg
 lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-t-2-lora-boisvert-9782898242182.html"

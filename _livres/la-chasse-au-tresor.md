@@ -2,6 +2,7 @@
 title: "La chasse au trésor"
 serie: "Ma jumelle et moi"
 tome: "6"
+tome_ordre: 6
 auteures: [carolyn]
 image: /assets/images/livres/la-chasse-au-tresor.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

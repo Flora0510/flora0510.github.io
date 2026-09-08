@@ -2,6 +2,7 @@
 title: "Ç'aurait pu être pire"
 serie: "So nice!"
 tome: "1"
+tome_ordre: 1
 auteures: [carolyn, lora]
 image: /assets/images/livres/caurait-pu-etre-pire.jpg
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-1-c-aurait-carolyn-chouinard-9782897393236.html"

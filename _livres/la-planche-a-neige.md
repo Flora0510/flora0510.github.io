@@ -2,6 +2,7 @@
 title: "La planche à neige"
 serie: "Ma jumelle et moi"
 tome: "4"
+tome_ordre: 4
 auteures: [carolyn]
 image: /assets/images/livres/la-planche-a-neige.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

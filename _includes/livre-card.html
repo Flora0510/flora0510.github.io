@@ -1,0 +1,6 @@
+<a class="book" href="{{ include.livre.url | relative_url }}">
+  <div class="book-cover{% if include.livre.format == 'carre' %} carre{% endif %}">
+    <img src="{{ include.livre.image | relative_url }}" alt="Couverture de {{ include.livre.title }}">
+  </div>
+  <h3>{{ include.livre.title }}</h3>
+</a>

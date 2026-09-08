@@ -2,6 +2,7 @@
 title: "La journée au zoo"
 serie: "Ma jumelle et moi"
 tome: "2"
+tome_ordre: 2
 auteures: [carolyn]
 image: /assets/images/livres/la-journee-au-zoo.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

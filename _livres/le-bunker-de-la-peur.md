@@ -1,5 +1,6 @@
 ---
-title: "Le bunker de la peur"
+title: "Le bunker de la peur"
+tome_ordre: 9999
 serie: "Panik"
 auteures: [carolyn]
 image: /assets/images/livres/le-bunker-de-la-peur.jpg

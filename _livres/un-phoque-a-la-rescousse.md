@@ -2,6 +2,7 @@
 title: "Un phoque à la rescousse"
 serie: "Ma jumelle et moi"
 tome: "8"
+tome_ordre: 8
 auteures: [carolyn]
 image: /assets/images/livres/un-phoque-a-la-rescousse.jpg
 lien_achat: "https://lien-vers-le-point-de-vente.com"

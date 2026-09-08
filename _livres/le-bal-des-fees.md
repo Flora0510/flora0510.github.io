@@ -2,6 +2,7 @@
 title: "Le bal des fées"
 serie: "Le carnet secret d'une licorne"
 tome: "4"
+tome_ordre: 4
 auteures: [carolyn]
 image: /assets/images/livres/le-bal-des-fees.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-4-carolyn-chouinard-9782898241963.html"

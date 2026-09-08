@@ -2,6 +2,7 @@
 title: "L'école de la côte"
 serie: "So nice!"
 tome: "5"
+tome_ordre: 5
 auteures: [carolyn, lora]
 image: /assets/images/livres/lecole-de-la-cote.jpg
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-5-l-ecole-carolyn-chouinard-9782897851958.html"

@@ -4,51 +4,76 @@ title: Livres
 permalink: /livres/
 ---
 <div class="wrap" style="padding: 3rem 0;">
-  <h1>Livres</h1>
-  <p></p>
+  <h1>Livres disponibles</h1>
+  <p>Voici nos livres.</p>
+</div>
 
-  {% if site.filtre_auteure %}
-    {% assign livres_affiches = site.livres | where_exp: "livre", "livre.auteures contains site.filtre_auteure" %}
-  {% else %}
-    {% assign livres_affiches = site.livres %}
-  {% endif %}
+{% if site.filtre_auteure %}
+  {% assign livres_affiches = site.livres | where_exp: "livre", "livre.auteures contains site.filtre_auteure" %}
+{% else %}
+  {% assign livres_affiches = site.livres %}
+{% endif %}
 
-  {% assign ordre_ages = "Dès 3 ans,Dès 4 ans,Dès 5 ans,Dès 6 ans,Dès 7 ans,Dès 8 ans,Dès 9 ans,Dès 10 ans,Dès 11 ans,Dès 12 ans" | split: "," %}
-  {% assign restants = livres_affiches %}
+{% assign ordre_ages = "Dès 3 ans,Dès 4 ans,Dès 5 ans,Dès 6 ans,Dès 7 ans,Dès 8 ans,Dès 9 ans,Dès 10 ans,Dès 11 ans,Dès 12 ans" | split: "," %}
+{% assign restants = livres_affiches %}
+{% assign compteur_section = 0 %}
 
-  {% for age_label in ordre_ages %}
-    {% assign livres_de_cet_age = restants | where: "age", age_label %}
-    {% if livres_de_cet_age.size > 0 %}
-      <section style="margin-top: 2.5rem;">
+{% for age_label in ordre_ages %}
+  {% assign livres_de_cet_age = restants | where: "age", age_label %}
+  {% if livres_de_cet_age.size > 0 %}
+    {% assign compteur_section = compteur_section | plus: 1 %}
+    {% assign paire = compteur_section | modulo: 2 %}
+    <section{% if paire == 0 %} class="alt"{% endif %}>
+      <div class="wrap">
         <h2>{{ age_label }}</h2>
+
+        {% assign avec_serie = livres_de_cet_age | where_exp: "l", "l.serie" %}
+        {% assign sans_serie = livres_de_cet_age | where_exp: "l", "l.serie == nil" %}
+        {% assign groupes_serie = avec_serie | group_by: "serie" %}
+        {% assign groupes_tries = groupes_serie | sort: "name" %}
+        {% assign sans_serie_tries = sans_serie | sort: "title" %}
+
         <div class="shelf" style="margin-top: 1.2rem;">
-          {% for livre in livres_de_cet_age %}
-          <a class="book" href="{{ livre.url | relative_url }}">
-            <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
-              <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
-            </div>
-            <h3>{{ livre.title }}</h3>
-          </a>
+          {% for groupe in groupes_tries %}
+            {% assign items_tries = groupe.items | sort: "tome_ordre" %}
+            {% for livre in items_tries %}
+              {% include livre-card.html livre=livre %}
+            {% endfor %}
+          {% endfor %}
+          {% for livre in sans_serie_tries %}
+            {% include livre-card.html livre=livre %}
           {% endfor %}
         </div>
-      </section>
-      {% assign restants = restants | where_exp: "l", "l.age != age_label" %}
-    {% endif %}
-  {% endfor %}
-
-  {% if restants.size > 0 %}
-    <section style="margin-top: 2.5rem;">
-      <h2>Autres</h2>
-      <div class="shelf" style="margin-top: 1.2rem;">
-        {% for livre in restants %}
-        <a class="book" href="{{ livre.url | relative_url }}">
-          <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
-            <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
-          </div>
-          <h3>{{ livre.title }}</h3>
-        </a>
-        {% endfor %}
       </div>
     </section>
+    {% assign restants = restants | where_exp: "l", "l.age != age_label" %}
   {% endif %}
-</div>
+{% endfor %}
+
+{% if restants.size > 0 %}
+  {% assign compteur_section = compteur_section | plus: 1 %}
+  {% assign paire = compteur_section | modulo: 2 %}
+  <section{% if paire == 0 %} class="alt"{% endif %}>
+    <div class="wrap">
+      <h2>Autres</h2>
+
+      {% assign avec_serie = restants | where_exp: "l", "l.serie" %}
+      {% assign sans_serie = restants | where_exp: "l", "l.serie == nil" %}
+      {% assign groupes_serie = avec_serie | group_by: "serie" %}
+      {% assign groupes_tries = groupes_serie | sort: "name" %}
+      {% assign sans_serie_tries = sans_serie | sort: "title" %}
+
+      <div class="shelf" style="margin-top: 1.2rem;">
+        {% for groupe in groupes_tries %}
+          {% assign items_tries = groupe.items | sort: "tome_ordre" %}
+          {% for livre in items_tries %}
+            {% include livre-card.html livre=livre %}
+          {% endfor %}
+        {% endfor %}
+        {% for livre in sans_serie_tries %}
+          {% include livre-card.html livre=livre %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}

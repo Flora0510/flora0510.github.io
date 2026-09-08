@@ -2,6 +2,7 @@
 title: "La légende oubliée"
 serie: "Le cercle d'Éloan"
 tome: "1"
+tome_ordre: 1
 auteures: [carolyn]
 image: /assets/images/livres/la-legende-oubliee.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-la-legende-carolyn-chouinard-9782890749351.html"
