@@ -1,14 +1,12 @@
 ---
 title: "Lieux hantés"
+serie: "Frisson"
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp
 lien_achat: "https://lien-vers-le-point-de-vente.com"
 editeur: "Éditions Héritage"
-age: "9 ans"
-mots_cles: [Frisson]
+age: "Dès 9 ans"
 ---
-Super frissons - Collection Peur bleue | Dès 9 ans
-
 Ce volume comprend 3 histoires:
 
 - Jeux dangereux à Québec

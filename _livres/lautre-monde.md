@@ -1,7 +1,7 @@
 ---
 title: "La quête"
 serie: "L'autre monde"
-tome: "11"
+tome: "1"
 auteures: [carolyn]
 image: /assets/images/livres/lautre-monde.jpg
 lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-01-la-quete-carolyn-chouinard-9782897098629.html"

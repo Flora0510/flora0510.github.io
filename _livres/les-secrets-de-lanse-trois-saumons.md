@@ -4,7 +4,7 @@ auteures: [carolyn, lora]
 image: /assets/images/livres/les-secrets-de-lanse-trois-saumons.png
 lien_achat: "https://www.leslibraires.ca/livres/les-secrets-de-l-anse-trois-saumons-9782925562191?srsltid=AfmBOorUTpTwC9BaboLVAN2gf0AjOQPbzbagSpXliiEgEGJxQCfYI-eQ"
 editeur: "Hugo roman"
-age: "9-12 ans"
+age: "Dès 12 ans"
 ---
 Entre ces murs, le passé ne dort jamais…
 

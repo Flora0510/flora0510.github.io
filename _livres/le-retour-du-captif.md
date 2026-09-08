@@ -1,14 +1,13 @@
 ---
 title: "Le retour du captif"
+serie: "Le cercle d'Éloan"
+tome: "3"
 auteures: [carolyn]
 image: /assets/images/livres/le-retour-du-captif.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-t-3-carolyn-chouinard-9782896621804.html"
 editeur: "Éditions De Mortagne"
-age: "9-12 ans"
-mots_cles: [eloan]
+age: "Dès 10 ans"
 ---
-Le cercle d'Éloan Tome 3 | Dès 10 ans
-
 Le duel des apprentis ne s'étant pas déroulé comme prévu, Imaëlle et ses amis se retrouvent de nouveau enfermés dans les cachots. Leurs chances de rentrer à la maison s'amenuisent, mais Imaëlle garde espoir: la vision qu'elle a eue au contact du manuscrit de Kattenga lui a prouvé qu'Éloan est toujours vivant et qu'on le retient prisonnier. 
 
 Cependant, un obstacle inattendu se dresse sur la route des jeunes: quelqu'un a dérobé le septin, qui est indispensable aux voyages dans le temps! Les grands pouvoirs que procure cette pierre à son possesseur pourraient devenir très dangereux entre de mauvaises mains...
