@@ -1,0 +1,53 @@
+---
+layout: default
+title: Accueil
+---
+{% assign cle_site = site.filtre_auteure | default: "commun" %}
+{% assign t = site.data.textes[cle_site] %}
+
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ t.accueil.titre }}</h1>
+    <p>{{ t.accueil.texte }}</p>
+    <p><a class="btn" href="{{ '/livres/' | relative_url }}">Découvrir les livres</a></p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="eyebrow-free-heading">Ce qu'on propose</h2>
+    <div class="feature-grid">
+      {% for prop in t.accueil.propositions %}
+      <div class="feature-card">
+        <h3>{{ prop.titre }}</h3>
+        <p>{{ prop.texte }}</p>
+        <a href="{{ prop.lien | relative_url }}">En savoir plus →</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2 class="eyebrow-free-heading">Découvrir les livres</h2>
+    <div class="shelf">
+      {% if site.filtre_auteure != "" %}
+      {% assign livres_affiches = site.livres | where_exp: "livre", "livre.auteures contains site.filtre_auteure" %}
+      {% else %}
+      {% assign livres_affiches = site.livres %}
+      {% endif %}
+      {% assign livres_affiches = livres_affiches | sort: "annee" | reverse %}
+
+      {% for livre in livres_affiches limit: 8 %}
+      <a class="book" href="{{ livre.url | relative_url }}">
+        <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
+          <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
+        </div>
+        <h3>{{ livre.title }}</h3>
+      </a>
+      {% endfor %}
+    </div>
+    <p style="margin-top:1.5rem;"><a href="{{ '/livres/' | relative_url }}">Voir tous les livres →</a></p>
+  </div>
+</section>

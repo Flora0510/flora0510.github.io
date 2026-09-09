@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="wrap" style="padding: 3rem 0; max-width: 760px;">
-  <p><a href="{{ '/animations/' | relative_url }}">← Retour aux animations</a></p>
+  <p><a href="{{ '/animations/' | relative_url }}" onclick="if (document.referrer && document.referrer.indexOf(window.location.host) !== -1) { history.back(); return false; }">← Retour</a></p>
 
 
 

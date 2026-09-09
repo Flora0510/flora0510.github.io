@@ -24,7 +24,7 @@ permalink: /zone-profs/
        <div class="feature-card">
         <h3>Bandits des mers</h3>
         <p>Une expérience immersive alliant littérature et réalité augmentée. Grâce à l’application Les Éditions AppLit, plonge au cœur de l’intrigue, observe les décors à 360 degrés et résous les énigmes!</p>
-        <a href="{{ '/parcours-litteraire/' | relative_url }}">En savoir plus →</a>
+        <a href="{{ '/zone-profs/bandits-des-mers/' | relative_url }}">En savoir plus →</a>
       </div>
        <div class="feature-card">
         <h3>Fiches pédagogiques</h3>

@@ -11,7 +11,7 @@ permalink: /animations/
 
 <div class="wrap" style="padding-bottom: 3rem;">
 <div class="animation-grid">
-{% if site.filtre_auteure %}
+{% if site.filtre_auteure != "" %}
 {% assign animations_affichees = site.animations | where_exp: "a", "a.auteures contains site.filtre_auteure" %}
 {% else %}
 {% assign animations_affichees = site.animations %}
@@ -34,4 +34,6 @@ permalink: /animations/
 {% endunless %}
 {% endfor %}
 </div>
+{% assign cle_site = site.filtre_auteure | default: "commun" %}
+<p style="margin-top: 2rem;">{{ site.data.textes[cle_site].animations.texte_apres }}</p>
 </div>

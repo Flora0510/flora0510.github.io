@@ -6,7 +6,7 @@ permalink: /a-propos/
 <div class="wrap" style="padding: 3rem 0;">
 <h1>À propos</h1>
 
-{% if site.filtre_auteure %}
+{% if site.filtre_auteure != "" %}
 {% assign a = site.data.auteures[site.filtre_auteure] %}
 <div class="auteure-bloc auteure-bloc--inverse">
 {% if a.photo %}
@@ -18,16 +18,28 @@ permalink: /a-propos/
 </div>
 </div>
 {% else %}
-{% assign i = 0 %}
-{% for entree in site.data.auteures %}
-{% assign i = i | plus: 1 %}
-<div class="auteure-bloc auteure-bloc--inverse">
-{% if entree[1].photo %}
-<div class="auteure-photo"><img src="{{ entree[1].photo | relative_url }}" alt="Photo de {{ entree[1].nom }}"></div>
+<div class="auteure-bloc">
+{% if site.data.textes.commun.a_propos.image %}
+<div class="auteure-photo"><img src="{{ site.data.textes.commun.a_propos.image | relative_url }}" alt="Lora Boisvert et Carolyn Chouinard"></div>
 {% endif %}
 <div class="auteure-texte">
-<h2>{{ entree[1].nom }}</h2>
-{{ entree[1].bio | markdownify }}
+<p style="margin: 0;">{{ site.data.textes.commun.a_propos.texte }}</p>
+</div>
+</div>
+
+{% for entree in site.data.auteures %}
+{% assign cle = entree[0] %}
+{% assign a = entree[1] %}
+<div class="auteure-bloc auteure-bloc--inverse">
+{% if a.photo %}
+<div class="auteure-photo"><img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}"></div>
+{% endif %}
+<div class="auteure-texte">
+<h2>{{ a.nom }}</h2>
+{{ a.bio | markdownify }}
+{% if a.site_url %}
+<p><a class="btn" href="{{ a.site_url }}">Visiter le site de {{ a.nom | split: " " | first }} →</a></p>
+{% endif %}
 </div>
 </div>
 {% endfor %}

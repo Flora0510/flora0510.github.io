@@ -1,0 +1,74 @@
+# Textes qui varient d'un site à l'autre, pour les pages dont la structure
+# (liste de livres, etc.) reste la même partout. Modifie directement les
+# valeurs ci-dessous — pas besoin de toucher aux fichiers .html/.md.
+#
+# Clé "commun" = site commun (quand filtre_auteure est vide).
+# Clés "lora" / "carolyn" = sites personnels, doivent correspondre à
+# filtre_auteure dans _config_lora.yml / _config_carolyn.yml.
+
+commun:
+  accueil:
+    titre: "Des livres jeunesse à lire et à vivre"
+    texte: "Deux autrices, des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
+    propositions:
+      - titre: "Bandits des mers"
+        texte: "Lora Boisvert et Carolyn Chouinard te proposent une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/livres/"
+      - titre: "Animations scolaires"
+        texte: "Carolyn et Lora visitent les écoles et bibliothèques pour partager leur passion pour l'écriture."
+        lien: "/animations/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
+        lien: "/parcours-litteraire/"
+  livres:
+    intro: "Voici les livres de Carolyn et Lora."
+  a_propos:
+    image: /assets/images/auteures/commun.jpg
+    texte: "Lora et Carolyn forment un duo d'autrices jeunesse qui aiment mêler aventure, énigmes et technologie pour donner le goût de lire. Découvrez-les ci-dessous, et visitez leur site personnel pour en savoir plus sur chacune."
+  animations:
+    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations (ex. tarifs, zone desservie, conditions de réservation)."
+  animations_biblio:
+    intro: "Des animations pensées pour les bibliothèques : rencontres, ateliers d'écriture et activités autour de la lecture."
+    texte_apres: "Remplace ce texte par une note destinée aux bibliothécaires (ex. tarifs, zone desservie, conditions de réservation)."
+
+lora:
+  accueil:
+    titre: "Des livres jeunesse à lire et à vivre"
+    texte: "Des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
+    propositions:
+      - titre: "Mes romans"
+        texte: "Remplace ce texte par une présentation de tes livres."
+        lien: "/livres/"
+      - titre: "Animations scolaires"
+        texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations/"
+  livres:
+    intro: "Voici mes livres."
+  animations:
+    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations."
+  animations_biblio:
+    intro: "Des animations pensées pour les bibliothèques."
+    texte_apres: "Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d’art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada. Vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres.
+
+Cela vous permettra de recevoir les auteures à plus faible coût. Vous aurez des frais de gestion de 80$ + taxes à payer et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ.
+
+Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
+
+carolyn:
+  accueil:
+    titre: "Des livres jeunesse à lire et à vivre"
+    texte: "Des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
+    propositions:
+      - titre: "Mes romans"
+        texte: "Remplace ce texte par une présentation de tes livres."
+        lien: "/livres/"
+      - titre: "Animations scolaires"
+        texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations/"
+  livres:
+    intro: "Voici mes livres."
+  animations:
+    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations."
+  animations_biblio:
+    intro: "Des animations pensées pour les bibliothèques."
+    texte_apres: "Remplace ce texte par une note destinée aux bibliothécaires."

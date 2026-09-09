@@ -4,6 +4,7 @@
 lora:
   nom: "Lora Boisvert"
   photo: /assets/images/auteures/lora.jpg
+  site_url: "https://domaine-de-lora.com"
   facebook: "https://www.facebook.com/loraboisvertauteure"
   tiktok: "https://www.tiktok.com/@loraboisvertauteure"
   bio: |
@@ -12,6 +13,7 @@ lora:
 carolyn:
   nom: "Carolyn Chouinard"
   photo: /assets/images/auteures/carolyn.jpg
+  site_url: "https://domaine-de-carolyn.com"
   facebook: "https://www.facebook.com/carolynchouinardauteure"
   instagram: "https://www.instagram.com/carolyn_chouinard_auteure/"
   bio: | 

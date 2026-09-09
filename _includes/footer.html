@@ -1,36 +1,39 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <h3>{{ site.title }}</h3>
-    </div>
-    <div>
       <h3>Navigation</h3>
-      <p>
-        <a href="{{ '/' | relative_url }}">Accueil</a><br>
-        <a href="{{ '/livres/' | relative_url }}">Livres</a><br>
-        {% unless site.filtre_auteure %}
-        <a href="{{ '/parcours-litteraire/' | relative_url }}">Parcours littéraire</a><br>
-        {% endunless %}
-        <a href="{{ '/animations/' | relative_url }}">Animations</a><br>
-        <a href="{{ '/evenements/' | relative_url }}">Événements</a><br>
-        <a href="{{ '/a-propos/' | relative_url }}">À propos</a><br>
-        <a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a><br>
-        <a href="{{ '/contact/' | relative_url }}">Contact</a>
-      </p>
+      <nav class="footer-nav-columns" aria-label="Navigation du site">
+        <p>
+          <a href="{{ '/' | relative_url }}">Accueil</a><br>
+          <a href="{{ '/livres/' | relative_url }}">Livres</a><br>
+          <a href="{{ '/animations/' | relative_url }}">Animations</a><br>
+          <a href="{{ '/zone-biblio/' | relative_url }}">Zone biblio</a>
+        </p>
+        <p>
+          <a href="{{ '/evenements/' | relative_url }}">Événements</a><br>
+          <a href="{{ '/a-propos/' | relative_url }}">À propos</a><br>
+          <a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a><br>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        </p>
+      </nav>
     </div>
     <div>
-      <h3>Réseaux sociaux</h3>
-      <div class="social-links">
-        {% if site.filtre_auteure %}
-          {% assign auteure_active = site.data.auteures[site.filtre_auteure] %}
+      <h3>Suivez-nous</h3>
+      {% if site.filtre_auteure != "" %}
+        {% assign auteure_active = site.data.auteures[site.filtre_auteure] %}
+        <div class="social-links">
           {% include social-icons.html auteure=auteure_active %}
-        {% else %}
-          {% for entree in site.data.auteures %}
-            {% assign auteure_active = entree[1] %}
+        </div>
+      {% else %}
+        {% for entree in site.data.auteures %}
+          {% assign auteure_active = entree[1] %}
+          {% assign prenom = auteure_active.nom | split: " " | first %}
+          <p class="social-links-label">Suivre {{ prenom }}</p>
+          <div class="social-links" style="margin-bottom: 0.9rem;">
             {% include social-icons.html auteure=auteure_active %}
-          {% endfor %}
-        {% endif %}
-      </div>
+          </div>
+        {% endfor %}
+      {% endif %}
     </div>
   </div>
   <div class="wrap" style="margin-top:2rem; font-size:0.85rem; color:#9aa6b3;">

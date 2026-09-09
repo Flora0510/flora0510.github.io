@@ -5,10 +5,11 @@ permalink: /livres/
 ---
 <div class="wrap" style="padding: 3rem 0;">
   <h1>Livres</h1>
-  <p></p>
+  {% assign cle_site = site.filtre_auteure | default: "commun" %}
+  <p>{{ site.data.textes[cle_site].livres.intro }}</p>
 </div>
 
-{% if site.filtre_auteure %}
+{% if site.filtre_auteure != "" %}
   {% assign livres_affiches = site.livres | where_exp: "livre", "livre.auteures contains site.filtre_auteure" %}
 {% else %}
   {% assign livres_affiches = site.livres %}
