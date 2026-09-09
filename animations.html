@@ -18,18 +18,18 @@ permalink: /animations/
 {% endif %}
 
 {% assign ordre_niveaux = "animPresco,anim1,anim2,anim3" | split: "," %}
-{% assign titres_affiches = "" %}
+{% assign urls_affichees = "" %}
 {% for niveau_cle in ordre_niveaux %}
 {% assign avec_ce_niveau = animations_affichees | where_exp: "a", "a.niveaux contains niveau_cle" %}
 {% for animation in avec_ce_niveau %}
-{% unless titres_affiches contains animation.title %}
+{% unless urls_affichees contains animation.url %}
 {% include animation-card.html animation=animation %}
-{% capture titres_affiches %}{{ titres_affiches }}|{{ animation.title }}{% endcapture %}
+{% capture urls_affichees %}{{ urls_affichees }}|{{ animation.url }}{% endcapture %}
 {% endunless %}
 {% endfor %}
 {% endfor %}
 {% for animation in animations_affichees %}
-{% unless titres_affiches contains animation.title %}
+{% unless urls_affichees contains animation.url %}
 {% include animation-card.html animation=animation %}
 {% endunless %}
 {% endfor %}

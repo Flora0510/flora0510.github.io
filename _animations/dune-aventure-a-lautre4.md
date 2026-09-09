@@ -1,7 +1,7 @@
 ---
 title: "D'une aventure à l'autre"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
-romans: ["La quête","Lieux hantés","Pas le choix d'aller au camp d'été...","Le message secret de La Buse"]
+romans: ["La quête","Lieux hantés","Le message secret de La Buse ", "Le trésor perdu du capitaine John ","Le retour","Qui es-tu mystérieux inconnu?","Je veux vivre ma passion!","Des papillons dans le coeur!","Pas le choix d'aller au camp d'été..."]
 niveaux: [anim4]
 auteures: [carolyn]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Le message secret de La Buse"
+title: "Le message secret de La Buse "
 serie: "Bandits des mers"
 tome: "1"
 tome_ordre: 1
