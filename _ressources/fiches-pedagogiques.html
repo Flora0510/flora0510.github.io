@@ -1,0 +1,23 @@
+---
+title: "Fiches pédagogiques"
+resume: "Fiches pédagogiques téléchargeables pour les romans qui en proposent une."
+---
+<p>Cliquez sur la couverture d'un roman pour accéder à sa fiche pédagogique (PDF).</p>
+
+{% if site.filtre_auteure %}
+{% assign livres_avec_fiche = site.livres | where_exp: "l", "l.auteures contains site.filtre_auteure" %}
+{% else %}
+{% assign livres_avec_fiche = site.livres %}
+{% endif %}
+{% assign livres_avec_fiche = livres_avec_fiche | where_exp: "l", "l.fiche_pedagogique" %}
+
+<div class="shelf" style="margin-top: 1.5rem;">
+{% for livre in livres_avec_fiche %}
+<a class="book" href="{{ livre.fiche_pedagogique }}" target="_blank" rel="noopener">
+<div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
+<img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
+</div>
+<h3>{{ livre.title }}</h3>
+</a>
+{% endfor %}
+</div>

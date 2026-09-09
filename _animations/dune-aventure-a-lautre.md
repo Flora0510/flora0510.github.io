@@ -4,6 +4,8 @@ image: /assets/images/animations/dune-aventure-a-lautre.jpg
 niveaux: [anim3]
 auteures: [carolyn]
 ---
-Cette animation me permet de présenter mon processus d’écriture, les étapes de l’édition, mes sources d’inspiration, ainsi que l’intrigue des romans et séries illustrés ci-dessous. Pour le roman Le détenu de Trois-Rivières, je présenterai également le matériel pédagogique qui l’accompagne : un jeu d’évasion conçu à partir du premier chapitre, où le lecteur est coincé dans l’histoire et doit résoudre des énigmes pour en sortir. Les élèves ne participeront pas au jeu, mais pourront en découvrir le concept et les coulisses de sa création. Je prendrai également le temps de répondre avec plaisir à leurs questions. 
+Cette animation vous invite à explorer mon processus d’écriture, les différentes étapes de l’édition, mes sources d’inspiration ainsi que l’univers et l’intrigue des romans et séries présentés sur cette page. Découvrez des récits fantastiques et des histoires à suspense qui donnent le frisson.
 
-Durée: Une période
+Les élèves auront également la chance de plonger dans une expérience immersive unique, alliant lecture et technologie avec le roman Aventuriers des mers. Je leur ferai découvrir un récit enrichi de réalité augmentée, de visuels à 360 degrés et d’animations 3D qui seront projetés sur le tableau interactif de votre classe.
+
+Durée: 60 minutes

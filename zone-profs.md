@@ -29,7 +29,7 @@ permalink: /zone-profs/
        <div class="feature-card">
         <h3>Fiches pédagogiques</h3>
         <p>Découvrez les fiches pédagogiques en lien avec les romans des auteures</p>
-        <a href="{{ '/parcours-litteraire/' | relative_url }}">En savoir plus →</a>
+        <a href="{{ '/zone-profs/fiches-pedagogiques/' | relative_url }}">En savoir plus →</a>
       </div>
        <div class="feature-card">
         <h3>Animations scolaires</h3>
@@ -45,12 +45,4 @@ permalink: /zone-profs/
   </div>
 </section>
 
-  <div class="ressource-list" style="margin-top: 2rem;">
-    {% for item in site.ressources %}
-    <div class="ressource-item">
-      <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
-      <p>{{ item.resume }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+
