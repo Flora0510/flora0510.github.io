@@ -19,7 +19,7 @@ permalink: /zone-profs/
       <div class="feature-card">
         <h3>Jeu d'évasion littéraire - Le détenu de Trois-Rivières</h3>
         <p>Une aventure littéraire qui propose une série d’énigmes et d’interactions en lien étroit avec un extrait du roman Le détenu de Trois-Rivières.</p>
-        <a href="{{ '/animations/' | relative_url }}">En savoir plus →</a>
+        <a href="{{ '/zone-profs/jeu-evasion-coince-dans-lhistoire/' | relative_url }}">En savoir plus →</a>
       </div>
        <div class="feature-card">
         <h3>Bandits des mers</h3>
