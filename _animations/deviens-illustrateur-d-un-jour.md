@@ -1,6 +1,7 @@
 ---
 title: "Deviens illustrateur d’un jour!"
-image: /assets/images/animations/deviens-illustrateur-d-un-jour.png
+image: /assets/images/animations/deviens-illustrateur-d-un-jour.png
+romans: ["Soccer entre amies"]
 niveaux: [anim1, anim2]
 auteures: [lora]
 ---

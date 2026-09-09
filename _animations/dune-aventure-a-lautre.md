@@ -1,6 +1,7 @@
 ---
 title: "D'une aventure à l'autre"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
+romans: ["Enquête à Camelot","Lieux hantés","La mission de Pendragon","Le voeu de Sofia", "Le piège maléfique", "Le défi du roi", "Magie noire", "Des ailes pour Sofia", "Amis et liberté!", "Le bal des fées", "Les princes ont disparu!", "Le sablier arc-en-ciel", "Aventuriers des mers 1"]
 niveaux: [anim3]
 auteures: [carolyn]
 ---

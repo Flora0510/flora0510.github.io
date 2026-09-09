@@ -15,6 +15,29 @@ layout: default
   {% endif %}
 
   <div>{{ content }}</div>
-
+  
   <p><a class="btn" href="mailto:{{ site.email }}">Réserver cette animation</a></p>
+
+  {% if page.romans %}
+    <section style="margin-top: 3rem;">
+      <h2>{% if page.romans.size > 1 %}Romans liés à l'activité{% else %}Roman lié à l'activité{% endif %}</h2>
+      {% for titre_roman in page.romans %}
+        {% assign livre_lie = site.livres | where: "title", titre_roman | first %}
+        {% if livre_lie %}
+        <div class="livre-detail" style="margin-top: 1.5rem;">
+          <div class="book-cover{% if livre_lie.format == 'carre' %} carre{% endif %}" style="max-width: 220px;">
+            <img src="{{ livre_lie.image | relative_url }}" alt="Couverture de {{ livre_lie.title }}">
+          </div>
+          <div>
+            <h3>{{ livre_lie.title }}</h3>
+            <div>{{ livre_lie.content | strip_html | truncatewords: 60 }}</div>
+            <p><a class="btn" href="{{ livre_lie.url | relative_url }}">Voir le livre →</a></p>
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+  {% endif %}
+
+ 
 </article>

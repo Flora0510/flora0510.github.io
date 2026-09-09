@@ -1,6 +1,7 @@
 ---
 title: "Lecture interactive"
-image: /assets/images/animations/lecture-interactive.png
+image: /assets/images/animations/lecture-interactive.png
+romans: ["La compétition!"]
 niveaux: [anim2]
 auteures: [lora]
 ---

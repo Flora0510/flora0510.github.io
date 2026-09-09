@@ -1,7 +1,9 @@
 ---
 title: "Les royaumes fantastiques"
 image: /assets/images/animations/les-royaumes-fantastiques.jpg
-niveaux: [anim2]
+
+romans: ["La mission de Pendragon","Le voeu de Sofia", "Le piège maléfique", "Le défi du roi", "Magie noire", "Des ailes pour Sofia", "Amis et liberté!", "Le bal des fées", "Les princes ont disparu!", "Le sablier arc-en-ciel", "Aventuriers des mers 1"]
+niveaux: [anim1]
 auteures: [carolyn]
 ---
 L’animation débute par la présentation de mon processus d’écriture. Je ferai ensuite la lecture interactive d’une histoire où dragons et licornes se côtoient dans l’univers magique des royaumes fantastiques. Les élèves feront la connaissance de Pendragon, un petit dragon attendrissant et très différent des autres, ainsi que de Sofia, la princesse du royaume des licornes. 
