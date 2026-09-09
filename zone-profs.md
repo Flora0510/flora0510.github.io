@@ -33,8 +33,8 @@ permalink: /zone-profs/
       </div>
        <div class="feature-card">
         <h3>Animations scolaires</h3>
-        <p>Carolyn et Lora visitent les écoles pour partager leur passion pour l'écriture. Elles sont membres du répertoire Culture-Éducation. Écrivez un courriel au info@editionsapplit.com pour réserver une animation!</p>
-        <a href="{{ '/parcours-litteraire/' | relative_url }}">En savoir plus →</a>
+        <p>Carolyn et Lora visitent les écoles pour partager leur passion pour l'écriture. Elles sont membres du répertoire Culture-Éducation.</p>
+        <a href="{{ '/animations/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="feature-card">
         <h3>Parcours littéraire</h3>

@@ -8,22 +8,27 @@ permalink: /a-propos/
 
 {% if site.filtre_auteure %}
 {% assign a = site.data.auteures[site.filtre_auteure] %}
+<div class="auteure-bloc auteure-bloc--inverse">
 {% if a.photo %}
-<div class="book-cover" style="max-width: 240px; aspect-ratio: 1/1; margin-bottom: 1.5rem;">
-<img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}">
-</div>
+<div class="auteure-photo"><img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}"></div>
 {% endif %}
-<div>{{ a.bio | markdownify }}</div>
+<div class="auteure-texte">
+<h2>{{ a.nom }}</h2>
+{{ a.bio | markdownify }}
+</div>
+</div>
 {% else %}
+{% assign i = 0 %}
 {% for entree in site.data.auteures %}
-<div style="margin-bottom: 2.5rem;">
-<h2>{{ entree[1].nom }}</h2>
+{% assign i = i | plus: 1 %}
+<div class="auteure-bloc auteure-bloc--inverse">
 {% if entree[1].photo %}
-<div class="book-cover" style="max-width: 200px; aspect-ratio: 1/1; margin-bottom: 1rem;">
-<img src="{{ entree[1].photo | relative_url }}" alt="Photo de {{ entree[1].nom }}">
-</div>
+<div class="auteure-photo"><img src="{{ entree[1].photo | relative_url }}" alt="Photo de {{ entree[1].nom }}"></div>
 {% endif %}
-<div>{{ entree[1].bio | markdownify }}</div>
+<div class="auteure-texte">
+<h2>{{ entree[1].nom }}</h2>
+{{ entree[1].bio | markdownify }}
+</div>
 </div>
 {% endfor %}
 {% endif %}

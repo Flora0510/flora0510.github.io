@@ -50,6 +50,7 @@ title: Accueil
       {% else %}
       {% assign livres_affiches = site.livres %}
       {% endif %}
+{% assign livres_affiches = livres_affiches | sort: "annee" | reverse %}
 
 {% for livre in livres_affiches limit: 8 %}
 <a class="book" href="{{ livre.url | relative_url }}">

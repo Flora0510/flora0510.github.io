@@ -1,8 +1,27 @@
 ---
 layout: default
 ---
-<article class="wrap" style="padding: 3rem 0; max-width: 760px;">
+<article class="wrap texte-large" style="padding: 3rem 0; max-width: 800px;">
   <p><a href="{{ '/zone-profs/' | relative_url }}">← Retour à la Zone profs</a></p>
   <h1>{{ page.title }}</h1>
   {{ content }}
+
+  {% if page.roman %}
+    {% assign livre_lie = site.livres | where: "title", page.roman | first %}
+    {% if livre_lie %}
+    <section style="margin-top: 3rem;">
+      <h2>Roman lié à l'activité</h2>
+      <div class="livre-detail">
+        <div class="book-cover{% if livre_lie.format == 'carre' %} carre{% endif %}" style="max-width: 220px;">
+          <img src="{{ livre_lie.image | relative_url }}" alt="Couverture de {{ livre_lie.title }}">
+        </div>
+        <div>
+          <h3>{{ livre_lie.title }}</h3>
+          <div>{{ livre_lie.content | strip_html | truncatewords: 60 }}</div>
+          <p><a class="btn" href="{{ livre_lie.url | relative_url }}">Voir le livre →</a></p>
+        </div>
+      </div>
+    </section>
+    {% endif %}
+  {% endif %}
 </article>

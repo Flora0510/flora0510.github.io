@@ -3,7 +3,7 @@ layout: default
 title: Événements
 permalink: /evenements/
 ---
-<div class="wrap" style="padding: 3rem 0;">
+<div class="wrap texte-large" style="padding: 3rem 0;">
   <h1>Événements</h1>
   <p>Venez nous rencontrer lors des événements en salon du livre, en librairie ou en bibliothèque.</p>
 
