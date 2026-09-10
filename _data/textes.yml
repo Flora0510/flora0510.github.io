@@ -35,6 +35,37 @@ commun:
   animations_biblio:
     intro: "Des animations pensées pour les bibliothèques : rencontres, ateliers d'écriture et activités autour de la lecture."
     references: []
+  zone_profs:
+    propositions:
+      - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
+        texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman Aventuriers des mers."
+        lien: "/zone-profs/jeu-evasion-aventuriers/"
+      - titre: "Jeu d'évasion littéraire - Le détenu de Trois-Rivières"
+        texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman Le détenu de Trois-Rivières."
+        lien: "/zone-profs/jeu-evasion-coince-dans-lhistoire/"
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Fiches pédagogiques"
+        texte: "Découvrez les fiches pédagogiques en lien avec les romans des auteures."
+        lien: "/zone-profs/fiches-pedagogiques/"
+      - titre: "Animations scolaires"
+        texte: "Carolyn et Lora visitent les écoles pour partager leur passion pour l'écriture. Elles sont membres du répertoire Culture-Éducation."
+        lien: "/animations/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en classe."
+        lien: "/parcours-litteraire/"
+  zone_biblio:
+    propositions:
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
+        lien: "/parcours-litteraire/"
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Animations"
+        texte: "Carolyn et Lora visitent les bibliothèques pour partager leur passion pour l'écriture."
+        lien: "/animations-biblio/"
 
 lora:
   accueil:
@@ -62,6 +93,37 @@ lora:
         texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
         lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
         lien_texte: "Consulter le site de l'UNEQ"
+  # Pas de jeu d'évasion listé ici pour l'instant (les 2 existants sont liés
+  # aux romans de Carolyn) — ajoute une entrée quand tu en auras un.
+  zone_profs:
+    propositions:
+      - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
+        texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Aventuriers des mers."
+        lien: "/zone-profs/jeu-evasion-aventuriers/"
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Fiches pédagogiques"
+        texte: "Découvre les fiches pédagogiques en lien avec mes romans."
+        lien: "/zone-profs/fiches-pedagogiques/"
+      - titre: "Animations scolaires"
+        texte: "Je visite les écoles pour partager ma passion pour l'écriture. Je suis membre du répertoire Culture-Éducation."
+        lien: "/animations/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
+        lien: "/parcours-litteraire/"
+  zone_biblio:
+    propositions:
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Animations"
+        texte: "Je visite les bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations-biblio/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
+        lien: "/parcours-litteraire/"
+
 
 carolyn:
   accueil:
@@ -92,3 +154,34 @@ carolyn:
         texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
         lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
         lien_texte: "Consulter le site de l'UNEQ"
+  zone_profs:
+    propositions:
+      - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
+        texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Aventuriers des mers."
+        lien: "/zone-profs/jeu-evasion-aventuriers/"
+      - titre: "Jeu d'évasion littéraire - Le détenu de Trois-Rivières"
+        texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Le détenu de Trois-Rivières."
+        lien: "/zone-profs/jeu-evasion-coince-dans-lhistoire/"
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Fiches pédagogiques"
+        texte: "Découvre les fiches pédagogiques en lien avec mes romans."
+        lien: "/zone-profs/fiches-pedagogiques/"
+      - titre: "Animations scolaires"
+        texte: "Je visite les écoles pour partager ma passion pour l'écriture. Je suis membre du répertoire Culture-Éducation."
+        lien: "/animations/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
+        lien: "/parcours-litteraire/"
+  zone_biblio:
+    propositions:
+      - titre: "Bandits des mers"
+        texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
+      - titre: "Animations"
+        texte: "Je visite les bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations-biblio/"
+      - titre: "Parcours littéraire"
+        texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
+        lien: "/parcours-litteraire/"

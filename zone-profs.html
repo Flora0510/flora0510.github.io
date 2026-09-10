@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Zone biblio
-permalink: /zone-biblio/
+title: Zone profs
+permalink: /zone-profs/
 ---
 <div class="wrap" style="padding-top: 3rem; padding-bottom: 0.5rem;">
-<h1>Zone biblio</h1>
-<p>Des ressources pour préparer une visite en bibliothèque.</p>
+<h1>Zone profs</h1>
+<p>Des ressources pour préparer une visite en classe ou prolonger la lecture des livres.</p>
 </div>
 
 {% assign cle_site = site.filtre_auteure | default: "commun" %}
 <section>
 <div class="wrap">
 <div class="feature-grid">
-{% for prop in site.data.textes[cle_site].zone_biblio.propositions %}
+{% for prop in site.data.textes[cle_site].zone_profs.propositions %}
 <div class="feature-card">
 <h3>{{ prop.titre }}</h3>
 <p>{{ prop.texte }}</p>
