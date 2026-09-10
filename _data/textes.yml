@@ -29,7 +29,7 @@ commun:
     intro: "Voici les livres de Carolyn et Lora."
   a_propos:
     image: /assets/images/auteures/commun.jpg
-    texte: "Lora et Carolyn forment un duo d'autrices jeunesse qui aiment mêler aventure, énigmes et technologie pour donner le goût de lire. Découvrez-les ci-dessous, et visitez leur site personnel pour en savoir plus sur chacune."
+    texte: "Fondées en 2022, les Éditions AppLit ont été créées par deux auteures jeunesse. Lora Boisvert et Carolyn Chouinard ont d’abord joint leur passion afin d’offrir aux jeunes lecteurs des récits écrits à quatre mains. Après l'obtention de son BACC en Communication, profil médias interactifs, Lora a eu l’idée d’amalgamer littérature et technologie en créant une application mobile offrant des compléments interactifs et immersifs au livre papier. Des visuels en 360°, des énigmes à résoudre ainsi que la réalité augmentée ne sont que quelques-uns des éléments utilisés pour créer un contenu littéraire novateur. Une formule idéale pour entretenir le plaisir de lire, qui se retrouve au cœur de leur mission."
   animations:
     references: []
   animations_biblio:

@@ -24,14 +24,18 @@
           {% include social-icons.html auteure=auteure_active %}
         </div>
       {% else %}
-        {% for entree in site.data.auteures %}
-          {% assign auteure_active = entree[1] %}
-          {% assign prenom = auteure_active.nom | split: " " | first %}
-          <p class="social-links-label">Suivre {{ prenom }}</p>
-          <div class="social-links" style="margin-bottom: 0.9rem;">
-            {% include social-icons.html auteure=auteure_active %}
-          </div>
-        {% endfor %}
+        <div class="social-groupes">
+          {% for entree in site.data.auteures %}
+            {% assign auteure_active = entree[1] %}
+            {% assign prenom = auteure_active.nom | split: " " | first %}
+            <div class="social-groupe">
+              <p class="social-links-label">Suivre {{ prenom }}</p>
+              <div class="social-links">
+                {% include social-icons.html auteure=auteure_active %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
       {% endif %}
     </div>
   </div>

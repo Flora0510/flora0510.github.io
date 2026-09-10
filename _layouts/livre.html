@@ -29,6 +29,15 @@ layout: default
           {% if page.editeur %}{{ page.editeur }}{% endif %}
         </p>
       {% endif %}
+      {% if site.filtre_auteure == "" %}
+        {% if page.auteures %}
+          {% capture noms_auteures %}{% for cle in page.auteures %}{{ site.data.auteures[cle].nom }}{% unless forloop.last %}{% if forloop.rindex == 2 %} et {% else %}, {% endif %}{% endunless %}{% endfor %}{% endcapture %}
+          <p><strong>{% if page.auteures.size > 1 %}Autrices{% else %}Autrice{% endif %} :</strong> {{ noms_auteures }}</p>
+        {% endif %}
+        {% if page.illustrateur %}
+          <p><strong>Illustration :</strong> {{ page.illustrateur }}</p>
+        {% endif %}
+      {% endif %}
       <div>{{ content }}</div>
       {% if page.lien_achat %}
         <p><a class="btn" href="{{ page.lien_achat }}" target="_blank" rel="noopener">Voir sur leslibraires.ca →</a></p>

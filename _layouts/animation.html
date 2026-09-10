@@ -14,6 +14,15 @@ layout: default
     </p>
   {% endif %}
 
+  {% if site.filtre_auteure == "" %}
+    {% if page.qui_anime %}
+      <p><strong>Animée par :</strong> {{ page.qui_anime }}</p>
+    {% endif %}
+    {% if page.region %}
+      <p><strong>Région desservie :</strong> {{ page.region }}</p>
+    {% endif %}
+  {% endif %}
+
   <div>{{ content }}</div>
   
   <p><a class="btn" href="mailto:{{ site.email }}">Réserver cette animation</a></p>
