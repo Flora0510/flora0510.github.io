@@ -3,7 +3,7 @@ layout: default
 title: Zone profs
 permalink: /zone-profs/
 ---
-<div class="wrap" style="padding: 3rem 0;">
+<div class="wrap" style="padding-top: 3rem; padding-bottom: 3rem;">
   <h1>Zone profs</h1>
   <p>Des ressources pour préparer une visite en classe ou prolonger la lecture des livres.</p>
 

@@ -6,19 +6,18 @@
         <p>
           <a href="{{ '/' | relative_url }}">Accueil</a><br>
           <a href="{{ '/livres/' | relative_url }}">Livres</a><br>
-          <a href="{{ '/animations/' | relative_url }}">Animations</a><br>
+          <a href="{{ '/evenements/' | relative_url }}">Événements</a><br>
           <a href="{{ '/zone-biblio/' | relative_url }}">Zone biblio</a>
         </p>
-        <p>
-          <a href="{{ '/evenements/' | relative_url }}">Événements</a><br>
-          <a href="{{ '/a-propos/' | relative_url }}">À propos</a><br>
+        <p>                   
           <a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a><br>
+          <a href="{{ '/a-propos/' | relative_url }}">À propos</a><br>
           <a href="{{ '/contact/' | relative_url }}">Contact</a>
         </p>
       </nav>
     </div>
     <div>
-      <h3>Suivez-nous</h3>
+      <h3>Réseaux sociaux</h3>
       {% if site.filtre_auteure != "" %}
         {% assign auteure_active = site.data.auteures[site.filtre_auteure] %}
         <div class="social-links">

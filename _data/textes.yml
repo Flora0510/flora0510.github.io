@@ -5,6 +5,11 @@
 # Clé "commun" = site commun (quand filtre_auteure est vide).
 # Clés "lora" / "carolyn" = sites personnels, doivent correspondre à
 # filtre_auteure dans _config_lora.yml / _config_carolyn.yml.
+#
+# Pour "animations" et "animations_biblio", le champ "references" est une
+# liste de blocs affichés en pleine largeur sous la grille (ex. Répertoire
+# culture-éducation, UNEQ). Chaque bloc : titre, texte, et un lien optionnel
+# (lien + lien_texte). Laisse la liste vide ([]) si rien à afficher.
 
 commun:
   accueil:
@@ -26,15 +31,15 @@ commun:
     image: /assets/images/auteures/commun.jpg
     texte: "Lora et Carolyn forment un duo d'autrices jeunesse qui aiment mêler aventure, énigmes et technologie pour donner le goût de lire. Découvrez-les ci-dessous, et visitez leur site personnel pour en savoir plus sur chacune."
   animations:
-    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations (ex. tarifs, zone desservie, conditions de réservation)."
+    references: []
   animations_biblio:
     intro: "Des animations pensées pour les bibliothèques : rencontres, ateliers d'écriture et activités autour de la lecture."
-    texte_apres: "Remplace ce texte par une note destinée aux bibliothécaires (ex. tarifs, zone desservie, conditions de réservation)."
+    references: []
 
 lora:
   accueil:
     titre: "Des livres jeunesse à lire et à vivre"
-    texte: "Des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
+    texte: "Des aventures pleines d'énigmes et des animations pour donner le goût de lire aux jeunes!"
     propositions:
       - titre: "Mes romans"
         texte: "Remplace ce texte par une présentation de tes livres."
@@ -43,32 +48,47 @@ lora:
         texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
         lien: "/animations/"
   livres:
-    intro: "Voici mes livres."
+    intro: ""
   animations:
-    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations."
+    references:
+      - titre: "Le Répertoire culture-éducation"
+        texte: "Je suis membre du répertoire culture-éducation. Vous pouvez inviter les auteures dans vos classes grâce au volet Ateliers culturels à l'école : ce volet permet à des partenaires culturels (artistes, écrivains et représentants d'organismes culturels) de se rendre dans les classes et de présenter aux élèves leur démarche créatrice dans le cadre d'un atelier. Selon la région et les ressources disponibles, l'aide financière associée au volet Ateliers culturels à l'école peut atteindre 100 % des dépenses admissibles (ou 75 % pour les établissements d'enseignement privés). Les projets d'ateliers culturels doivent être soumis aux centres de services scolaires (CSS), aux commissions scolaires (CS) ou à la Direction de l'enseignement privé du Ministère, selon les modalités qu'ils ou elles ont déterminées. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
+        lien: "https://www.education.gouv.qc.ca/enseignants/dossiers/culture-education/programme-la-culture-a-lecole/ateliers-culturels-a-lecole/"
+        lien_texte: "Informations tirées du ministère de l'éducation"
   animations_biblio:
     intro: "Des animations pensées pour les bibliothèques."
-    texte_apres: "Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d’art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada. Vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres.
-
-Cela vous permettra de recevoir les auteures à plus faible coût. Vous aurez des frais de gestion de 80$ + taxes à payer et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ.
-
-Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
+    references:
+      - titre: "L'UNEQ"
+        texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
+        lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
+        lien_texte: "Consulter le site de l'UNEQ"
 
 carolyn:
   accueil:
-    titre: "Des livres jeunesse à lire et à vivre"
+    titre: "Carolyn Chouinard - Auteure jeunesse"
     texte: "Des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
     propositions:
-      - titre: "Mes romans"
-        texte: "Remplace ce texte par une présentation de tes livres."
-        lien: "/livres/"
       - titre: "Animations scolaires"
-        texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
+        texte: "Je visite les écoles pour partager ma passion pour l'écriture."
         lien: "/animations/"
+      - titre: "Animations en bibliothèques"
+        texte: "Je visite également les bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations-biblio/"
+      - titre: "Parcours littéraire"
+        texte: "Ce parcours est une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
+        lien: "/parcours-litteraire/"
   livres:
-    intro: "Voici mes livres."
+    intro: ""
   animations:
-    texte_apres: "Remplace ce texte par une note de bas de page pour la page Animations."
+    references:
+      - titre: "Le Répertoire culture-éducation"
+        texte: "Je suis membre du répertoire culture-éducation. Vous pouvez inviter les auteures dans vos classes grâce au volet Ateliers culturels à l'école : ce volet permet à des partenaires culturels (artistes, écrivains et représentants d'organismes culturels) de se rendre dans les classes et de présenter aux élèves leur démarche créatrice dans le cadre d'un atelier. Selon la région et les ressources disponibles, l'aide financière associée au volet Ateliers culturels à l'école peut atteindre 100 % des dépenses admissibles (ou 75 % pour les établissements d'enseignement privés). Les projets d'ateliers culturels doivent être soumis aux centres de services scolaires (CSS), aux commissions scolaires (CS) ou à la Direction de l'enseignement privé du Ministère, selon les modalités qu'ils ou elles ont déterminées. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
+        lien: "https://www.education.gouv.qc.ca/enseignants/dossiers/culture-education/programme-la-culture-a-lecole/ateliers-culturels-a-lecole/"
+        lien_texte: "Informations tirées du ministère de l'éducation"
   animations_biblio:
     intro: "Des animations pensées pour les bibliothèques."
-    texte_apres: "Remplace ce texte par une note destinée aux bibliothécaires."
+    references:
+      - titre: "L'UNEQ"
+        texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
+        lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
+        lien_texte: "Consulter le site de l'UNEQ"

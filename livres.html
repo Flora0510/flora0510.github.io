@@ -3,7 +3,7 @@ layout: default
 title: Livres
 permalink: /livres/
 ---
-<div class="wrap" style="padding: 3rem 0;">
+<div class="wrap" style="padding-top: 3rem; padding-bottom: 3rem;">
   <h1>Livres</h1>
   {% assign cle_site = site.filtre_auteure | default: "commun" %}
   <p>{{ site.data.textes[cle_site].livres.intro }}</p>

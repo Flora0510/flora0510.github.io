@@ -6,11 +6,10 @@
       <ul>
         <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Accueil</a></li>
         <li><a href="{{ '/livres/' | relative_url }}" {% if page.url contains '/livres/' %}aria-current="page"{% endif %}>Livres</a></li>
-        <li><a href="{{ '/animations/' | relative_url }}">Animations</a></li>
-        <li><a href="{{ '/evenements/' | relative_url }}">Événements</a></li>
-        <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>
+        <li><a href="{{ '/evenements/' | relative_url }}">Événements</a></li>        
         <li><a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a></li>
         <li><a href="{{ '/zone-biblio/' | relative_url }}">Zone biblio</a></li>
+        <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>
         <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
       </ul>
     </nav>

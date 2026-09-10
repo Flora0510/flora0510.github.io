@@ -3,7 +3,7 @@ layout: default
 title: Animations
 permalink: /animations/
 ---
-<div class="wrap" style="padding: 3rem 0;">
+<div class="wrap" style="padding-top: 3rem; padding-bottom: 3rem;">
 <h1>Animations</h1>
 <p></p>
 <p><a class="btn" href="mailto:{{ site.email }}">Réserver une animation</a></p>
@@ -35,5 +35,13 @@ permalink: /animations/
 {% endfor %}
 </div>
 {% assign cle_site = site.filtre_auteure | default: "commun" %}
-<p style="margin-top: 2rem;">{{ site.data.textes[cle_site].animations.texte_apres }}</p>
+<div class="texte-large">
+{% for ref in site.data.textes[cle_site].animations.references %}
+<div style="margin-top: 2.5rem;">
+<h2>{{ ref.titre }}</h2>
+<p>{{ ref.texte }}</p>
+{% if ref.lien %}<p><a href="{{ ref.lien }}" target="_blank" rel="noopener">{{ ref.lien_texte | default: "En savoir plus" }} →</a></p>{% endif %}
+</div>
+{% endfor %}
+</div>
 </div>
