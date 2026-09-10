@@ -1,6 +1,7 @@
 ---
 title: "Spectacle et rivalité"
 serie: "Reine de la glace"
+illustrateur: "Manuella Côté"
 tome: "4"
 tome_ordre: 4
 auteures: [lora]

@@ -1,6 +1,7 @@
 ---
 title: "Amitié et paillettes!"
 serie: "Reine de la glace"
+illustrateur: "Manuella Côté"
 tome: "1"
 tome_ordre: 1
 auteures: [lora]

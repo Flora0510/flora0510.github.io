@@ -1,6 +1,8 @@
 ---
 title: "Deviens illustrateur d’un jour!"
-image: /assets/images/animations/deviens-illustrateur-d-un-jour.png
+image: /assets/images/animations/deviens-illustrateur-d-un-jour.png
+qui_anime: "Lora"
+region: "Chaudière-Appalaches, Québec, Laval, Laurentides, Montréal"
 romans: ["Soccer entre amies"]
 niveaux: [anim1, anim2]
 auteures: [lora]

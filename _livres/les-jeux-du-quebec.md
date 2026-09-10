@@ -1,6 +1,7 @@
 ---
 title: "Les Jeux du Québec"
 serie: "Reine de la glace"
+illustrateur: "Manuella Côté"
 tome: "5"
 tome_ordre: 5
 auteures: [lora]

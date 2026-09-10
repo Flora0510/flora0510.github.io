@@ -1,6 +1,7 @@
 ---
 title: "Patinage avec les stars!"
 serie: "Reine de la glace"
+illustrateur: "Manuella Côté"
 tome: "3"
 tome_ordre: 3
 auteures: [lora]

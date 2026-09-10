@@ -1,6 +1,7 @@
 ---
 title: "La compétition!"
 serie: "Reine de la glace"
+illustrateur: "Manuella Côté"
 tome: "2"
 tome_ordre: 2
 auteures: [lora]

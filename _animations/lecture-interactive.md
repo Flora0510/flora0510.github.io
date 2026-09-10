@@ -1,7 +1,8 @@
 ---
 title: "Lecture interactive"
 image: /assets/images/animations/lecture-interactive.png
-
+qui_anime: "Lora"
+region: "Chaudière-Appalaches, Québec, Laval, Laurentides, Montréal"
 romans: ["La compétition!","Amitié et paillettes!","Patinage avec les stars!", "Spectacle et rivalité", "Les Jeux du Québec"]
 niveaux: [anim2]
 auteures: [lora]
