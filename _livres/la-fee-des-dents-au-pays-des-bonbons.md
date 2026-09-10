@@ -4,6 +4,7 @@ format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
+illustrateur: "Sabrina Gendron"
 image: /assets/images/livres/la-fee-des-dents-au-pays-des-bonbons.jpg
 lien_achat: "https://pantoute.leslibraires.ca/livres/la-fee-des-dents-au-pays-carolyn-chouinard-9782898243202.html"
 editeur: "Auzou"

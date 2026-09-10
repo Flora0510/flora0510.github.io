@@ -4,6 +4,7 @@ format: carre
 tome_ordre: 9999
 serie: "Léa la licorne - Collection Mes grands albums"
 auteures: [carolyn]
+illustrateur: "Elena Dall'Aglio"
 image: /assets/images/livres/lea-la-licorne-se-fait-des-amis.png
 lien_achat: "https://www.leslibraires.ca/livres/lea-la-licorne-se-fait-des-carolyn-chouinard-9782898246241.html"
 editeur: "Auzou"

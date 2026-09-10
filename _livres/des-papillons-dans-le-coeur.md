@@ -5,6 +5,7 @@ tome: "4"
 tome_ordre: 4
 annee: 2022
 auteures: [carolyn]
+illustrateur: "Blanche Louis-Michaud"
 image: /assets/images/livres/des-papillons-dans-le-coeur.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-journal-de-gabry-aile-t-carolyn-chouinard-9782898242915.html"
 editeur: "Auzou"

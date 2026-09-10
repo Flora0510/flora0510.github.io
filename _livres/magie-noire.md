@@ -4,6 +4,7 @@ serie: "L'espion des dragons"
 tome: "4"
 tome_ordre: 4
 auteures: [carolyn]
+illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/magie-noire.jpg
 lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-4-t-carolyn-chouinard-9782898242564.html"
 editeur: "Auzou"

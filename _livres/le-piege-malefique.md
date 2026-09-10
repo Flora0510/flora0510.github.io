@@ -4,6 +4,7 @@ serie: "L'espion des dragons"
 tome: "2"
 tome_ordre: 2
 auteures: [carolyn]
+illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/le-piege-malefique.png
 lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-le-piege-carolyn-chouinard-9782898241505.html"
 editeur: "Auzou"

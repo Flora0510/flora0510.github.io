@@ -4,6 +4,7 @@ serie: "Le carnet secret d'une licorne"
 tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
+illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/le-voeu-de-sofia.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-le-carolyn-chouinard-9782898240201.html"
 editeur: "Auzou"

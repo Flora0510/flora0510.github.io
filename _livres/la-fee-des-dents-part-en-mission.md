@@ -4,6 +4,7 @@ format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
+illustrateur: "Sabrina Gendron"
 image: /assets/images/livres/la-fee-des-dents-part-en-mission.webp
 lien_achat: "https://www.leslibraires.ca/livres/fee-des-dents-part-en-mission-carolyn-chouinard-9782898242199.html"
 editeur: "Auzou"

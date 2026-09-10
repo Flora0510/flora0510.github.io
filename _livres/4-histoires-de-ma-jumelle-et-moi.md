@@ -4,9 +4,10 @@ serie: "Ma jumelle et moi"
 tome: "hors-série, édition 4 aventures"
 tome_ordre: 9999
 annee: 2019
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/4-histoires-de-ma-jumelle-et-moi.webp
-lien_achat: "https://www.renaud-bray.com/Livres_Produit.aspx?id=2832610&def=4+histoires+de+Ma+jumelle+et+moi%2cCHOUINARD%2c+CAROLYN%2c9782897857615"
+lien_achat: "https://www.leslibraires.ca/livres/le-grand-livre-d-anais-et-carolyn-chouinard-9782897857615.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

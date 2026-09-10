@@ -3,6 +3,7 @@ title: "Un vœu en Thaïlande"
 serie: "Ma jumelle et moi"
 tome: "15"
 tome_ordre: 15
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/un-voeu-en-thailande.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-et-moi-t-15-carolyn-chouinard-9782898200298.html"

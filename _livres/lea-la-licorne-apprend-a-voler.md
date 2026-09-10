@@ -5,6 +5,7 @@ tome_ordre: 9999
 annee: 2026
 serie: "Léa la licorne - Collection Mes grands albums"
 auteures: [carolyn]
+illustrateur: "Elena Dall'Aglio"
 image: /assets/images/livres/lea-la-licorne-apprend-a-voler.png
 lien_achat: "https://www.leslibraires.ca/livres/lea-la-licorne-apprend-a-voler-9782898247873?srsltid=AfmBOor9_d-2a3cjh-Vhieem3NG34RJ_s646AL-6_9KKA5Yqy63eUVld"
 editeur: "Auzou"

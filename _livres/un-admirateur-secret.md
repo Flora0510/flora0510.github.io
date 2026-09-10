@@ -3,9 +3,10 @@ title: "Un admirateur secret"
 serie: "Ma jumelle et moi"
 tome: "7"
 tome_ordre: 7
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/un-admirateur-secret.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-7-un-carolyn-chouinard-9782897854058.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

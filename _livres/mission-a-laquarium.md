@@ -3,6 +3,7 @@ title: "Mission à l'aquarium"
 serie: "Ma jumelle et moi"
 tome: "Un roman dont tu es le héros"
 tome_ordre: 9999
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/mission-a-laquarium.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-et-moi-t-3-carolyn-chouinard-9782898200335.html"

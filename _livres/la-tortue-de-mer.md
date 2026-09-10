@@ -3,9 +3,10 @@ title: "La tortue de mer"
 serie: "Ma jumelle et moi"
 tome: "5"
 tome_ordre: 5
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/la-tortue-de-mer.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-la-tortue-de-carolyn-chouinard-9782897853020.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

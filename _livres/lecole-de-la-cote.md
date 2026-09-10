@@ -3,6 +3,7 @@ title: "L'école de la côte"
 serie: "So nice!"
 tome: "5"
 annee: 2018
+illustrateur: "Solène Debiès"
 tome_ordre: 5
 auteures: [carolyn, lora]
 image: /assets/images/livres/lecole-de-la-cote.jpg

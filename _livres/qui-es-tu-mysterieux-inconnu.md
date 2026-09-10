@@ -4,6 +4,7 @@ serie: "Le journal de Gabry-Aile"
 tome: "2"
 tome_ordre: 2
 auteures: [carolyn]
+illustrateur: "Blanche Louis-Michaud"
 image: /assets/images/livres/qui-es-tu-mysterieux-inconnu.webp
 lien_achat: "https://www.leslibraires.ca/livres/le-journal-de-gabry-aile-qui-carolyn-chouinard-9782898240720.html"
 editeur: "Auzou"

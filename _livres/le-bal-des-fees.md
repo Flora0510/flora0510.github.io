@@ -4,6 +4,7 @@ serie: "Le carnet secret d'une licorne"
 tome: "4"
 tome_ordre: 4
 auteures: [carolyn]
+illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/le-bal-des-fees.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-4-carolyn-chouinard-9782898241963.html"
 editeur: "Auzou"
@@ -11,4 +12,4 @@ age: "Dès 8 ans"
 ---
 Cher journal, Je viens d'apprendre que grand-mère Sybelle organisait autrefois un bal pour les licorneaux et les licornettes du royaume. Mes amis sont d'accord pour m'aider à le préparer, mais les fées nous offriront-elles leur aide? Sans elles, le bal ne pourra pas avoir lieu...
 
-                                                          Princesse Sofia
+Princesse Sofia

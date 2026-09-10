@@ -3,6 +3,7 @@ title: "Soccer entre amies"
 serie: "Ma jumelle et moi"
 tome: "11"
 tome_ordre: 11
+illustrateur: "Léa Matte"
 auteures: [carolyn, lora]
 image: /assets/images/livres/soccer-entre-amies.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-11-soccer-carolyn-chouinard-9782897855383.html"

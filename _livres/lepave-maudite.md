@@ -3,6 +3,7 @@ title: "L'épave maudite"
 serie: "So nice!"
 tome: "3"
 tome_ordre: 3
+illustrateur: "Solène Debiès"
 auteures: [carolyn, lora]
 image: /assets/images/livres/lepave-maudite.jpg
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-3-l-epave-carolyn-chouinard-9782897395452.html"

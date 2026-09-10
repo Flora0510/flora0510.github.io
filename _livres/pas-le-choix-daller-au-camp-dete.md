@@ -4,6 +4,7 @@ serie: "Le journal de Gabry-Aile"
 tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
+illustrateur: "Blanche Louis-Michaud"
 image: /assets/images/livres/pas-le-choix-daller-au-camp-dete.webp
 lien_achat: "https://www.leslibraires.ca/livres/le-journal-de-gabry-aile-pas-carolyn-chouinard-9782898240010.html"
 editeur: "Auzou"

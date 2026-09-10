@@ -3,9 +3,10 @@ title: "La planche à neige"
 serie: "Ma jumelle et moi"
 tome: "4"
 tome_ordre: 4
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/la-planche-a-neige.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-4-la-carolyn-chouinard-9782897851132.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

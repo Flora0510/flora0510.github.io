@@ -4,6 +4,7 @@ serie: "L'espion des dragons"
 tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
+illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/la-mission-de-pendragon.jpg
 lien_achat: "https://www.leslibraires.ca/livres/l-espion-des-dragons-la-mission-carolyn-chouinard-9782898240614.html"
 editeur: "Auzou"

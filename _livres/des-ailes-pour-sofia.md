@@ -3,6 +3,7 @@ title: "Des ailes pour Sofia"
 serie: "Le carnet secret d'une licorne"
 tome: "2"
 tome_ordre: 2
+illustrateur: "Evelyne Duverne"
 auteures: [carolyn]
 image: /assets/images/livres/des-ailes-pour-sofia.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-t-carolyn-chouinard-9782898241499.html"

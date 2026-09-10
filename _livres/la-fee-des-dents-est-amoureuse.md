@@ -4,6 +4,7 @@ format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
+illustrateur: "Sabrina Gendron"
 image: /assets/images/livres/la-fee-des-dents-est-amoureuse.jpg
 lien_achat: "https://www.leslibraires.ca/livres/la-fee-des-dents-est-amoureuse-carolyn-chouinard-9782898244254.html"
 editeur: "Auzou"

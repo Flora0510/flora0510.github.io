@@ -3,6 +3,7 @@ title: "Les princes ont disparu!"
 serie: "Le carnet secret d'une licorne"
 tome: "5"
 tome_ordre: 5
+illustrateur: "Evelyne Duverne"
 auteures: [carolyn]
 image: /assets/images/livres/les-princes-ont-disparu.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-5-carolyn-chouinard-9782898243189.html?u=39104"

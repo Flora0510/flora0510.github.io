@@ -2,10 +2,11 @@
 title: "La journée au zoo"
 serie: "Ma jumelle et moi"
 tome: "2"
+illustrateur: "Léa Matte"
 tome_ordre: 2
 auteures: [carolyn]
 image: /assets/images/livres/la-journee-au-zoo.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-2-la-carolyn-chouinard-9782897399047.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

@@ -4,9 +4,10 @@ serie: "Mon jumeau et moi"
 tome: "1"
 tome_ordre: 1
 annee: 2016
+illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/mystere-au-chalet.jpg
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/mon-jumeau-et-moi-t-1-carolyn-chouinard-9782897857226.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
 ---

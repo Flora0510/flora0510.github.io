@@ -4,6 +4,7 @@ serie: "So nice!"
 tome: "4"
 tome_ordre: 4
 auteures: [carolyn, lora]
+illustrateur: "Solène Debiès"
 image: /assets/images/livres/lile-sauvage.jpg
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-4-l-ile-carolyn-chouinard-9782897398187.html"
 editeur: "Dominique et Compagnie"

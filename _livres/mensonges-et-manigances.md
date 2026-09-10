@@ -4,6 +4,7 @@ serie: "So nice!"
 tome: "2"
 tome_ordre: 2
 auteures: [carolyn, lora]
+illustrateur: "Solène Debiès"
 image: /assets/images/livres/mensonges-et-manigances.jpg
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-2-mensonges-et-carolyn-chouinard-9782897394721.html"
 editeur: "Dominique et Compagnie"
