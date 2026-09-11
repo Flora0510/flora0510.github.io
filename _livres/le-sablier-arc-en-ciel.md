@@ -3,6 +3,7 @@ title: "Le sablier arc-en-ciel"
 serie: "Le carnet secret d'une licorne"
 tome: "6"
 tome_ordre: 6
+annee: 2024
 auteures: [carolyn]
 illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/le-sablier-arc-en-ciel.jpg

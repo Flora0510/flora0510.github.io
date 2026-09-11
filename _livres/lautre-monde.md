@@ -4,6 +4,7 @@ serie: "L'autre monde"
 tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
+annee: 2023
 image: /assets/images/livres/lautre-monde.jpg
 lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-01-la-quete-carolyn-chouinard-9782897098629.html"
 editeur: "Éditions Boomerang"

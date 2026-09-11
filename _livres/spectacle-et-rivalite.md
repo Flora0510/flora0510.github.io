@@ -5,6 +5,7 @@ illustrateur: "Manuella Côté"
 tome: "4"
 tome_ordre: 4
 auteures: [lora]
+annee: 2024
 image: /assets/images/livres/spectacle-et-rivalite.jpg
 lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-t-4-lora-boisvert-9782898244209.html"
 editeur: "Auzou"

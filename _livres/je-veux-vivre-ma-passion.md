@@ -3,6 +3,7 @@ title: "Je veux vivre ma passion!"
 serie: "Le journal de Gabry-Aile"
 tome: "3"
 tome_ordre: 3
+annee: 2021
 auteures: [carolyn]
 illustrateur: "Blanche Louis-Michaud"
 image: /assets/images/livres/je-veux-vivre-ma-passion.jpg

@@ -4,6 +4,7 @@ title: "Jeu dangereux à Québec"
 tome_ordre: 9999
 serie: "Frisson"
 auteures: [carolyn]
+annee: 2018
 illustrateur: "Pascale Crête"
 image: /assets/images/livres/jeu-dangereux-a-quebec.jpg
 lien_achat: "https://www.leslibraires.ca/livres/jeux-dangereux-carolyn-chouinard-9782762597790.html"

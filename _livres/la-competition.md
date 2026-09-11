@@ -5,6 +5,7 @@ illustrateur: "Manuella Côté"
 tome: "2"
 tome_ordre: 2
 auteures: [lora]
+annee: 2022
 image: /assets/images/livres/la-competition.jpg
 lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-t-2-lora-boisvert-9782898242182.html"
 editeur: "Auzou"

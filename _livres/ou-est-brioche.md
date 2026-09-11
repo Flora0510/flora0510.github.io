@@ -5,6 +5,7 @@ tome: "Un roman dont tu es le héros"
 tome_ordre: 9999
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2019
 image: /assets/images/livres/ou-est-brioche.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-et-moi-ou-est-brioche-niveau-de-lecture-6-9782897857820"
 editeur: "Dominique et Compagnie"

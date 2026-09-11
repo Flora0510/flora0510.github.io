@@ -3,6 +3,7 @@ title: "L'épave maudite"
 serie: "So nice!"
 tome: "3"
 tome_ordre: 3
+annee: 2016
 illustrateur: "Solène Debiès"
 auteures: [carolyn, lora]
 image: /assets/images/livres/lepave-maudite.jpg

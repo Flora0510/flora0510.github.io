@@ -3,6 +3,7 @@ title: "Des ailes pour Sofia"
 serie: "Le carnet secret d'une licorne"
 tome: "2"
 tome_ordre: 2
+annee: 2021
 illustrateur: "Evelyne Duverne"
 auteures: [carolyn]
 image: /assets/images/livres/des-ailes-pour-sofia.jpg

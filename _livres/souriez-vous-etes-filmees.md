@@ -5,6 +5,7 @@ tome: "10"
 tome_ordre: 10
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2019
 image: /assets/images/livres/souriez-vous-etes-filmees.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-10-souriez-carolyn-chouinard-9782897854928.html"
 editeur: "Dominique et Compagnie"

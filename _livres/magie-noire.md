@@ -3,6 +3,7 @@ title: "Magie noire"
 serie: "L'espion des dragons"
 tome: "4"
 tome_ordre: 4
+annee: 2022
 auteures: [carolyn]
 illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/magie-noire.jpg

@@ -3,6 +3,7 @@ title: "Danse illimitée"
 serie: "Sur le rythme"
 tome: "2"
 tome_ordre: 2
+annee: 2017
 auteures: [carolyn]
 image: /assets/images/livres/danse-illimitee.jpg
 lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-2-danse-carolyn-chouinard-9782897810665.html"

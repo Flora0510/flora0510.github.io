@@ -3,6 +3,7 @@ title: "Le puits magique"
 serie: "Compte à rebours"
 tome: "2"
 tome_ordre: 2
+annee: 2024
 auteures: [carolyn]
 image: /assets/images/livres/compte-a-rebours-2.jpg
 lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-2-le-carolyn-chouinard-9782897467593.html"

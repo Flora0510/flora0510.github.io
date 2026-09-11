@@ -3,6 +3,7 @@ title: "Soccer entre amies"
 serie: "Ma jumelle et moi"
 tome: "11"
 tome_ordre: 11
+annee: 2019
 illustrateur: "Léa Matte"
 auteures: [carolyn, lora]
 image: /assets/images/livres/soccer-entre-amies.jpg

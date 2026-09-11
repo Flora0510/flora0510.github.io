@@ -4,6 +4,7 @@ serie: "Reine de la glace"
 illustrateur: "Manuella Côté"
 tome: "5"
 tome_ordre: 5
+annee: 2025
 auteures: [lora]
 image: /assets/images/livres/les-jeux-du-quebec.png
 lien_achat: "https://www.leslibraires.ca/livres/les-jeux-du-quebec-lora-boisvert-9782898246067.html?srsltid=AfmBOor7oAlsLPCFogjwyVnSrrwXalyoc8gsl3IInG0Y86quwmvQRW2D"

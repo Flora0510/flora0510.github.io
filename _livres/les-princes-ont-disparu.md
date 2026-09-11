@@ -3,6 +3,7 @@ title: "Les princes ont disparu!"
 serie: "Le carnet secret d'une licorne"
 tome: "5"
 tome_ordre: 5
+annee: 2023
 illustrateur: "Evelyne Duverne"
 auteures: [carolyn]
 image: /assets/images/livres/les-princes-ont-disparu.jpg

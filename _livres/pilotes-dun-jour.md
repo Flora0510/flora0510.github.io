@@ -5,6 +5,7 @@ tome: "2"
 tome_ordre: 2
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2019
 image: /assets/images/livres/pilotes-dun-jour.jpg
 lien_achat: "https://www.leslibraires.ca/livres/mon-jumeau-et-moi-t-2-carolyn-chouinard-9782897857288.html"
 editeur: "Dominique et Compagnie"

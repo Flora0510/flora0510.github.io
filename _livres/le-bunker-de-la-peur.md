@@ -1,8 +1,10 @@
 ---
-title: "Le bunker de la peur"
+title: "Le bunker de la peur"
+
 tome_ordre: 9999
 serie: "Panik"
 auteures: [carolyn]
+annee: 2024
 image: /assets/images/livres/le-bunker-de-la-peur.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-bunker-de-la-peur-carolyn-chouinard-9782898245220.html"
 editeur: "Éditions Auzou"

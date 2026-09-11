@@ -3,7 +3,7 @@ title: "Mystère au chalet"
 serie: "Mon jumeau et moi"
 tome: "1"
 tome_ordre: 1
-annee: 2016
+annee: 2019
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/mystere-au-chalet.jpg

@@ -4,6 +4,7 @@ serie: "Le cercle d'Éloan"
 tome: "2"
 tome_ordre: 2
 auteures: [carolyn]
+annee: 2011
 image: /assets/images/livres/le-duel-des-apprentis.jpg
 lien_achat: "https://www.leslibraires.ca/livres/le-cercle-d-eloan-t-2-carolyn-chouinard-9782890749368.html"
 editeur: "Éditions De Mortagne"

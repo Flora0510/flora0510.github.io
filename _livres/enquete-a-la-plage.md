@@ -3,6 +3,7 @@ title: "Enquête à la plage"
 serie: "Ma jumelle et moi"
 tome: "Un roman dont tu es le héros"
 auteures: [carolyn]
+annee: 2019
 illustrateur: "Léa Matte"
 image: /assets/images/livres/enquete-a-la-plage.jpg
 lien_achat: "https://www.leslibraires.ca/livres/enquete-a-la-plage-carolyn-chouinard-9782897855918.html"

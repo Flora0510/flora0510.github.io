@@ -3,6 +3,7 @@ title: "Le piège maléfique"
 serie: "L'espion des dragons"
 tome: "2"
 tome_ordre: 2
+annee: 2021
 auteures: [carolyn]
 illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/le-piege-malefique.png

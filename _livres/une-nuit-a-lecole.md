@@ -5,6 +5,7 @@ tome: "9"
 tome_ordre: 9
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2018
 image: /assets/images/livres/une-nuit-a-lecole.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-9-une-carolyn-chouinard-9782897854690.html"
 editeur: "Dominique et Compagnie"

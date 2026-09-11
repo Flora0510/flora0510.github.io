@@ -5,6 +5,7 @@ tome: "4"
 tome_ordre: 4
 auteures: [carolyn]
 illustrateur: "Evelyne Duverne"
+annee: 2022
 image: /assets/images/livres/le-bal-des-fees.jpg
 lien_achat: "https://www.leslibraires.ca/livres/carnet-secret-d-une-licorne-4-carolyn-chouinard-9782898241963.html"
 editeur: "Auzou"

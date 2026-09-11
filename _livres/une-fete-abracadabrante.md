@@ -5,6 +5,7 @@ tome: "14"
 tome_ordre: 14
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2020
 image: /assets/images/livres/une-fete-abracadabrante.jpg
 lien_achat: "https://www.leslibraires.ca/livres/une-fete-abracadabrante-carolyn-chouinard-9782897859725.html"
 editeur: "Dominique et Compagnie"

@@ -4,6 +4,7 @@ serie: "Reine de la glace"
 illustrateur: "Manuella Côté"
 tome: "1"
 tome_ordre: 1
+annee: 2021
 auteures: [lora]
 image: /assets/images/livres/amitie-et-paillettes.jpg
 lien_achat: "https://www.leslibraires.ca/livres/reine-de-la-glace-amitie-et-lora-boisvert-9782898241338.html"

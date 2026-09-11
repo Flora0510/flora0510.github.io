@@ -3,6 +3,7 @@ title: "Mensonges et manigances"
 serie: "So nice!"
 tome: "2"
 tome_ordre: 2
+annee: 2016
 auteures: [carolyn, lora]
 illustrateur: "Solène Debiès"
 image: /assets/images/livres/mensonges-et-manigances.jpg

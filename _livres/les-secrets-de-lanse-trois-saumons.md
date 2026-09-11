@@ -2,6 +2,7 @@
 title: "Les secrets de l'anse Trois-Saumons"
 
 tome_ordre: 9999
+annee: 2026
 auteures: [carolyn, lora]
 illustrateur: "Kinos"
 image: /assets/images/livres/les-secrets-de-lanse-trois-saumons.png

@@ -3,7 +3,7 @@ title: "Ç'aurait pu être pire"
 serie: "So nice!"
 tome: "1"
 tome_ordre: 1
-annee: 2021
+annee: 2016
 illustrateur: "Solène Debiès"
 auteures: [carolyn, lora]
 image: /assets/images/livres/caurait-pu-etre-pire.jpg

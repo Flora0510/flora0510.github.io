@@ -6,7 +6,7 @@ serie: "Bandits des mers"
 format: carre
 auteures: [carolyn, lora]
 image: /assets/images/livres/aventuriers-des-mers-1.jpg
-lien_achat: "hhttps://www.leslibraires.ca/livres/aventuriers-des-mers-t-1-aventuriers-carolyn-chouinard-9782982106536.html"
+lien_achat: "https://www.leslibraires.ca/livres/aventuriers-des-mers-t-1-aventuriers-carolyn-chouinard-9782982106536.html"
 editeur: "Les éditions AppLit"
 age: "Dès 7 ans"
 ---

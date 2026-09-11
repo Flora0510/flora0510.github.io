@@ -3,7 +3,7 @@ title: "4 histoires de Ma jumelle et moi"
 serie: "Ma jumelle et moi"
 tome: "hors-série, édition 4 aventures"
 tome_ordre: 9999
-annee: 2019
+annee: 2021
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 image: /assets/images/livres/4-histoires-de-ma-jumelle-et-moi.webp

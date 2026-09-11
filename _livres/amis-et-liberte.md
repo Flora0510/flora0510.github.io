@@ -3,6 +3,7 @@ title: "Amis et liberté!"
 serie: "Le carnet secret d'une licorne"
 tome: "3"
 tome_ordre: 3
+annee: 2022
 auteures: [carolyn]
 illustrateur: "Evelyne Duverne"
 image: /assets/images/livres/amis-et-liberte.png

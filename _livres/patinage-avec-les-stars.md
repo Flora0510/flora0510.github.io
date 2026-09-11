@@ -5,6 +5,7 @@ illustrateur: "Manuella Côté"
 tome: "3"
 tome_ordre: 3
 auteures: [lora]
+annee: 2023
 image: /assets/images/livres/patinage-avec-les-stars.jpg
 lien_achat: "https://www.leslibraires.ca/livres/patinage-avec-les-stars-lora-boisvert-9782898243196.html"
 editeur: "Auzou"

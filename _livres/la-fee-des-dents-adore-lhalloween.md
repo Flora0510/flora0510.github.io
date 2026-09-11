@@ -4,6 +4,7 @@ format: carre
 tome_ordre: 9999
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
+annee: 2024
 illustrateur: "Sabrina Gendron"
 image: /assets/images/livres/la-fee-des-dents-adore-lhalloween.jpg
 lien_achat: "https://www.leslibraires.ca/livres/la-fee-des-dents-adore-l-carolyn-chouinard-9782898245527.html"

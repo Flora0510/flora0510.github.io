@@ -3,10 +3,10 @@ title: "Lieux hantés"
 
 tome_ordre: 9999
 serie: "Frisson"
-annee: 2025
+annee: 2021
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp
-lien_achat: "https://lien-vers-le-point-de-vente.com"
+lien_achat: "https://www.leslibraires.ca/livres/lieux-hantes-carolyn-chouinard-9782898123009.html"
 editeur: "Éditions Héritage"
 age: "Dès 9 ans"
 ---

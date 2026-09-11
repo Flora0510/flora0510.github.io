@@ -5,6 +5,7 @@ tome: "12"
 tome_ordre: 12
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+annee: 2019
 image: /assets/images/livres/le-tournoi-de-lamitie.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-12-le-carolyn-chouinard-9782897855369.html"
 editeur: "Dominique et Compagnie"

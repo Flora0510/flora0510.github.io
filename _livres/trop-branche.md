@@ -1,6 +1,8 @@
 ---
-title: "Trop branché!"
+title: "Trop branché!"
+
 tome_ordre: 9999
+annee: 2019
 auteures: [carolyn]
 image: /assets/images/livres/trop-branche.jpg
 lien_achat: "https://www.leslibraires.ca/livres/trop-branche-carolyn-chouinard-9782924833315.html"
