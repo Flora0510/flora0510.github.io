@@ -18,10 +18,13 @@ commun:
     propositions:
       - titre: "Bandits des mers"
         texte: "Lora Boisvert et Carolyn Chouinard te proposent une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
+        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Animations scolaires"
         texte: "Carolyn et Lora visitent les écoles et bibliothèques pour partager leur passion pour l'écriture."
+        lien: "/animations/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
+        lien: "/parcours-litteraire/"
   livres:
     intro: "Voici les livres de Carolyn et Lora."
   a_propos:
@@ -71,17 +74,22 @@ lora:
     titre: "Des livres jeunesse à lire et à vivre"
     texte: "Des aventures pleines d'énigmes et des animations pour donner le goût de lire aux jeunes!"
     propositions:
-      - titre: "Mes romans"
-        texte: "Remplace ce texte par une présentation de tes livres."
       - titre: "Animations scolaires"
-        texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
+        texte: "Je visite les écoles pour partager ma passion pour l'écriture."
+        lien: "/animations/"
+      - titre: "Animations en bibliothèques"
+        texte: "Je visite également les bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations-biblio/"
+      - titre: "Parcours littéraire"
+        texte: "Ce parcours est une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
+        lien: "/parcours-litteraire/"
   livres:
     intro: ""
   animations:
     references:
       - titre: "Le Répertoire culture-éducation"
         texte: "Lora est membre du répertoire culture-éducation. Vous pouvez l'inviter dans votre classe pour une des animations suivantes grâce au volet <a href='https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/ressources-outils-reseau-scolaire/culture-education/culture-ecole/ateliers-culturels-ecole' target='_blank' rel='noopener'>Ateliers culturels à l'école</a>. Selon la région et les ressources disponibles, l'aide financière peut atteindre 100 % des dépenses admissibles. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
-    intro: "Des animations pensées pour les bibliothèques."
+    intro: " "
     references:
       - titre: "L'UNEQ"
         texte: "Lora est membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel, une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez la recevoir à faible coût grâce au programme Tournées-rencontres. Vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Consultez le <a href='https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/' target='_blank' rel='noopener'>site de l'UNEQ</a> pour connaître les dates limites."
@@ -124,10 +132,13 @@ carolyn:
     propositions:
       - titre: "Animations scolaires"
         texte: "Je visite les écoles pour partager ma passion pour l'écriture."
+        lien: "/animations/"
       - titre: "Animations en bibliothèques"
         texte: "Je visite également les bibliothèques pour partager ma passion pour l'écriture."
+        lien: "/animations-biblio/"
       - titre: "Parcours littéraire"
         texte: "Ce parcours est une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
+        lien: "/parcours-litteraire/"
   livres:
     intro: ""
   animations:
@@ -135,7 +146,7 @@ carolyn:
       - titre: "Le Répertoire culture-éducation"
         texte: "Carolyn est membre du répertoire culture-éducation. Vous pouvez l'inviter  dans votre classe pour une des animations suivantes grâce au volet <a href='https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/ressources-outils-reseau-scolaire/culture-education/culture-ecole/ateliers-culturels-ecole' target='_blank' rel='noopener'>Ateliers culturels à l'école</a>. Selon la région et les ressources disponibles, l'aide financière peut atteindre 100 % des dépenses admissibles. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
   animations_biblio:
-    intro: "Des animations pensées pour les bibliothèques."
+    intro: " "
     references:
       - titre: "L'UNEQ"
         texte: "Carolyn est membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel, une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez la recevoir à faible coût grâce au programme Tournées-rencontres. Vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Consultez le <a href='https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/' target='_blank' rel='noopener'>site de l'UNEQ</a> pour connaître les dates limites."
