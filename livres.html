@@ -7,6 +7,13 @@ permalink: /livres/
   <h1>Livres</h1>
   {% assign cle_site = site.filtre_auteure | default: "commun" %}
   <p>{{ site.data.textes[cle_site].livres.intro }}</p>
+  {% if site.filtre_auteure == "" %}
+  <div class="filtre-auteures" role="group" aria-label="Filtrer par autrice">
+    <button type="button" class="filtre-btn active" data-filtre="tous">Tous les livres</button>
+    <button type="button" class="filtre-btn" data-filtre="carolyn">Carolyn</button>
+    <button type="button" class="filtre-btn" data-filtre="lora">Lora</button>
+  </div>
+  {% endif %}
 </div>
 
 {% if site.filtre_auteure != "" %}
@@ -24,7 +31,7 @@ permalink: /livres/
 {% if livres_de_cet_age.size > 0 %}
 {% assign compteur_section = compteur_section | plus: 1 %}
 {% assign paire = compteur_section | modulo: 2 %}
-<section{% if paire == 0 %} class="alt"{% endif %}>
+<section class="section-filtrable{% if paire == 0 %} alt{% endif %}">
 <div class="wrap">
 <h2>{{ age_label }}</h2>
 
@@ -55,7 +62,7 @@ permalink: /livres/
 {% if restants.size > 0 %}
 {% assign compteur_section = compteur_section | plus: 1 %}
 {% assign paire = compteur_section | modulo: 2 %}
-<section{% if paire == 0 %} class="alt"{% endif %}>
+<section class="section-filtrable{% if paire == 0 %} alt{% endif %}">
 <div class="wrap">
 <h2>Autres</h2>
 

@@ -18,54 +18,44 @@ commun:
     propositions:
       - titre: "Bandits des mers"
         texte: "Lora Boisvert et Carolyn Chouinard te proposent une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Animations scolaires"
         texte: "Carolyn et Lora visitent les écoles et bibliothèques pour partager leur passion pour l'écriture."
-        lien: "/animations/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
-        lien: "/parcours-litteraire/"
   livres:
     intro: "Voici les livres de Carolyn et Lora."
   a_propos:
     image: /assets/images/auteures/commun.jpg
     texte: "Fondées en 2022, les Éditions AppLit ont été créées par deux auteures jeunesse. Lora Boisvert et Carolyn Chouinard ont d’abord joint leur passion afin d’offrir aux jeunes lecteurs des récits écrits à quatre mains. Après l'obtention de son BACC en Communication, profil médias interactifs, Lora a eu l’idée d’amalgamer littérature et technologie en créant une application mobile offrant des compléments interactifs et immersifs au livre papier. Des visuels en 360°, des énigmes à résoudre ainsi que la réalité augmentée ne sont que quelques-uns des éléments utilisés pour créer un contenu littéraire novateur. Une formule idéale pour entretenir le plaisir de lire, qui se retrouve au cœur de leur mission."
   animations:
-    references: []
+    references:
+      - titre: "Le Répertoire culture-éducation"
+        texte: "Carolyn et Lora sont membres du répertoire culture-éducation. Vous pouvez inviter les auteures dans votre classe pour une des animations suivantes grâce au volet <a href='https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/ressources-outils-reseau-scolaire/culture-education/culture-ecole/ateliers-culturels-ecole' target='_blank' rel='noopener'>Ateliers culturels à l'école</a>. Selon la région et les ressources disponibles, l'aide financière peut atteindre 100 % des dépenses admissibles. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
   animations_biblio:
-    intro: "Des animations pensées pour les bibliothèques : rencontres, ateliers d'écriture et activités autour de la lecture."
+    intro: "Carolyn et Lora sont membres de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel, une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez les recevoir à faible coût grâce au programme Tournées-rencontres. Vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Consultez le <a href='https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/' target='_blank' rel='noopener'>site de l'UNEQ</a> pour connaître les dates limites."
     references: []
   zone_profs:
     propositions:
       - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
         texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman Aventuriers des mers."
-        lien: "/zone-profs/jeu-evasion-aventuriers/"
       - titre: "Jeu d'évasion littéraire - Le détenu de Trois-Rivières"
         texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman Le détenu de Trois-Rivières."
-        lien: "/zone-profs/jeu-evasion-coince-dans-lhistoire/"
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Fiches pédagogiques"
         texte: "Découvrez les fiches pédagogiques en lien avec les romans des auteures."
-        lien: "/zone-profs/fiches-pedagogiques/"
       - titre: "Animations scolaires"
         texte: "Carolyn et Lora visitent les écoles pour partager leur passion pour l'écriture. Elles sont membres du répertoire Culture-Éducation."
-        lien: "/animations/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en classe."
-        lien: "/parcours-litteraire/"
   zone_biblio:
     propositions:
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
-        lien: "/parcours-litteraire/"
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Animations"
         texte: "Carolyn et Lora visitent les bibliothèques pour partager leur passion pour l'écriture."
-        lien: "/animations-biblio/"
 
 lora:
   accueil:
@@ -74,55 +64,40 @@ lora:
     propositions:
       - titre: "Mes romans"
         texte: "Remplace ce texte par une présentation de tes livres."
-        lien: "/livres/"
       - titre: "Animations scolaires"
         texte: "Je visite les écoles et bibliothèques pour partager ma passion pour l'écriture."
-        lien: "/animations/"
   livres:
     intro: ""
   animations:
     references:
       - titre: "Le Répertoire culture-éducation"
-        texte: "Je suis membre du répertoire culture-éducation. Vous pouvez inviter les auteures dans vos classes grâce au volet Ateliers culturels à l'école : ce volet permet à des partenaires culturels (artistes, écrivains et représentants d'organismes culturels) de se rendre dans les classes et de présenter aux élèves leur démarche créatrice dans le cadre d'un atelier. Selon la région et les ressources disponibles, l'aide financière associée au volet Ateliers culturels à l'école peut atteindre 100 % des dépenses admissibles (ou 75 % pour les établissements d'enseignement privés). Les projets d'ateliers culturels doivent être soumis aux centres de services scolaires (CSS), aux commissions scolaires (CS) ou à la Direction de l'enseignement privé du Ministère, selon les modalités qu'ils ou elles ont déterminées. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
-        lien: "https://www.education.gouv.qc.ca/enseignants/dossiers/culture-education/programme-la-culture-a-lecole/ateliers-culturels-a-lecole/"
-        lien_texte: "Informations tirées du ministère de l'éducation"
-  animations_biblio:
+        texte: "Lora est membre du répertoire culture-éducation. Vous pouvez l'inviter dans votre classe pour une des animations suivantes grâce au volet <a href='https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/ressources-outils-reseau-scolaire/culture-education/culture-ecole/ateliers-culturels-ecole' target='_blank' rel='noopener'>Ateliers culturels à l'école</a>. Selon la région et les ressources disponibles, l'aide financière peut atteindre 100 % des dépenses admissibles. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
     intro: "Des animations pensées pour les bibliothèques."
     references:
       - titre: "L'UNEQ"
-        texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
-        lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
-        lien_texte: "Consulter le site de l'UNEQ"
+        texte: "Lora est membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel, une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez la recevoir à faible coût grâce au programme Tournées-rencontres. Vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Consultez le <a href='https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/' target='_blank' rel='noopener'>site de l'UNEQ</a> pour connaître les dates limites."
   # Pas de jeu d'évasion listé ici pour l'instant (les 2 existants sont liés
   # aux romans de Carolyn) — ajoute une entrée quand tu en auras un.
   zone_profs:
     propositions:
       - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
         texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Aventuriers des mers."
-        lien: "/zone-profs/jeu-evasion-aventuriers/"
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Fiches pédagogiques"
         texte: "Découvre les fiches pédagogiques en lien avec mes romans."
-        lien: "/zone-profs/fiches-pedagogiques/"
       - titre: "Animations scolaires"
         texte: "Je visite les écoles pour partager ma passion pour l'écriture. Je suis membre du répertoire Culture-Éducation."
-        lien: "/animations/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
-        lien: "/parcours-litteraire/"
   zone_biblio:
     propositions:
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Animations"
         texte: "Je visite les bibliothèques pour partager ma passion pour l'écriture."
-        lien: "/animations-biblio/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
-        lien: "/parcours-litteraire/"
 
 
 carolyn:
@@ -132,56 +107,40 @@ carolyn:
     propositions:
       - titre: "Animations scolaires"
         texte: "Je visite les écoles pour partager ma passion pour l'écriture."
-        lien: "/animations/"
       - titre: "Animations en bibliothèques"
         texte: "Je visite également les bibliothèques pour partager ma passion pour l'écriture."
-        lien: "/animations-biblio/"
       - titre: "Parcours littéraire"
         texte: "Ce parcours est une façon ludique d'intégrer les arts numériques et la littérature en classe ou en bibliothèque."
-        lien: "/parcours-litteraire/"
   livres:
     intro: ""
   animations:
     references:
       - titre: "Le Répertoire culture-éducation"
-        texte: "Je suis membre du répertoire culture-éducation. Vous pouvez inviter les auteures dans vos classes grâce au volet Ateliers culturels à l'école : ce volet permet à des partenaires culturels (artistes, écrivains et représentants d'organismes culturels) de se rendre dans les classes et de présenter aux élèves leur démarche créatrice dans le cadre d'un atelier. Selon la région et les ressources disponibles, l'aide financière associée au volet Ateliers culturels à l'école peut atteindre 100 % des dépenses admissibles (ou 75 % pour les établissements d'enseignement privés). Les projets d'ateliers culturels doivent être soumis aux centres de services scolaires (CSS), aux commissions scolaires (CS) ou à la Direction de l'enseignement privé du Ministère, selon les modalités qu'ils ou elles ont déterminées. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
-        lien: "https://www.education.gouv.qc.ca/enseignants/dossiers/culture-education/programme-la-culture-a-lecole/ateliers-culturels-a-lecole/"
-        lien_texte: "Informations tirées du ministère de l'éducation"
+        texte: "Carolyn est membre du répertoire culture-éducation. Vous pouvez l'inviter  dans votre classe pour une des animations suivantes grâce au volet <a href='https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/ressources-outils-reseau-scolaire/culture-education/culture-ecole/ateliers-culturels-ecole' target='_blank' rel='noopener'>Ateliers culturels à l'école</a>. Selon la région et les ressources disponibles, l'aide financière peut atteindre 100 % des dépenses admissibles. Pour plus de détails, les enseignants peuvent s'adresser à leur direction d'école."
   animations_biblio:
     intro: "Des animations pensées pour les bibliothèques."
     references:
       - titre: "L'UNEQ"
-        texte: "Je suis membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel (événement, maison de la culture, musée, galerie d'art, etc.), une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez recevoir nos auteurs grâce au programme Tournées-rencontres. Cela vous permettra de recevoir les auteures à plus faible coût : vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Il y a des dates limites pour faire vos demandes, alors consultez le site de l'UNEQ et faites vos demandes en avance."
-        lien: "https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/"
-        lien_texte: "Consulter le site de l'UNEQ"
+        texte: "Carolyn est membre de l'UNEQ. Si vous êtes une bibliothèque, un organisme à caractère culturel, une librairie, un lieu de diffusion culturel, un collège ou une université au Canada, vous pouvez la recevoir à faible coût grâce au programme Tournées-rencontres. Vous aurez des frais de gestion de 80$ + taxes à payer, et le cachet ainsi que les frais de déplacement de l'auteure seront pris en charge par l'UNEQ. Consultez le <a href='https://www.uneq.qc.ca/services/programmes-de-rencontres/tournees-rencontre/' target='_blank' rel='noopener'>site de l'UNEQ</a> pour connaître les dates limites."
   zone_profs:
     propositions:
       - titre: "Jeu d'évasion littéraire - Aventuriers des mers"
         texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Aventuriers des mers."
-        lien: "/zone-profs/jeu-evasion-aventuriers/"
       - titre: "Jeu d'évasion littéraire - Le détenu de Trois-Rivières"
         texte: "Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait de mon roman Le détenu de Trois-Rivières."
-        lien: "/zone-profs/jeu-evasion-coince-dans-lhistoire/"
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Fiches pédagogiques"
         texte: "Découvre les fiches pédagogiques en lien avec mes romans."
-        lien: "/zone-profs/fiches-pedagogiques/"
       - titre: "Animations scolaires"
         texte: "Je visite les écoles pour partager ma passion pour l'écriture. Je suis membre du répertoire Culture-Éducation."
-        lien: "/animations/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
-        lien: "/parcours-litteraire/"
   zone_biblio:
     propositions:
       - titre: "Bandits des mers"
         texte: "Une expérience immersive alliant littérature et réalité augmentée. Grâce à l'application Les Éditions AppLit, plonge au cœur de l'intrigue, observe les décors à 360 degrés et résous les énigmes!"
-        lien: "/zone-profs/bandits-des-mers/"
       - titre: "Animations"
         texte: "Je visite les bibliothèques pour partager ma passion pour l'écriture."
-        lien: "/animations-biblio/"
       - titre: "Parcours littéraire"
         texte: "Une façon ludique d'intégrer les arts numériques et la littérature en bibliothèque."
-        lien: "/parcours-litteraire/"

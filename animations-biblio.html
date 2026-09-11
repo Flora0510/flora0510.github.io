@@ -6,8 +6,30 @@ permalink: /animations-biblio/
 <div class="wrap" style="padding-top: 3rem; padding-bottom: 3rem;">
 <h1>Animations pour bibliothèques</h1>
 {% assign cle_site = site.filtre_auteure | default: "commun" %}
+
+<div class="texte-large">
 <p>{{ site.data.textes[cle_site].animations_biblio.intro }}</p>
+{% for ref in site.data.textes[cle_site].animations_biblio.references %}
+<div style="margin-top: 2.5rem;">
+<h2>{{ ref.titre }}</h2>
+<p>{{ ref.texte }}</p>
+</div>
+{% endfor %}
+</div>
+
+
 <p><a class="btn" href="mailto:{{ site.email }}">Réserver une animation</a></p>
+
+<div class="separateur-points"><span></span><span></span><span></span></div>
+
+{% if site.filtre_auteure == "" %}
+<div class="filtre-auteures" role="group" aria-label="Filtrer par autrice">
+  <button type="button" class="filtre-btn active" data-filtre="tous">Toutes les animations</button>
+  <button type="button" class="filtre-btn" data-filtre="carolyn">Carolyn</button>
+  <button type="button" class="filtre-btn" data-filtre="lora">Lora</button>
+</div>
+{% endif %}
+</div>
 </div>
 
 <div class="wrap" style="padding-bottom: 3rem;">
@@ -34,14 +56,4 @@ permalink: /animations-biblio/
 {% include animation-card.html animation=animation %}
 {% endunless %}
 {% endfor %}
-</div>
-<div class="texte-large">
-{% for ref in site.data.textes[cle_site].animations_biblio.references %}
-<div style="margin-top: 2.5rem;">
-<h2>{{ ref.titre }}</h2>
-<p>{{ ref.texte }}</p>
-{% if ref.lien %}<p><a href="{{ ref.lien }}" target="_blank" rel="noopener">{{ ref.lien_texte | default: "En savoir plus" }} →</a></p>{% endif %}
-</div>
-{% endfor %}
-</div>
 </div>

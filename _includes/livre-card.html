@@ -1,4 +1,4 @@
-<a class="book" href="{{ include.livre.url | relative_url }}">
+<a class="book" data-auteures="{{ include.livre.auteures | join: ' ' }}" href="{{ include.livre.url | relative_url }}">
   <div class="book-cover{% if include.livre.format == 'carre' %} carre{% endif %}">
     <img src="{{ include.livre.image | relative_url }}" alt="Couverture de {{ include.livre.title }}">
   </div>

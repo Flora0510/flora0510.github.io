@@ -1,4 +1,4 @@
-<a class="ressource-item animation-card" href="{{ include.animation.url | relative_url }}">
+<a class="ressource-item animation-card" data-auteures="{{ include.animation.auteures | join: ' ' }}" href="{{ include.animation.url | relative_url }}">
   <h3 style="margin-bottom: 0.3rem;">{{ include.animation.title }}</h3>
   {% if include.animation.niveaux %}
   <p class="animation-card-niveau">{% for niveau in include.animation.niveaux %}{{ site.data.niveaux_animations[niveau] | default: niveau }}{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
