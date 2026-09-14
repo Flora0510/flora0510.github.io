@@ -2,7 +2,7 @@
 title: "Le détenu de Trois-Rivières"
 
 tome_ordre: 9999
-serie: "Frisson"
+serie: "Frissons"
 auteures: [carolyn]
 illustrateur: "Pascale Crête"
 annee: 2018

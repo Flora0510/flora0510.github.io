@@ -11,7 +11,9 @@
         </p>
         <p>                   
           <a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a><br>
+          {% unless site.filtre_auteure != "" %}
           <a href="{{ '/a-propos/' | relative_url }}">À propos</a><br>
+          {% endunless %}
           <a href="{{ '/contact/' | relative_url }}">Contact</a>
         </p>
       </nav>

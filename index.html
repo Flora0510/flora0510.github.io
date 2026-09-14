@@ -8,8 +8,21 @@ title: Accueil
 <section class="hero">
   <div class="wrap">
     <h1>{{ t.accueil.titre }}</h1>
-    <p>{{ t.accueil.texte }}</p>
-    <p><a class="btn" href="{{ '/livres/' | relative_url }}">Découvrir les livres</a></p>
+    {% if site.filtre_auteure != "" %}
+      {% assign a = site.data.auteures[site.filtre_auteure] %}
+      <div class="auteure-bloc" style="margin-top: 2rem;">
+        {% if a.photo %}
+        <div class="auteure-photo"><img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}"></div>
+        {% endif %}
+        <div class="auteure-texte">
+          {{ a.bio }}
+        </div>
+      </div>
+      <p style="margin-top: 1.5rem;"><a class="btn" href="{{ '/livres/' | relative_url }}">Découvrir les livres</a></p>
+    {% else %}
+      <p>{{ t.accueil.texte }}</p>
+      <p><a class="btn" href="{{ '/livres/' | relative_url }}">Découvrir les livres</a></p>
+    {% endif %}
   </div>
 </section>
 

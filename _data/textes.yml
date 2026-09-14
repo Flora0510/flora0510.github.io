@@ -13,7 +13,7 @@
 
 commun:
   accueil:
-    titre: "Des livres jeunesse à lire et à vivre"
+    titre: "Carolyn Chouinard et Lora Boisvert - Auteures jeunesse"
     texte: "Deux autrices, des aventures pleines d'énigmes, et des animations pour donner le goût de lire aux jeunes!"
     propositions:
       - titre: "Bandits des mers"
@@ -71,7 +71,7 @@ commun:
 
 lora:
   accueil:
-    titre: "Des livres jeunesse à lire et à vivre"
+    titre: "Lora Boisvert - Auteure jeunesse"
     texte: "Des aventures pleines d'énigmes et des animations pour donner le goût de lire aux jeunes!"
     propositions:
       - titre: "Animations scolaires"

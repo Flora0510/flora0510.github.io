@@ -9,7 +9,9 @@
         <li><a href="{{ '/evenements/' | relative_url }}">Événements</a></li>        
         <li><a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a></li>
         <li><a href="{{ '/zone-biblio/' | relative_url }}">Zone biblio</a></li>
+        {% unless site.filtre_auteure != "" %}
         <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>
+        {% endunless %}
         <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
       </ul>
     </nav>

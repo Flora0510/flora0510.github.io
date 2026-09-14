@@ -2,7 +2,7 @@
 title: "Jeu dangereux à Québec"
 
 tome_ordre: 9999
-serie: "Frisson"
+serie: "Frissons"
 auteures: [carolyn]
 annee: 2018
 illustrateur: "Pascale Crête"

@@ -2,7 +2,7 @@
 title: "Terreur sur l'île"
 
 tome_ordre: 9999
-serie: "Frisson"
+serie: "Frissons"
 annee: 2019
 auteures: [carolyn]
 illustrateur: "Pascale Crête"

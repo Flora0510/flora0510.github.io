@@ -2,7 +2,7 @@
 title: "Lieux hantés"
 
 tome_ordre: 9999
-serie: "Frisson"
+serie: "Frissons"
 annee: 2021
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hantes.webp
