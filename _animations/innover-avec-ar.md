@@ -3,7 +3,7 @@ title: "Innover avec la réalité augmentée"
 image: /assets/images/animations/roman-et-realite-augmentee-une-experience-a-decouvrir.jpg
 qui_anime: "Lora"
 region: "Chaudière-Appalaches, Québec, Laval, Laurentides, Montréal"
-romans: ["Le message secret de La Buse ","Le trésor perdu du capitaine John "]
+romans: ["Le message secret de La Buse (Deuxième édition)","Le trésor perdu du capitaine John (Deuxième édition)"]
 niveaux: [anim7]
 auteures: [lora]
 ---

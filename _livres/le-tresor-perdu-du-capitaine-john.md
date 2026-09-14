@@ -1,5 +1,5 @@
 ---
-title: "Le trésor perdu du capitaine John"
+title: "Le trésor perdu du capitaine John (Première édition)"
 serie: "Bandits des mers"
 tome: "2"
 tome_ordre: 4

@@ -3,7 +3,7 @@ title: "Entre fiction et réalité"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
 qui_anime: "Carolyn"
 region: "Chaudière-Appalaches, Québec"
-romans: ["Le bunker de la peur","Le fantôme du fleuve","Le message secret de La Buse ", "Le trésor perdu du capitaine John ","Jeu d'évasion ou complot?"]
+romans: ["Le bunker de la peur","Le fantôme du fleuve","Le message secret de La Buse (Deuxième édition)", "Le trésor perdu du capitaine John (Deuxième édition)","Jeu d'évasion ou complot?"]
 niveaux: [anim5]
 auteures: [carolyn]
 ---

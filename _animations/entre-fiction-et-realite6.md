@@ -3,7 +3,7 @@ title: "Entre fiction et réalité"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
 qui_anime: "Carolyn"
 region: "Chaudière-Appalaches, Québec"
-romans: ["Les secrets de l'anse Trois-Saumons","Le bunker de la peur","Les gardiens du trésor 1","Les gardiens du trésor 2","Le fantôme du fleuve","Le message secret de La Buse ", "Le trésor perdu du capitaine John "]
+romans: ["Les secrets de l'anse Trois-Saumons","Le bunker de la peur","Les gardiens du trésor 1","Les gardiens du trésor 2","Le fantôme du fleuve","Le message secret de La Buse (Deuxième édition)", "Le trésor perdu du capitaine John (Deuxième édition)"]
 niveaux: [anim6]
 auteures: [carolyn]
 ---
