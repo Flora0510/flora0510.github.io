@@ -1,7 +1,7 @@
 ---
 title: "La fée des dents part en mission!"
 format: carre
-tome_ordre: 9999
+tome_ordre: 1
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 illustrateur: "Sabrina Gendron"
@@ -13,8 +13,6 @@ age: "Dès 3 ans"
 ---
 Dentelle, la fée des dents est blessée. Catastrophe! Comment fera-t-elle pour récupérer la dent de Nathan? Son assistant Parmesan propose de l'aider. Mais le souriceau est plutôt maladroit. Est-ce réellement une bonne idée?
 
-​
-
 Thèmes: 
 
 - La fée des dents
@@ -22,3 +20,5 @@ Thèmes:
 - L'entraide
 
 - Le camping
+
+* Note: Cet album est disponible avec une couverture souple ou rigide. 

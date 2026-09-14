@@ -1,7 +1,7 @@
 ---
 title: "La fée des dents est amoureuse"
 format: carre
-tome_ordre: 9999
+tome_ordre: 3
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 annee: 2024

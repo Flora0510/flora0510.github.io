@@ -3,6 +3,7 @@ title: "Enquête à la plage"
 serie: "Ma jumelle et moi"
 tome: "Un roman dont tu es le héros"
 auteures: [carolyn]
+tome_ordre: 9999
 annee: 2019
 illustrateur: "Léa Matte"
 image: /assets/images/livres/enquete-a-la-plage.jpg

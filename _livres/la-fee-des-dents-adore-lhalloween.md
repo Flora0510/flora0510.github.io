@@ -1,7 +1,7 @@
 ---
 title: "La fée des dents adore l'halloween!"
 format: carre
-tome_ordre: 9999
+tome_ordre: 4
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 annee: 2024

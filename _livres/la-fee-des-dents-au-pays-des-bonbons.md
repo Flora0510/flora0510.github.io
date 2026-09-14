@@ -1,7 +1,7 @@
 ---
 title: "La fée des dents au Pays des bonbons"
 format: carre
-tome_ordre: 9999
+tome_ordre: 2
 serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 annee: 2023
@@ -11,7 +11,7 @@ lien_achat: "https://pantoute.leslibraires.ca/livres/la-fee-des-dents-au-pays-ca
 editeur: "Auzou"
 age: "Dès 3 ans"
 ---
-Les jumeaux Jules et Juliette ont perdu chacun une dent. Dentelle, la fée des dents, et Parmesan le souriceau, son assistant, souhaitent leur offrir des sucette arc-en-ciel. On peut en trouver à la boutique Pain d’épice, perchée tout en haut du Pays des bonbons. Pour éviter les ennuis, il ne faut rien manger en cours de route. Une mission quasi impossible pour Parmesan le gourmand...
+Les jumeaux Jules et Juliette ont perdu chacun une dent. Dentelle, la fée des dents, et Parmesan le souriceau, son assistant, souhaitent leur offrir des sucettes arc-en-ciel. On peut en trouver à la boutique Pain d’épice, perchée tout en haut du Pays des bonbons. Pour éviter les ennuis, il ne faut rien manger en cours de route. Une mission quasi impossible pour Parmesan le gourmand...
 
  
 

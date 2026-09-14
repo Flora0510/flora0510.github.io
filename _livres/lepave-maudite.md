@@ -15,7 +15,7 @@ Grande nouvelle: Derek et son père ont ouvert un centre de plongée sous-marine
 
 ✱ découvrir qui fait sonner cette cloche de brume toutes les nuits,
 
-✱ vérifier si l'épave est réellement touchée par une malédiction
+✱ vérifier si l'épave est réellement touchée par une malédiction,
 
 ✱ apprendre comment papi Élie est devenu un héros. 
 

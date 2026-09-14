@@ -19,7 +19,7 @@ layout: default
       <p><strong>Animée par :</strong> {{ page.qui_anime }}</p>
     {% endif %}
     {% if page.region %}
-      <p><strong>Région desservie :</strong> {{ page.region }}</p>
+      <p><strong>Régions desservies :</strong> {{ page.region }}</p>
     {% endif %}
   {% endif %}
 
@@ -40,7 +40,7 @@ layout: default
           <div>
             <h3>{{ livre_lie.title }}</h3>
             <div>{{ livre_lie.content | strip_html | truncatewords: 60 }}</div>
-            <p><a class="btn" href="{{ livre_lie.url | relative_url }}">Voir le livre →</a></p>
+            <p><a class="btn" href="{{ livre_lie.url | relative_url }}">Voir le roman →</a></p>
           </div>
         </div>
         {% endif %}
