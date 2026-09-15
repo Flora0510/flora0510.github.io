@@ -11,8 +11,8 @@ auteures: [lora, carolyn]
 <h2>Romans de Hugo Québec</h2>
 <p>Voici la nouvelle version des romans Bandits des mers!</p>
 <div class="shelf" style="margin-bottom: 2.5rem;">
-{% assign livre1 = site.livres | where: "title", "Le message secret de La Buse " | first %}
-{% assign livre2 = site.livres | where: "title", "Le trésor perdu du capitaine John " | first %}
+{% assign livre1 = site.livres | where: "title", "Le message secret de La Buse (Deuxième édition)" | first %}
+{% assign livre2 = site.livres | where: "title", "Le trésor perdu du capitaine John (Deuxième édition)" | first %}
 {% if livre1 %}{% include livre-card.html livre=livre1 %}{% endif %}
 {% if livre2 %}{% include livre-card.html livre=livre2 %}{% endif %}
 </div>
@@ -20,8 +20,8 @@ auteures: [lora, carolyn]
 
 <h2>Romans des Éditions AppLit</h2>
 <div class="shelf" style="margin-bottom: 2.5rem;">
-{% assign livre1 = site.livres | where: "title", "Le message secret de La Buse" | first %}
-{% assign livre2 = site.livres | where: "title", "Le trésor perdu du capitaine John" | first %}
+{% assign livre1 = site.livres | where: "title", "Le message secret de La Buse (Première édition)" | first %}
+{% assign livre2 = site.livres | where: "title", "Le trésor perdu du capitaine John (Première édition)" | first %}
 {% assign livre3 = site.livres | where: "title", "Aventuriers des mers 1" | first %}
 {% if livre1 %}{% include livre-card.html livre=livre1 %}{% endif %}
 {% if livre2 %}{% include livre-card.html livre=livre2 %}{% endif %}
