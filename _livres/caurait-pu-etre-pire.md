@@ -6,7 +6,8 @@ tome_ordre: 1
 annee: 2016
 illustrateur: "Solène Debiès"
 auteures: [carolyn, lora]
-image: /assets/images/livres/caurait-pu-etre-pire.jpg
+image: /assets/images/livres/caurait-pu-etre-pire.jpg
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-89739-323-6.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-1-c-aurait-carolyn-chouinard-9782897393236.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 10 ans"

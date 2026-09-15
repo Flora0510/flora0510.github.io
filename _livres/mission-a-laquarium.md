@@ -6,7 +6,8 @@ tome_ordre: 9999
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2021
-image: /assets/images/livres/mission-a-laquarium.jpg
+image: /assets/images/livres/mission-a-laquarium.jpg
+extrait: "https://flipbook.cantook.net/?d=%2F%2Fwww.entrepotnumerique.com%2Fflipbook%2Fpublications%2F113719.js&oid=207&c=&m=&l=&r=&f=pdf"
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-et-moi-t-3-carolyn-chouinard-9782898200335.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"

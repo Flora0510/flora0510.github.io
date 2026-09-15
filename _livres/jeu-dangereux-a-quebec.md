@@ -6,7 +6,8 @@ serie: "Frissons"
 auteures: [carolyn]
 annee: 2018
 illustrateur: "Pascale Crête"
-image: /assets/images/livres/jeu-dangereux-a-quebec.jpg
+image: /assets/images/livres/jeu-dangereux-a-quebec.jpg
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-7625-9779-0.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/jeux-dangereux-carolyn-chouinard-9782762597790.html"
 editeur: "Éditions Héritage"
 age: "Dès 9 ans"

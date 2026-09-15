@@ -6,7 +6,8 @@ tome_ordre: 9999
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2019
-image: /assets/images/livres/ou-est-brioche.jpg
+image: /assets/images/livres/ou-est-brioche.jpg
+extrait: "https://flipbook.cantook.net/?d=%2F%2Fwww.entrepotnumerique.com%2Fflipbook%2Fpublications%2F100562.js&oid=207&c=&m=&l=&r=&f=pdf"
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-et-moi-ou-est-brioche-niveau-de-lecture-6-9782897857820"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"

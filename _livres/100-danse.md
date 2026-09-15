@@ -5,7 +5,8 @@ tome: "3"
 tome_ordre: 3
 annee: 2018
 auteures: [carolyn]
-image: /assets/images/livres/100-danse.png
+image: /assets/images/livres/100-danse.png
+extrait: "https://www.entrepotnumerique.com/p/9782897811303"
 lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-3-100-carolyn-chouinard-9782897811297.html"
 editeur: "Hurtubise"
 age: "Dès 10 ans"

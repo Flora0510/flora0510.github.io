@@ -5,7 +5,8 @@ tome: "2"
 tome_ordre: 2
 annee: 2024
 auteures: [carolyn]
-image: /assets/images/livres/compte-a-rebours-2.jpg
+image: /assets/images/livres/compte-a-rebours-2.jpg
+extrait: "https://www.calameo.com/read/003761792dcf53b532519"
 lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-2-le-carolyn-chouinard-9782897467593.html"
 editeur: "Andara"
 age: "Dès 8 ans"

@@ -5,7 +5,8 @@ tome: "1"
 annee: 2018
 tome_ordre: 1
 auteures: [carolyn]
-image: /assets/images/livres/les-gardiens-du-tresor-1.jpg
+image: /assets/images/livres/les-gardiens-du-tresor-1.jpg
+extrait: "https://www.entrepotnumerique.com/p/9782897812287"
 lien_achat: "https://www.leslibraires.ca/livres/les-gardiens-du-tresor-t-1-carolyn-chouinard-9782897812270.html"
 editeur: "Hurtubise"
 age: "Dès 10 ans"

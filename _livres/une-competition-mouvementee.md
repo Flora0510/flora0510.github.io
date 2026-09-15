@@ -5,7 +5,8 @@ tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
 annee: 2017
-image: /assets/images/livres/une-competition-mouvementee.jpg
+image: /assets/images/livres/une-competition-mouvementee.jpg
+extrait: "https://www.entrepotnumerique.com/p/9782897239121"
 lien_achat: "https://www.leslibraires.ca/livres/sur-le-rythme-t-1-une-carolyn-chouinard-9782897239114.html"
 editeur: "Hurtubise"
 age: "Dès 10 ans"

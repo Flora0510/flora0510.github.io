@@ -6,7 +6,8 @@ annee: 2018
 illustrateur: "Solène Debiès"
 tome_ordre: 5
 auteures: [carolyn, lora]
-image: /assets/images/livres/lecole-de-la-cote.jpg
+image: /assets/images/livres/lecole-de-la-cote.jpg
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-89785-195-8.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-5-l-ecole-carolyn-chouinard-9782897851958.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 10 ans"

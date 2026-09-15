@@ -6,7 +6,8 @@ tome_ordre: 4
 auteures: [carolyn, lora]
 illustrateur: "Solène Debiès"
 annee: 2017
-image: /assets/images/livres/lile-sauvage.jpg
+image: /assets/images/livres/lile-sauvage.jpg
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-89739-818-7.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-4-l-ile-carolyn-chouinard-9782897398187.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 10 ans"

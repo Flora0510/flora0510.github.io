@@ -5,7 +5,8 @@ tome: "2"
 tome_ordre: 2
 annee: 2019
 auteures: [carolyn]
-image: /assets/images/livres/les-gardiens-du-tresor-2.jpg
+image: /assets/images/livres/les-gardiens-du-tresor-2.jpg
+extrait: "https://www.entrepotnumerique.com/p/9782897812836"
 lien_achat: "https://www.leslibraires.ca/livres/les-gardiens-du-tresor-t-2-carolyn-chouinard-9782897812829.html"
 editeur: "Hurtubise"
 age: "Dès 10 ans"

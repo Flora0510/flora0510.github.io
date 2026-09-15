@@ -5,7 +5,8 @@ tome: "1"
 tome_ordre: 1
 auteures: [carolyn]
 annee: 2023
-image: /assets/images/livres/lautre-monde.jpg
+image: /assets/images/livres/lautre-monde.jpg
+extrait: "https://www.calameo.com/read/003761792dd336b398827"
 lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-01-la-quete-carolyn-chouinard-9782897098629.html"
 editeur: "Éditions Boomerang"
 age: "Dès 9 ans"

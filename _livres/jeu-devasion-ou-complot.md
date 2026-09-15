@@ -5,7 +5,8 @@ tome_ordre: 9999
 serie: "Slalom"
 annee: 2021
 auteures: [carolyn]
-image: /assets/images/livres/jeu-devasion-ou-complot.jpg
+image: /assets/images/livres/jeu-devasion-ou-complot.jpg
+extrait: "https://fr.calameo.com/read/003761792d7f78cf6e7c5"
 lien_achat: "https://www.leslibraires.ca/livres/jeu-d-evasion-ou-complot-carolyn-chouinard-9782897095116.html"
 editeur: "Éditions Boomerang"
 age: "Dès 9 ans"

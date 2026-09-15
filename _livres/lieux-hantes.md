@@ -5,7 +5,8 @@ tome_ordre: 9999
 serie: "Frissons"
 annee: 2021
 auteures: [carolyn]
-image: /assets/images/livres/lieux-hantes.webp
+image: /assets/images/livres/lieux-hantes.webp
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-7625-9779-0.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/lieux-hantes-carolyn-chouinard-9782898123009.html"
 editeur: "Éditions Héritage"
 age: "Dès 9 ans"

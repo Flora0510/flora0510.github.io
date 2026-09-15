@@ -6,7 +6,8 @@ tome_ordre: 2
 annee: 2016
 auteures: [carolyn, lora]
 illustrateur: "Solène Debiès"
-image: /assets/images/livres/mensonges-et-manigances.jpg
+image: /assets/images/livres/mensonges-et-manigances.jpg
+extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-89739-472-1.pdf"
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-2-mensonges-et-carolyn-chouinard-9782897394721.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 10 ans"

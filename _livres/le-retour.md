@@ -5,7 +5,8 @@ tome: "2"
 tome_ordre: 2
 annee: 2024
 auteures: [carolyn]
-image: /assets/images/livres/le-retour.jpg
+image: /assets/images/livres/le-retour.jpg
+extrait: "https://www.calameo.com/read/0037617928a50e7268b4d"
 lien_achat: "https://www.leslibraires.ca/livres/l-autre-monde-t-2-le-carolyn-chouinard-9782897099299.html"
 editeur: "Éditions Boomerang"
 age: "Dès 9 ans"

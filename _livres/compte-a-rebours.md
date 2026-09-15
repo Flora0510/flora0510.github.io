@@ -5,7 +5,8 @@ tome: "1"
 tome_ordre: 1
 annee: 2023
 auteures: [carolyn]
-image: /assets/images/livres/compte-a-rebours.jpg
+image: /assets/images/livres/compte-a-rebours.jpg
+extrait: "https://www.calameo.com/read/003761792e660b63a53b9"
 lien_achat: "https://www.leslibraires.ca/livres/compte-a-rebours-t-1-enquete-carolyn-chouinard-9782897466480.html"
 editeur: "Andara"
 age: "Dès 8 ans"
