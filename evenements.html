@@ -8,7 +8,9 @@ permalink: /evenements/
 <p>Venez nous rencontrer lors des événements en salon du livre, en librairie ou en bibliothèque.</p>
 
 {% if site.filtre_auteure != "" %}
-{% assign evenements_affiches = site.evenements | where_exp: "e", "e.auteures == nil or e.auteures contains site.filtre_auteure" %}
+{% assign evenements_communs = site.evenements | where_exp: "e", "e.auteures == nil" %}
+{% assign evenements_specifiques = site.evenements | where_exp: "e", "e.auteures contains site.filtre_auteure" %}
+{% assign evenements_affiches = evenements_communs | concat: evenements_specifiques %}
 {% else %}
 {% assign evenements_affiches = site.evenements %}
 {% endif %}
