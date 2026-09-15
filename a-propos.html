@@ -18,19 +18,10 @@ permalink: /a-propos/
 </div>
 </div>
 {% else %}
-<div class="auteure-bloc">
-{% if site.data.textes.commun.a_propos.image %}
-<div class="auteure-photo"><img src="{{ site.data.textes.commun.a_propos.image | relative_url }}" alt="Lora Boisvert et Carolyn Chouinard"></div>
-{% endif %}
-<div class="auteure-texte">
-<p style="margin: 0;">{{ site.data.textes.commun.a_propos.texte }}</p>
-</div>
-</div>
-
 {% for entree in site.data.auteures %}
 {% assign cle = entree[0] %}
 {% assign a = entree[1] %}
-<div class="auteure-bloc auteure-bloc--inverse">
+<div class="auteure-bloc{% unless cle == 'lora' %} auteure-bloc--inverse{% endunless %}">
 {% if a.photo %}
 <div class="auteure-photo"><img src="{{ a.photo | relative_url }}" alt="Photo de {{ a.nom }}"></div>
 {% endif %}
