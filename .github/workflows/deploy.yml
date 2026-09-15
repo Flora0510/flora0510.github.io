@@ -18,11 +18,11 @@ jobs:
           - nom: lora
             config: _config.yml,_config_lora.yml
             repo_cible: Flora0510/site_lora        # <-- à remplacer
-            domaine: https://flora0510.github.io/site_lora/                    # <-- à remplacer
+            domaine: loraboisvert.ca                    # <-- à remplacer
           - nom: carolyn
             config: _config.yml,_config_carolyn.yml
             repo_cible: Flora0510/site_carolyn      # <-- à remplacer
-            domaine: https://flora0510.github.io/site_carolyn/                  # <-- à remplacer
+            domaine: carolynchouinard.ca                  # <-- à remplacer
 
     steps:
       - name: Récupérer le dépôt source
