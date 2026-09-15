@@ -1,0 +1,28 @@
+---
+layout: default
+title: Événements
+permalink: /evenements/
+---
+<div class="wrap texte-large" style="padding-top: 3rem; padding-bottom: 3rem;">
+<h1>Événements</h1>
+<p>Venez nous rencontrer lors des événements en salon du livre, en librairie ou en bibliothèque.</p>
+
+{% if site.filtre_auteure != "" %}
+{% assign evenements_affiches = site.evenements | where_exp: "e", "e.auteures == nil or e.auteures contains site.filtre_auteure" %}
+{% else %}
+{% assign evenements_affiches = site.evenements %}
+{% endif %}
+{% assign evenements_affiches = evenements_affiches | sort: "date_tri" | reverse %}
+
+{% for evenement in evenements_affiches %}
+<div class="evenement">
+<span class="date">{{ evenement.date }}</span>
+<h3>{{ evenement.title }}</h3>
+<p>{{ evenement.lieu }}</p>
+</div>
+{% endfor %}
+
+{% if evenements_affiches.size == 0 %}
+<p>Aucun événement de prévu pour le moment.</p>
+{% endif %}
+</div>
