@@ -25,7 +25,7 @@ layout: default
 
   <div>{{ content }}</div>
   
-  <p><a class="btn" href="mailto:{{ site.email }}">Réserver cette animation</a></p>
+  <p>{% include mailto.html class="btn" texte="Réserver cette animation" %}</p>
 
   {% if page.romans %}
     <section style="margin-top: 3rem;">

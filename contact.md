@@ -7,9 +7,9 @@ permalink: /contact/
   <h1>Contact</h1>
   <p>Une question, une réservation d'animation, une demande ? </p>  
   
-  <p style="margin-top: 1rem;">{{ site.email }}</p>
+  <p style="margin-top: 1rem;">{% include mailto.html afficher_adresse=true %}</p>
 
-  <p><a class="btn" href="mailto:{{ site.email }}">Envoyer un message</a></p>
+  <p>{% include mailto.html class="btn" texte="Envoyer un message" %}</p>
 
  
 </div>

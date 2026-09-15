@@ -1,0 +1,1 @@
+<a href="#"{% if include.class %} class="{{ include.class }}"{% endif %} data-mailto-user="{{ site.email | split: '@' | first }}" data-mailto-domain="{{ site.email | split: '@' | last }}"{% if include.afficher_adresse %} data-mailto-texte{% endif %}>{% unless include.afficher_adresse %}{{ include.texte }}{% endunless %}</a>
