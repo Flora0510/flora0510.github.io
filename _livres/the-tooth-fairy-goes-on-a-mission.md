@@ -6,7 +6,7 @@ serie: "La fée des dents - Collection Mes grands albums"
 auteures: [carolyn]
 illustrateur: "Sabrina Gendron"
 annee: 2024
-image: /assets/images/livres/la-fee-des-dents-part-en-mission.webp
+image: /assets/images/livres/toothFairy.png
 lien_achat: "https://www.leslibraires.ca/livres/the-tooth-fairy-goes-on-a-carolyn-chouinard-9782898245008.html"
 editeur: "Auzou"
 age: "Dès 3 ans"
