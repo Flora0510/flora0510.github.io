@@ -6,8 +6,9 @@ auteures: [carolyn]
 tome_ordre: 9999
 annee: 2019
 illustrateur: "Léa Matte"
-image: /assets/images/livres/enquete-a-la-plage.jpg
-extrait: "https://flipbook.cantook.net/?d=%2F%2Fwww.entrepotnumerique.com%2Fflipbook%2Fpublications%2F106978.js&oid=207&c=&m=&l=&r=&f=pdf"
+image: /assets/images/livres/enquete-a-la-plage.jpg
+
+extrait: "https://r.cantook.com/enqc/sample/aHR0cHM6Ly93d3cuZW50cmVwb3RudW1lcmlxdWUuY29tL3NhbXBsZS8xMDY5Nzgvd2ViX3JlYWRlcl9tYW5pZmVzdD9mb3JtYXRfbmF0dXJlPXBkZiZzaWdpZD0xNzI2MzE2NTM2JnNpZ25hdHVyZT0yZTVlOGNjN2NmOWNkMTg4MzUxMTU3MTQ5ZDQ2MzUwYmJkNTg5NWQwMWIwNzNlYmJkZWQzYTFiMDM0MGNlOGIw"
 lien_achat: "https://www.leslibraires.ca/livres/enquete-a-la-plage-carolyn-chouinard-9782897855918.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 7 ans"
