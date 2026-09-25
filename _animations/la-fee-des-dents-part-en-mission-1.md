@@ -1,6 +1,6 @@
 ---
 title: "Fée ou licorne?"
-romans: ["La fée des dents part en mission!", "Léa la licorne se fait des amis","Léa la licorne apprend à voler", "La fée des dents au Pays des bonbons","La fée des dents est amoureuse", "La fée des dents adore l'halloween!"]
+romans: ["Léa la licorne se fait des amis","Léa la licorne apprend à voler", "La fée des dents part en mission!", "La fée des dents au Pays des bonbons","La fée des dents est amoureuse", "La fée des dents adore l'halloween!"]
 qui_anime: "Carolyn"
 region: "Chaudière-Appalaches, Québec"
 image: /assets/images/animations/la-fee-des-dents-part-en-mission-1.png

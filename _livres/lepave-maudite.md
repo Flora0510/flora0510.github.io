@@ -7,6 +7,7 @@ annee: 2016
 illustrateur: "Solène Debiès"
 auteures: [carolyn, lora]
 image: /assets/images/livres/lepave-maudite.jpg
+extrait: "https://r.cantook.com/enqc/sample/aHR0cHM6Ly93d3cuZW50cmVwb3RudW1lcmlxdWUuY29tL3NhbXBsZS83NDM1OS93ZWJfcmVhZGVyX21hbmlmZXN0P2Zvcm1hdF9uYXR1cmU9cGRmJnNpZ2lkPTE3MjYzMTY1MzYmc2lnbmF0dXJlPWNhOGFjYWVjNmJiZWM2OWQyZjY0YmQxNTlhYTZkNjcwNGJiMTQ0NTVlOWYyYmRjM2RjZGE5ZDk3YjRkODE4YWE"
 lien_achat: "https://www.leslibraires.ca/livres/so-nice-t-3-l-epave-carolyn-chouinard-9782897395452.html"
 editeur: "Dominique et Compagnie"
 age: "Dès 10 ans"

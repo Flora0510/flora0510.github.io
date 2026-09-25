@@ -3,7 +3,7 @@ title: "D'une aventure à l'autre"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
 qui_anime: "Carolyn"
 region: "Chaudière-Appalaches, Québec"
-romans: ["La quête","Lieux hantés (Deuxième édition)","Le message secret de La Buse (Deuxième édition)", "Le trésor perdu du capitaine John (Deuxième édition)","Le retour","Qui es-tu mystérieux inconnu?","Je veux vivre ma passion!","Des papillons dans le cœur!","Pas le choix d'aller au camp d'été..."]
+romans: ["Lieux hantés (Deuxième édition)","La quête","Le retour","Le message secret de La Buse (Deuxième édition)", "Le trésor perdu du capitaine John (Deuxième édition)","Pas le choix d'aller au camp d'été...","Qui es-tu mystérieux inconnu?","Je veux vivre ma passion!","Des papillons dans le cœur!"]
 niveaux: [anim4]
 auteures: [carolyn]
 ---

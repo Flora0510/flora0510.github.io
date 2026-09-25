@@ -3,7 +3,7 @@ title: "D'une aventure à l'autre"
 image: /assets/images/animations/dune-aventure-a-lautre.jpg
 qui_anime: "Carolyn"
 region: "Chaudière-Appalaches, Québec"
-romans: ["Enquête à Camelot","Lieux hantés (Deuxième édition)","La mission de Pendragon","Le voeu de Sofia", "Le piège maléfique", "Le défi du roi", "Magie noire", "Des ailes pour Sofia", "Amis et liberté!", "Le bal des fées", "Les princes ont disparu!", "Le sablier arc-en-ciel", "Aventuriers des mers 1", "Le puits magique"]
+romans: ["Lieux hantés (Deuxième édition)","Enquête à Camelot","Le puits magique","La mission de Pendragon","Le piège maléfique", "Le défi du roi", "Magie noire", "Le voeu de Sofia", "Des ailes pour Sofia", "Amis et liberté!", "Le bal des fées", "Les princes ont disparu!", "Le sablier arc-en-ciel", "Aventuriers des mers 1"]
 niveaux: [anim3]
 auteures: [carolyn]
 ---

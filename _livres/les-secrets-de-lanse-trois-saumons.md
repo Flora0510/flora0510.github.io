@@ -7,6 +7,7 @@ auteures: [carolyn, lora]
 illustrateur: "Kinos"
 image: /assets/images/livres/les-secrets-de-lanse-trois-saumons.png
 lien_achat: "https://www.leslibraires.ca/livres/les-secrets-de-l-anse-trois-saumons-9782925562191?srsltid=AfmBOorUTpTwC9BaboLVAN2gf0AjOQPbzbagSpXliiEgEGJxQCfYI-eQ"
+extrait: "https://assets.entrepotnumerique.com/medias/7e/d524aa21629df96d485c103b869911ba92ec7b.epub"
 editeur: "Hugo roman"
 age: "Dès 12 ans"
 ---
