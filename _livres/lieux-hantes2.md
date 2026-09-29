@@ -7,6 +7,7 @@ annee: 2026
 auteures: [carolyn]
 image: /assets/images/livres/lieux-hante-2.jpg
 lien_achat: "https://www.leslibraires.ca/livres/lieux-hantes-jeux-dangereux-a-quebec-le-detenu-de-trois-rivieres-terreur-sur-l-ile-9782898415999"
+fiche_pedagogique: "https://cdn.shopify.com/s/files/1/0655/5962/5944/files/Fiche_comprehension_DetenuTroisRivieres.pdf?v=1760721455"
 extrait: "https://www.dominiqueetcompagnie.com/catalogue/pdf_preview/978-2-7625-9779-0.pdf"
 editeur: "Éditions Héritage"
 age: "Dès 9 ans"

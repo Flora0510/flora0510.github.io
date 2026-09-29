@@ -50,7 +50,11 @@ layout: default
       {% endif %}
       {% assign jeu_evasion = site.ressources | where_exp: "r", "r.romans contains page.title" | first %}
       {% if jeu_evasion %}
-        <p><a href="{{ jeu_evasion.url | relative_url }}">Voir le jeu d'évasion littéraire →</a></p>
+        <h2 style="margin-top: 2.5rem;">Jeu d'évasion littéraire</h2>
+        <div class="feature-card">
+          <p>Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman.</p>
+          <p><a href="{{ jeu_evasion.url | relative_url }}">Accéder au jeu d'évasion →</a></p>
+        </div>
       {% endif %}
       {% if page.serie == "Bandits des mers" %}
         <p style="margin-top: 1.5rem;">Pour télécharger l'application :</p>
