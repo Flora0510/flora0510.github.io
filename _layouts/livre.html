@@ -48,16 +48,9 @@ layout: default
       {% if page.extrait %}
         <p><a href="{{ page.extrait }}" target="_blank" rel="noopener">Lire un extrait →</a></p>
       {% endif %}
-      {% assign jeu_evasion = site.ressources | where_exp: "r", "r.romans contains page.title" | first %}
-      {% if jeu_evasion %}
-        <h2 style="margin-top: 2.5rem;">Jeu d'évasion littéraire</h2>
-        <div class="feature-card">
-          <p>Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman.</p>
-          <p><a href="{{ jeu_evasion.url | relative_url }}">Accéder au jeu d'évasion →</a></p>
-        </div>
-      {% endif %}
       {% if page.serie == "Bandits des mers" %}
-        <p style="margin-top: 1.5rem;">Pour télécharger l'application :</p>
+      <h2 style="margin-top: 2.5rem;">Application</h2>  
+      <p style="margin-top: 1.5rem;">Pour télécharger l'application :</p>
         <div class="feature-grid">
           <div class="feature-card">
             <h3>Apple</h3>
@@ -69,6 +62,14 @@ layout: default
             <p><a href="https://play.google.com/store/apps/details?id=com.editionsApplit.CryptoLaBuse&pcampaignid=web_share">Télécharger sur Google Play</a></p>
             <p><img src="/assets/images/ressources/Android.jpg" alt="Code QR" width="300"></p>
           </div>
+        </div>
+      {% endif %}
+      {% assign jeu_evasion = site.ressources | where_exp: "r", "r.romans contains page.title" | first %}
+      {% if jeu_evasion %}
+        <h2 style="margin-top: 2.5rem;">Jeu d'évasion littéraire</h2>
+        <div class="feature-card">
+          <p>Une aventure littéraire qui propose une série d'énigmes et d'interactions en lien étroit avec un extrait du roman.</p>
+          <p><a href="{{ jeu_evasion.url | relative_url }}">Accéder au jeu d'évasion →</a></p>
         </div>
       {% endif %}
     </div>
