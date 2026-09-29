@@ -48,6 +48,10 @@ layout: default
       {% if page.extrait %}
         <p><a href="{{ page.extrait }}" target="_blank" rel="noopener">Lire un extrait →</a></p>
       {% endif %}
+      {% assign jeu_evasion = site.ressources | where_exp: "r", "r.romans contains page.title" | first %}
+      {% if jeu_evasion %}
+        <p><a href="{{ jeu_evasion.url | relative_url }}">Voir le jeu d'évasion littéraire →</a></p>
+      {% endif %}
       {% if page.serie == "Bandits des mers" %}
         <p style="margin-top: 1.5rem;">Pour télécharger l'application :</p>
         <div class="feature-grid">

@@ -1,1 +1,3 @@
-editionsapplit.com
+---
+---
+{{ site.url | remove: "https://" | remove: "http://" }}

@@ -11,8 +11,25 @@ resume: "Fiches pédagogiques téléchargeables pour les romans qui en proposent
 {% endif %}
 {% assign livres_avec_fiche = livres_avec_fiche | where_exp: "l", "l.fiche_pedagogique" %}
 
+{% assign avec_serie = livres_avec_fiche | where_exp: "l", "l.serie" %}
+{% assign sans_serie = livres_avec_fiche | where_exp: "l", "l.serie == nil" %}
+{% assign groupes_series = avec_serie | group_by: "serie" %}
+{% assign groupes_series = groupes_series | sort: "name" %}
+{% assign sans_serie = sans_serie | sort: "title" %}
+
 <div class="shelf" style="margin-top: 1.5rem;">
-{% for livre in livres_avec_fiche %}
+{% for groupe in groupes_series %}
+{% assign items_tries = groupe.items | sort: "tome_ordre" %}
+{% for livre in items_tries %}
+<a class="book" href="{{ livre.fiche_pedagogique }}" target="_blank" rel="noopener">
+<div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
+<img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
+</div>
+<h3>{{ livre.title }}</h3>
+</a>
+{% endfor %}
+{% endfor %}
+{% for livre in sans_serie %}
 <a class="book" href="{{ livre.fiche_pedagogique }}" target="_blank" rel="noopener">
 <div class="book-cover{% if livre.format == 'carre' %} carre{% endif %}">
 <img src="{{ livre.image | relative_url }}" alt="Couverture de {{ livre.title }}">
