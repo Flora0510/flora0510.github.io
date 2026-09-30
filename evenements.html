@@ -14,7 +14,7 @@ permalink: /evenements/
 {% else %}
 {% assign evenements_affiches = site.evenements %}
 {% endif %}
-{% assign evenements_affiches = evenements_affiches | sort: "date_tri" | reverse %}
+{% assign evenements_affiches = evenements_affiches | sort: "date_tri" %}
 
 {% for evenement in evenements_affiches %}
 <div class="evenement">
