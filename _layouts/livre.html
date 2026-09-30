@@ -64,7 +64,9 @@ layout: default
           </div>
         </div>
       {% endif %}
-      {% assign jeu_evasion = site.ressources | where_exp: "r", "r.romans contains page.title" | first %}
+      {% assign jeu_evasion_a = site.ressources | where_exp: "r", "r.romans contains page.title" %}
+      {% assign jeu_evasion_b = site.ressources | where_exp: "r", "r.livres_lies contains page.title" %}
+      {% assign jeu_evasion = jeu_evasion_a | concat: jeu_evasion_b | first %}
       {% if jeu_evasion %}
         <h2 style="margin-top: 2.5rem;">Jeu d'évasion littéraire</h2>
         <div class="feature-card">
