@@ -6,6 +6,7 @@ tome_ordre: 6
 illustrateur: "Léa Matte"
 annee: 2018
 auteures: [carolyn]
+extrait: "https://www.entrepotnumerique.com/p/72226"
 image: /assets/images/livres/la-chasse-au-tresor.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-la-chasse-au-carolyn-chouinard-9782897853044.html"
 editeur: "Dominique et Compagnie"

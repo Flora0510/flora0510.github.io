@@ -6,6 +6,7 @@ tome_ordre: 8
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2018
+extrait: "https://www.entrepotnumerique.com/p/72860"
 image: /assets/images/livres/un-phoque-a-la-rescousse.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-8-un-carolyn-chouinard-9782897854171.html"
 editeur: "Dominique et Compagnie"

@@ -6,6 +6,7 @@ tome_ordre: 7
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2018
+extrait: "https://www.entrepotnumerique.com/p/72857"
 image: /assets/images/livres/un-admirateur-secret.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-7-un-carolyn-chouinard-9782897854058.html"
 editeur: "Dominique et Compagnie"

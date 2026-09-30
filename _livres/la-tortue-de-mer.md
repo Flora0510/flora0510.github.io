@@ -6,6 +6,7 @@ tome_ordre: 5
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2018
+extrait: "https://www.entrepotnumerique.com/p/72223"
 image: /assets/images/livres/la-tortue-de-mer.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-la-tortue-de-carolyn-chouinard-9782897853020.html"
 editeur: "Dominique et Compagnie"

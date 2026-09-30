@@ -9,7 +9,7 @@ auteures: [carolyn]
 ---
 Dans le cadre de cette animation, je proposerai aux élèves la lecture d’un album appartenant à l’une des deux séries suivantes : La fée des dents ou Léa la licorne. 
 
-Dans les quatre albums de la série La fée des dents, Dentelle part en mission pour récupérer la dent d’un enfant, accompagnée de son assistant Parmesan, une souris aussi attachante que maladroite. 
+Dans les quatre albums de la série La fée des dents, Dentelle part en mission pour récupérer la dent d’un enfant, accompagnée de son assistant Parmesan, une souris aussi maladroite qu'attachante. 
 
 Léa la licorne se fait des amis, raconte comment Léa, une licorne des tropiques, apprivoise sa nouvelle vie auprès des licornes des bois et apprend à se faire accepter telle qu’elle est. 
 

@@ -6,6 +6,7 @@ tome_ordre: 3
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2017
+extrait: "https://www.entrepotnumerique.com/p/69865"
 image: /assets/images/livres/un-chaton-trop-mignon.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-3-un-carolyn-chouinard-9782897850227.html"
 editeur: "Dominique et Compagnie"

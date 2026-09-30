@@ -1,7 +1,7 @@
 ---
 title: "Aventuriers des mers, un livre animé!"
 image: /assets/images/animations/aventuriers-des-mers-un-livre-anime.jpg
-qui_anime: "Carolyn ou Lora"
+qui_anime: "Lora"
 region: "Chaudière-Appalaches, Québec, Laval, Laurentides, Montréal"
 romans: ["Aventuriers des mers 1"]
 niveaux: [anim2]

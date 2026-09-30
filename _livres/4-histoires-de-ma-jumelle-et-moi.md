@@ -6,6 +6,7 @@ tome_ordre: 9999
 annee: 2021
 illustrateur: "Léa Matte"
 auteures: [carolyn]
+extrait: "https://www.entrepotnumerique.com/p/113716"
 image: /assets/images/livres/4-histoires-de-ma-jumelle-et-moi.webp
 lien_achat: "https://www.leslibraires.ca/livres/le-grand-livre-d-anais-et-carolyn-chouinard-9782897857615.html"
 editeur: "Dominique et Compagnie"

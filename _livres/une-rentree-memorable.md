@@ -6,6 +6,7 @@ tome_ordre: 1
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2017
+extrait: "https://www.entrepotnumerique.com/p/72220"
 image: /assets/images/livres/une-rentree-memorable.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-une-rentree-memorable-carolyn-chouinard-9782897398675.html"
 editeur: "Dominique et Compagnie"

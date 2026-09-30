@@ -15,4 +15,4 @@ Coucou, c’est Mila! Avec la fin de la saison de patinage artistique arrive le 
 
 Grande nouvelle : le club des Pirouettes se joindra à nous pour l’événement. 
 
-Arriverons- nous à nous entendre avec nos rivaux pour créer un spectacle grandiose?
+Arriverons-nous à nous entendre avec nos rivaux pour créer un spectacle grandiose?

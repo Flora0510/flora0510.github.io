@@ -6,6 +6,7 @@ tome_ordre: 11
 annee: 2019
 illustrateur: "Léa Matte"
 auteures: [carolyn, lora]
+extrait: "https://www.entrepotnumerique.com/p/107174"
 image: /assets/images/livres/soccer-entre-amies.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-11-soccer-carolyn-chouinard-9782897855383.html"
 editeur: "Dominique et Compagnie"

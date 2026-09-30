@@ -6,6 +6,7 @@ tome_ordre: 13
 illustrateur: "Léa Matte"
 auteures: [carolyn]
 annee: 2019
+extrait: "https://www.entrepotnumerique.com/p/100556"
 image: /assets/images/livres/la-grande-parade.jpg
 lien_achat: "https://www.leslibraires.ca/livres/ma-jumelle-moi-t-13-la-carolyn-chouinard-9782897857189.html"
 editeur: "Dominique et Compagnie"
