@@ -31,6 +31,9 @@ collections:
   animations:
     output: true
     permalink: /animations/:path/
+  artiste-numerique:
+    output: true
+    permalink: /artiste-numerique/:path/
 
 defaults:
   - scope:
@@ -48,6 +51,11 @@ defaults:
       type: "animations"
     values:
       layout: "animation"
+  - scope:
+      path: ""
+      type: "artiste-numerique"
+    values:
+      layout: "ressource"
   - scope:
       path: ""
     values:

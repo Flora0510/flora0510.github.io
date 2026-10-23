@@ -9,6 +9,14 @@
         <li><a href="{{ '/evenements/' | relative_url }}">Événements</a></li>        
         <li><a href="{{ '/zone-profs/' | relative_url }}">Zone profs</a></li>
         <li><a href="{{ '/zone-biblio/' | relative_url }}">Zone biblio</a></li>
+        {% if site.filtre_auteure == "lora" %}
+        <li><a href="{{ '/artiste-numerique/' | relative_url }}"
+        {% if page.url contains '/artiste-numerique/' %}
+         aria-current="page"
+        {% endif %}>
+         Artiste numérique
+        </a></li>
+        {% endif %}
         {% unless site.filtre_auteure != "" %}
         <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>
         {% endunless %}

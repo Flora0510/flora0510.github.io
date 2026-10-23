@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artiste numérique
+permalink: /artiste-numerique/
+---
+<div class="wrap" style="padding-top: 3rem; padding-bottom: 3rem;">
+<h1>Artiste numérique</h1>
+<p>Voici différents projets que j'ai réalisés en tant qu'artiste numérique.</p>
+
+</div>
+
+
+
+<div class="wrap" style="padding-bottom: 3rem;">
+  <div class="animation-grid">
+    {% for projet in site.artiste-numerique %}
+      {% include artiste-card.html projet=projet %}
+    {% endfor %}
+  </div>
+</div>
+
